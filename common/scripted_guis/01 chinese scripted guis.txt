@@ -1,0 +1,49 @@
+scripted_gui = {
+	china_league_war_gui = {
+		context_type = decision_category
+		window_name = "china_league_war_gui_window"
+
+		ai_enabled = {
+			always = no
+		}
+
+		properties = {
+			china_league_war_flame = {
+				frame = china_league_war_flame_frame_var
+			}
+
+			china_league_war_collage_icon_chen = {
+				frame = ANQ.LEP_dead_factor?1
+			}
+			china_league_war_collage_icon_qi = {
+				frame = LEP.LEP_dead_factor?1
+			}
+			china_league_war_collage_icon_wang = {
+				frame = CHI.LEP_dead_factor?1
+			}
+			china_league_war_collage_icon_tinaran = {
+				frame = SQI.LEP_dead_factor?1
+			}
+			china_league_war_collage_icon_zongchang = {
+				frame = SQI.LEP_dead_factor?1
+			}
+		}
+
+		triggers = {
+			china_league_war_collage_icon_zongchang_visible = {
+				SQI = { SQI_is_led_by_zongchang = yes }
+			}
+
+			china_league_war_collage_icon_tinaran_visible = {
+				SQI = { SQI_is_led_by_tianran = yes }
+			}
+
+			china_league_war_collage_icon_sun_visible = {
+				SQI = {
+					SQI_is_led_by_zongchang = no
+					SQI_is_led_by_tianran = no
+				}
+			}
+		}
+	}
+}

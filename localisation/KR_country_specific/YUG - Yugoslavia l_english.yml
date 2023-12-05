@@ -1,0 +1,440 @@
+﻿l_english:
+
+### Country Names ###
+
+ YUG: "Yugoslavia"
+ YUG_ADJ: "Yugoslavian"
+ YUG_DEF: "Yugoslavia"
+
+ YUG_totalist: "Socialist Republic of Yugoslavia"
+ YUG_totalist_ADJ: "Yugoslavian"
+ YUG_totalist_DEF: "the Socialist Republic of Yugoslavia"
+ YUG_syndicalist: "Socialist Republic of Yugoslavia"
+ YUG_syndicalist_ADJ: "Yugoslavian"
+ YUG_syndicalist_DEF: "the Socialist Republic of Yugoslavia"
+ YUG_radical_socialist: "Socialist Republic of Yugoslavia"
+ YUG_radical_socialist_ADJ: "Yugoslavian"
+ YUG_radical_socialist_DEF: "the Socialist Republic of Yugoslavia"
+ YUG_social_democrat: "Yugoslavia"
+ YUG_social_democrat_ADJ: "Yugoslavian"
+ YUG_social_democrat_DEF: "the Kingdom of Serbs, Croats and Slovenes"
+ YUG_social_liberal: "Yugoslavia"
+ YUG_social_liberal_ADJ: "Yugoslavian"
+ YUG_social_liberal_DEF: "the Kingdom of Serbs, Croats and Slovenes"
+ YUG_market_liberal: "Yugoslavia"
+ YUG_market_liberal_ADJ: "Yugoslavian"
+ YUG_market_liberal_DEF: "the Kingdom of Serbs, Croats and Slovenes"
+ YUG_social_conservative: "Yugoslavia"
+ YUG_social_conservative_ADJ: "Yugoslavian"
+ YUG_social_conservative_DEF: "the Kingdom of Serbs, Croats and Slovenes"
+ YUG_authoritarian_democrat: "Yugoslavia"
+ YUG_authoritarian_democrat_ADJ: "Yugoslavian"
+ YUG_authoritarian_democrat_DEF: "the Kingdom of Yugoslavia"
+ YUG_paternal_autocrat: "Yugoslavia"
+ YUG_paternal_autocrat_ADJ: "Yugoslavian"
+ YUG_paternal_autocrat_DEF: "the Kingdom of Yugoslavia"
+ YUG_national_populist: "Yugoslavia"
+ YUG_national_populist_ADJ: "Yugoslavian"
+ YUG_national_populist_DEF: "the Kingdom of Yugoslavia"
+
+ YUG_fed: "Yugoslavia"
+ YUG_fed_ADJ: "Yugoslavian"
+ YUG_fed_DEF: "Yugoslavia"
+
+ YUG_rep: "Yugoslavia"
+ YUG_rep_ADJ: "Yugoslavian"
+ YUG_rep_DEF: "Yugoslavia"
+
+ YUG_rep_totalist: "Yugoslavia"
+ YUG_rep_totalist_ADJ: "Yugoslavian"
+ YUG_rep_totalist_DEF: "the Socialist Republic of Yugoslavia"
+ YUG_rep_syndicalist: "Yugoslavia"
+ YUG_rep_syndicalist_ADJ: "Yugoslavian"
+ YUG_rep_syndicalist_DEF: "the Socialist Republic of Yugoslavia"
+ YUG_rep_radical_socialist: "Yugoslavia"
+ YUG_rep_radical_socialist_ADJ: "Yugoslavian"
+ YUG_rep_radical_socialist_DEF: "the Socialist Republic of Yugoslavia"
+ YUG_rep_social_democrat: "Yugoslavia"
+ YUG_rep_social_democrat_ADJ: "Yugoslavian"
+ YUG_rep_social_democrat_DEF: "the Republic of Serbs, Croats and Slovenes"
+ YUG_rep_social_liberal: "Yugoslavia"
+ YUG_rep_social_liberal_ADJ: "Yugoslavian"
+ YUG_rep_social_liberal_DEF: "the Republic of Serbs, Croats and Slovenes"
+ YUG_rep_market_liberal: "Yugoslavia"
+ YUG_rep_market_liberal_ADJ: "Yugoslavian"
+ YUG_rep_market_liberal_DEF: "the Republic of Serbs, Croats and Slovenes"
+ YUG_rep_social_conservative: "Yugoslavia"
+ YUG_rep_social_conservative_ADJ: "Yugoslavian"
+ YUG_rep_social_conservative_DEF: "the Republic of Serbs, Croats and Slovenes"
+ YUG_rep_authoritarian_democrat: "Yugoslavia"
+ YUG_rep_authoritarian_democrat_ADJ: "Yugoslavian"
+ YUG_rep_authoritarian_democrat_DEF: "the Republic of Yugoslavia"
+ YUG_rep_paternal_autocrat: "Yugoslavia"
+ YUG_rep_paternal_autocrat_ADJ: "Yugoslavian"
+ YUG_rep_paternal_autocrat_DEF: "the Republic of Yugoslavia"
+ YUG_rep_national_populist: "Yugoslavia"
+ YUG_rep_national_populist_ADJ: "Yugoslavian"
+ YUG_rep_national_populist_DEF: "the Republic of Yugoslavia"
+
+
+### Parties ###
+ YUG_totalist_party: "SRP (Pelagićevci)"
+ YUG_totalist_party_long: "Srpski komunistički revolucionarni savez "Pelagić" (Serbian Communist Revolutionary Alliance "Pelagić")"
+ YUG_syndicalist_party: "SRP (CRSV)"
+ YUG_syndicalist_party_long: "Centralno radničko sindikalno veće (Central Workers' Trade Union)"
+ YUG_radical_socialist_party: "SRP"
+ YUG_radical_socialist_party_long: "Socijalistička radnička partija (Socialist Workers' Party)"
+ YUG_social_democrat_party: "SPS"
+ YUG_social_democrat_party_long: "Socijalistička partija Srbije (Socialist Party of Serbia)"
+ YUG_social_liberal_party: "Republikanska stranka"
+ YUG_social_liberal_party_long: "Srpska republikanska stranka (Serbian Republican Party)"
+ YUG_market_liberal_party: "NRS"
+ YUG_market_liberal_party_long: "Narodna radikalna stranka (People's Radical Party)"
+ YUG_social_conservative_party: "Zemljoradnička stranka"
+ YUG_social_conservative_party_long: "Zemljoradnička stranka (Agrarian Party)"
+ YUG_authoritarian_democrat_party: "DSDS"
+ YUG_authoritarian_democrat_party_long: "Državnotvorna stranka demokrata Srba (State Party of Serbian Democrats)"
+ YUG_paternal_autocrat_party: "Bela ruka"
+ YUG_paternal_autocrat_party_long: "Bela ruka (White Hand)"
+ YUG_national_populist_party: "Konspiracija"
+ YUG_national_populist_party_long: "Konspiracija (Conspiracy) / Srpski kulturni klub (Serbian Cultural Club)"
+
+
+### Factions ###
+
+
+### Companies ###
+ sartid: "SARTID"
+ univerzitet_beogradu: "Univerzitet u Beogradu"
+ galenika: "Galenika"
+ fabrika_uzice: "Fabrika Oružja i Municije Užice"
+ zastava: "Zastava"
+ vojnotehnicki_beograd: "Vojnotehnički Institut Beograd"
+ ikarbus: "Ikarbus"
+ industrija_masina_komponenata: "Industrija Mašina i Komponenata"
+ jadransko_brodogradiliste: "Jadransko Brodogradiliste" #Adriatic Shipyard
+ ikarus_aircraft: "Ikarus"
+ rogozarski: "Rogožarski"
+ aeroput: "Aeroput"
+
+### World Tension ###
+
+### Ideas ###
+ YUG_treaty_of_wartholz: "The Treaty of Wartholz"
+ YUG_treaty_of_wartholz_desc: "Signed by the Kingdom of Serbia in 1919, the Treaty of Wartholz is a punitive agreement that establishes Serbia’s postwar relationship with the Austro-Hungarian Empire. It limits the size of the Serbian Army to 35 thousand men, establishes a free trade area between the two states, and requires Serbia to relinquish all claims upon Austrian and Bulgarian territory."
+ YUG_everything_disabled_tt: "§RCannot train units, disband units, or edit unit templates.§!\n§RCannot enact conscription or mobilise the economy.§!\n§RCannot produce tanks or aircraft.§!\n"
+
+ YUG_secret_rearmament: "Secret Rearmament"
+ YUG_secret_rearmament_desc: "Serbia’s secret rearmament began almost immediately after the Treaty of Wartholz, but ramped up in intensity after the Republican Revolution. Hidden as civilian contracts, equipment purchases are made, a new generation of pilots and officers are trained, and terms of the treaty are violated in preparation for the restoration of Greater Serbia."
+
+ YUG_open_rearmament: "Open Rearmament"
+ YUG_open_rearmament_desc: "The Treaty of Wartholz is dead, and the Serbian eagle spreads its wings once more. Equipment is being purchased, a new generation of pilots and officers are trained, and the nation mobilised in preparation for the restoration of Greater Serbia."
+
+ YUG_scarred_nation: "A Scarred Nation"
+ YUG_scarred_nation_desc: "Serbia suffered more than any other country in the Weltkrieg. Entire towns were depopulated, the country looted, hundreds of thousands died - and the ordinary Serb believes it was their fault. After all, it was a Serb who shot Archduke Franz Ferdinand and thus sparked the conflict. Though the leaders of Serbia may hold irredentist ambitions, they will need to convince the people that this will not go the same way as last time."
+
+ YUG_konspiracija_dynamic_modifier: "£pol_idea The Konspiracija"
+ YUG_konspiracija_idea: "The Konspiracija"
+ YUG_konspiracija_idea_desc: "The Konspiracija orchestrated the Republican Revolution of 1925 and thus considers itself entitled to dictate the foreign policy of the country - they wish to pursue Serbian irredentism and the destruction of Bulgaria. Conceding ground to this “secret society” can grant us powerful boons, but it is a Faustian bargain...\n§W--------------\n$MODIFIER_POLITICAL_POWER_FACTOR$: [?var_KONS_influence|=%+0]"
+
+ YUG_puppet_show: "Dance of the Puppet Show"
+
+ YUG_Petar_II_regency: "Petar II"
+ YUG_Petar_II_regency_desc: "Petar II Karađorđević is the sole child of the late Aleksandar II, the last King of Serbia before the Republican Revolution. Left without a father at the age of two, he was secured by Petar Živković before the revolutionaries found him and smuggled across the border - from there, the heir made it all the way to Canada. There, he fell under the tutelage of his uncle Prince Pavle - a cultured and easy-going bon vivant who inducted the future King into the lifestyle of British nobility.\n\nRestored to the throne, Petar arrived to an impoverished nation and has been turned into a puppet for the politicking of Živković and Ljotić - and yet, though he may still be young, his nation sees potential in him. Perhaps he can turn a page away from his father and reveal himself to be a 'modern monarch', one with a liberal, British-raised view of the world."
+ YUG_Petar_II_stojadinovic_puppet: "Petar II"
+ YUG_Petar_II_stojadinovic_puppet_desc: "Petar II Karađorđević is the sole child of the late Aleksandar II, the last King of Serbia before the Republican Revolution. Left without a father at the age of two, he was secured by Petar Živković before the revolutionaries found him and smuggled across the border - from there, the heir made it all the way to Canada. There, he fell under the tutelage of his uncle Prince Pavle - a cultured and easy-going bon vivant who inducted the future King into the lifestyle of British nobility.\n\nRestored to the throne, Petar arrived to an impoverished nation and has been turned into a puppet for the nationalist regime of Milan Stojadinović - and yet, though he may still be young, his nation sees potential in him. Perhaps he can turn a page away from his father and reveal himself to be a 'modern monarch', one with a liberal, British-raised view of the world."
+
+ YUG_structuralist_economics: "Structuralist Economics"
+ YUG_structuralist_economics_desc: "Based upon the belief that there is no universal economic model and each country needs to find their own path, economic structuralism calls for the state to promote industry reliant on materials produced domestically, and the need for the state to have control of monetary resources in order to redirect it to industries which need them."
+ YUG_black_monday: "Black Monday"
+ YUG_black_monday_desc: "The collapse of German imports and the closure of international trade means that our small industrial sector starves and our agrarian population struggles to find markets to sell their produce. This has led to a full collapse of the nation's economy."
+
+ YUG_farming_subsidies: "Farming Subsidies"
+ YUG_farming_subsidies_desc: "To ensure that the economy of Serbia remains afloat, the state needs to take a more direct role in agriculture and intervene to ensure stable production, stable prices and stable exports."
+
+ YUG_state_railways_directorate: "State Railways Directorate"
+ YUG_state_railways_directorate_desc: "The newly centralised Serbian State Railways Directorate brings ownership of every railway in the country under a single organisation. With internal competition eliminated, the Directorate can now work to extend the existing railways to every corner of Serbia."
+
+ YUG_military_reform_council: "Military Reform Council"
+ YUG_military_reform_council_desc: "Led by General Milan Nedić, the Military Reform Council has been created with the aim to bring the woeful Serbian Army into the modern age, through a series of rigorous reforms."
+
+ YUG_local_designs_idea: "Local Designs"
+ YUG_local_designs_idea_desc: "Having access to foreign designs has allowed Serbian local talent to design their own local designs."
+
+ YUG_airforce_idea: "Serbian Air Force Doctrine"
+ YUG_airforce_idea_desc: "Serbia, with the aid of foreign advisors and local talent, has adopted a modern air doctrine."
+
+ YUG_russian_aerial_expertise: "Russian Aerial Expertise"
+ YUG_russian_aerial_expertise_desc: "Serbia has sought Russian advisors to assist in training its new pilots."
+
+ YUG_french_aerial_expertise: "French Aerial Expertise"
+ YUG_french_aerial_expertise_desc: "Serbia has sought French advisors to assist in training its new pilots."
+
+ YUG_naval_investments: "Naval Investments"
+ YUG_naval_investments_desc: "The government is investing significant funds in shipbuilding, taking a noticeable portion of the budget while spurring the shipbuilders."
+
+ YUG_republican_guard: "The Republican Guard"
+ YUG_republican_guard_desc: "To defend ourselves from the threat of a military coup, we must always have an armed backbone - and a militarised public organisation committed to the defence of republican ideas is the solution we have found."
+
+ YUG_ideologically_charged_army: "Ideologically Charged Army"
+ YUG_ideologically_charged_army_desc: "Shaken by new promotions and appointments, the Serbian Army is uncharacteristically loyal and devout to the republican ideal."
+
+ YUG_workplace_democracy_idea: "Progress of Labour!"
+ YUG_workplace_democracy_idea_desc: "We shall grant the Serbian worker and farmer a new future, one free of struggle and hardship, free of unjust exploitation and shone over by harmonious existence!"
+
+ YUG_liberation_of_women: "Progress of the Sexes!"
+ YUG_liberation_of_women_desc: "We have to realise that men and women are both people with equal capacity to learn, work and fight. While we cannot defeat millennia of preconceived notions, we can legislate to improve the current conditions, and give women more opportunity in life."
+
+ YUG_rep_political_reform: "Progress of Governance!"
+ YUG_rep_political_reform_desc: "A modern democratic society requires a strong bureaucratic founding base in order to function properly. While democracy is not merely a procedural process, strong procedure, transparent governance, and efficient administration are all beneficial to no end."
+
+ YUG_pre_harmony_of_classes: "Progress of Labour! §Wand§! Progress of Governance!"
+
+ YUG_harmony_of_classes: "Class Harmony"
+ YUG_harmony_of_classes_desc: "At last, with the leadership of the Republican Party, the Serbian people can enjoy the full benefits of social and economical progress - a harmonious society, where any person of any class can qualify for a fulfilling life."
+
+ YUG_montenegro_experiment_idea: "The Montenegrin Experiment"
+
+ YUG_national_labor_union_council_idea: "National Trade Union Council"
+ YUG_national_labor_union_council_idea_desc: "The National Trade Union Council is the mediator between central government and the interests of the workers, and we must respect its advice."
+
+ YUG_state_corporatism_idea: "State Corporatism"
+ YUG_state_corporatism_idea_desc: "All national energies need to be welded into a single organ with which we may defeat any enemies - strong or weak, internal or external."
+
+ YUG_serb_radicalism: "Serb Radicalism"
+ YUG_serb_radicalism_desc: "The People's Radical Party, the vanguard of the Serbian nation, pursues a policy of agrarian supremacy, mass politics, and patriotic dedication to one's community as well as the entire nation. The historical ideal of the Zadruga, a democratic rural community of Slavic peasantry, is what guides us in our policies."
+
+ YUG_pasic_cult_idea: "The Cult of Nikola Pašić"
+ YUG_pasic_cult_idea_desc: "The greatest statesman Serbia has ever seen, Nikola Pašić is the father of the Serbian state, its guide for decades who fought against absolutism and authoritarianism all his life. While it appeared his efforts were in vain at the moment of his death, his legacy still resonates with us, and he is a glorious enough figure to lift to near-divine status!"
+
+ YUG_tripartite_labor_relations_council_idea: "Tripartite Council on Economic Affairs"
+ YUG_tripartite_labor_relations_council_idea_desc: "The Tripartite Council is an organ composed of government, business and labour representatives, deliberating on national economic policy and working to create policies which will benefit the entire nation, not just any social group."
+
+ YUG_via_media: "Via Media"
+ YUG_via_media_desc: "Sometimes, the pen is mightier than the sword."
+
+ YUG_secret_police_idea: "Court for the Protection of the State"
+
+ YUG_nationalist_fervor_idea: "Nationalist Fervour"
+ YUG_nationalist_fervor_idea_desc: "The Serbian people are once again ready for war, and war we shall give them!"
+
+ YUG_greenshirts: "Greenshirts"
+ YUG_greenshirts_desc: "Milan Stojadinović's Greenshirts, inspired by the Romanian Iron Guard, are the paramilitary wing of his Radical Union. Armed by the state, these brave men have dedicated their lives to protect the Serbian government at any cost. They will ensure that any attempts to dislodge our Vojvoda's rule will be met with furious retaliation, so that Serbia can once again be a strong nation."
+
+ YUG_social_welfare_idea: "Expanded Social Welfare"
+
+ YUG_avant_garde_idea: "The Second Serbian Avant-Garde"
+ YUG_avant_garde_idea_desc: "Artists, poets and playwrights across Serbia once again push to break the boundaries set by society and discover new ways in which traditions may be challenged."
+
+ YUG_socialist_realism_idea: "Socialist Realism"
+ YUG_socialist_realism_idea_desc: "Art must serve ideological ideals, and so we shall ensure that artists and playwrights make the sort of content which will further the cause of socialism. They shall present socialism as a bright tomorrow and will not engage in unnecessary degeneracy."
+
+ YUG_hotel_slavija: "The Hotel Slavija Regime"
+ YUG_hotel_slavija_desc: "While the Skupština remains the sole legislative authority, more and more decisions are instead being made in the headquarters of the SRP and extraparliamentary institutions, eroding democratic power and strengthening socialist authority."
+
+ YUG_revolution_purged_army: "Military Purges"
+
+ YUG_state_terror: "Subordination of Society"
+ YUG_state_terror_desc: "We shall ensure that everyone in Serbian society stays in line. There is only one path for the masses and that is the path of socialism, any deviation is akin to betrayal."
+
+ YUG_economic_transformation_initial: "Economic Transformation of Society"
+ YUG_economic_transformation_initial_desc: "The means of production and who controls them are the key factor which drives history forward. Let us hand the means of production to the workers and so accelerate the transformation towards socialism!"
+
+ YUG_unified_trade_union_idea: "Central Workers' Trade Union"
+ YUG_unified_trade_union_idea_desc: "Divided between various trades, the workers of Serbia will be unable to defend their rights and organise. Following the examples of the CGT and the TUC, we shall unify all trade unions in Serbia into one organ - which just so happens to be controlled by the Socialist Workers' Party."
+
+ YUG_youth_work_brigades_idea: "Youth Work Brigades"
+ YUG_youth_work_brigades_idea_desc: "The backbone of new industrial Serbian socialism shall be built with the sweat of our youth. They need to be integrated into socialist society from an early age - high schoolers and students shall be drafted into work actions and spend their time building roads and railways, gaining valuable experience and finding comrades along the way!"
+
+ YUG_national_revival: "National Regeneration"
+ YUG_national_revival_desc: "Merely restoring the Royal family is not enough. We must build an ideal, regenerated state, which follows the orders of nature once again and turns the power of the monarchy total. We are not merely reactionaries - we are revolutionaries, national revolutionaries, and we will build a new Serbian monarchy upon the ashes of the Republic."
+
+ YUG_zadruga: "Zadruga Communalism"
+ YUG_zadruga_desc: "The Serbian nation shall no longer be poisoned by the ideas of socialism, individualism and modernism! Our home is the village, and the village community - here, in the idyllic countryside, where the rulers rule and the subjects serve, where solidarity prospers, we will found a new Serbia!"
+
+ YUG_military_dominance_idea: "Military Dominance"
+ YUG_military_dominance_idea_desc: "The Serbian Army are the saviours of monarchism and shall guide us forevermore! Let us ensure that military officers routinely hold political positions and sway the government in their favour, and thus empower them to be the guardian angels of the Serbian people!"
+
+ YUG_royal_constitution: "The Royal Constitution"
+ YUG_royal_constitution_desc: "The Constitution so generously bestowed upon the Serbian people by His Majesty's Government shall signal a return to the constitutionalism of the era before the Weltkrieg, a golden age in Serbian history which we shall live again!"
+
+ YUG_the_dream_of_yugoslavia: "The Dream of Yugoslavia"
+ YUG_the_dream_of_yugoslavia_desc: "Despite the best efforts of the oppressors in Vienna and Budapest, the Yugoslav dream lives on in the hearts of all Southern Slavs! Serbia must once again carry the torch of liberation with the selfless goal to overthrow the German-Hungarian hegemony over Slavdom."
+
+ YUG_national_lottery: "National Lottery"
+
+ YUG_YUG_anti_serb_rebellion: "The War Against Belgrade"
+
+ YUG_YUG_unified_tariff_system: "Unified System of Tariffs and Fees"
+
+ YUG_YUG_constitutionalist_military: "Constitutionalist Military"
+ YUG_YUG_constitutionalist_military_desc: "The Yugoslav military has been subordinated to civilian affairs and an era of army interference in politics has come to an end."
+
+ YUG_YUG_interferent_military: "Interferent Military"
+ YUG_YUG_interferent_military_desc: "Though the Konspiracija is long gone, the military continues to interfere in political affairs and democracy in Yugoslavia struggles to breathe."
+
+ YUG_YUG_deep_state: "The Yugoslav Secret Society"
+ YUG_YUG_deep_state_desc: "Politics in Yugoslavia remain shackled by a secret society behind the backs of civilian politicians. At any time, some ambitious colonel may overthrow the fragile republic and establish his own order."
+
+ YUG_konspiracija_conflict: "Movement for the Constitution"
+ YUG_konspiracija_conflict_desc: "Internal backlash against the Serbian Army and its interferent role in society is currently taking place, and while it is paralysing government activities, this movement may be channelled for our use."
+
+ YUG_YUG_reformed_conscription: "Reformed Conscription System"
+
+ YUG_YUG_anti_imperialist_vanguard_idea: "The Anti-Imperialist Vanguard"
+
+ YUG_YUG_dalmatian_tourism: "Adriatic Tourism Industry"
+ YUG_YUG_dalmatian_tourism_desc: "Smart investment into the tourism infrastructure on the Adriatic has helped it boom. The beaches and islands of the Dalmatian coast are quite an attraction, and perhaps one day it will become the capital of tourism in Southeastern Europe."
+
+ YUG_YUG_serbocroatian: "Serbo-Croatian Language"
+ YUG_YUG_serbocroatian_desc: "The official language of the country is Serbo-Croatian, and the state declares that "Croatian", "Serbian" and "Bosnian" languages are fiction, merely dialects of a single, unified language."
+
+ YUG_YUG_serbocroatianslovenian: "Serbo-Croatian-Slovenian Language"
+ YUG_YUG_serbocroatianslovenian_desc: "The official language of the country is Serbo-Croatian-Slovenian, and the state declares that "Slovene", "Croatian", "Serbian" and "Bosnian" languages are fiction, merely dialects of a single, unified language."
+
+ YUG_YUG_cyrillic: "Cyrillic Script Enforced"
+ YUG_YUG_cyrillic_desc: "The Cyrillic script is the natural script of the Serbo-Croatian language and should be enforced - official documents will be written strictly in Cyrillic and bureaucrats from Croatia and Slovenia will be taught this script to use in everyday work."
+
+ YUG_YUG_national_myth: "National Mythology"
+ YUG_YUG_national_myth_desc: "All Yugoslavs shall worship the same heroes and the same historical achievements - the Battle of Kosovo and the Weltkrieg were all-Yugoslav battles against oppressors, not Serbian or any other causes."
+
+ YUG_YUG_unified_education_system: "Unified Education System"
+
+ YUG_YUG_special_relationship_idea: "The Special Relationship"
+
+ YUG_YUG_princip_memorial_idea: "Gavrilo Princip Memorial"
+ YUG_YUG_princip_memorial_idea_desc: "Gavrilo Princip, the brave Young Bosnian youth who made the fateful shots in 1914, should no longer be treated as a failure who doomed the South Slavs to untold suffering. After two decades, the Yugoslav idea he died for has finally been realised, and thus we can finally recognise him for who he truly was - a slayer of tyrants."
+
+ YUG_YUG_yugosphere_idea: "Building the Yugosphere"
+ YUG_progressive_reforms_base: "Progressive Reforms"
+ YUG_progressive_reforms_liberal: "Progressive Reforms"
+ YUG_progressive_reforms_authoritarian: "Progressive Reforms"
+ YUG_progressive_reforms_final_liberal: "Progressive Liberal Reforms"
+ YUG_progressive_reforms_final_authoritarian: "Progressive Authoritarian Reforms"
+
+ YUG_dinar_stabilized: "Strong Dinar Currency"
+ YUG_dinar_stabilized_desc: "Following the establishment of a standard currency, the dinar is now strong and stable."
+
+ YUG_central_banking_committee: "Central Banking Committee"
+ YUG_central_banking_committee_desc: "With the Banking Committee overseeing banking matters, the financial system has been greatly improved."
+
+ YUG_domestic_enemies_1: "Domestic Enemies Strength: §RStrong§!"
+ YUG_domestic_enemies_2: "Domestic Enemies Strength: §YAverage§!"
+ YUG_domestic_enemies_3: "Domestic Enemies Strength: §GWeak§!"
+
+ YUG_surprise_attack: "Surprise Attack"
+ YUG_surprise_attack_desc: "The discretion of our conspiracy gave us the effect of surprise against Bulgaria."
+
+ YUG_federalized_montenegro: "Montenegrin Autonomy"
+
+ YUG_IMRO_rebellion_2: "Remnants of the IMRO"
+ YUG_IMRO_rebellion_2_desc: "The Internal Macedonian Revolutionary Organisation has been defeated, but their underground cells are still making a last stand, committing acts of terrorism in vain hope that this will prove a point. Until this ceases, our nation will suffer."
+
+### Tech Sharing ###
+ balkan_research_name: "Balkan Research Initiative"
+ balkan_research_desc: ""
+
+ YUG_balkan_research_idea: "Balkan Research Initiative"
+ YUG_balkan_research_idea_tooltip: "Joins the §HBalkan Research Initiative§!\n    $MODIFIER_RESEARCH_SPEED_FACTOR$: [?0.05|+=%]"
+
+ YUG_spawned_resistance: "Chetnik Resistance"
+ YUG_spawned_resistance_tt: "Completing this focus will give negative modifiers to §YArmy Speed§!, §YDefence§! and §YLocal Intelligence§! in all Bulgarian states claimed by Serbia."
+
+### Decisions ###
+
+
+#Other
+
+### Flags ###
+
+### Tooltips ###
+
+### Focuses ###
+
+### Intro Screen ###
+ YUG_country_intro_header: "The Serbian Republic"
+ YUG_country_intro_content: "The assassination of Archduke Franz Ferdinand by Gavrilo Princip, a Bosnian Serb nationalist, was the catalyst which caused the beginning of the Weltkrieg. Though Serbian forces fought valiantly and earned the world's respect by stalling the Central Powers advance for months, by late 1915 the entirety of the country ended up occupied. Divided into Austro-Hungarian and Bulgarian occupation zones, Serbia was exploited and burned, its adversaries seeking to enact revenge upon what they saw as a barbaric regime. This only emboldened resistance in the territory, however, and things on both sides of the front changed by 1918. Austria-Hungary, pressured by its German allies, finally began peace talks, while the Serbian resistance in Corfu, seeing the pitiful state of the Entente, came to the conclusion that even a bitter peace is better than annexation. King Petar abdicated and his son took the throne as Aleksandar II, who signed the punitive Treaty of Wartholz in 1919 - it restored a rump Serbia in the Austro-Hungarian occupation zone, forever tied to the Austrian sphere of influence.\n\nAn emboldened socialist movement in Belgrade, inspired by the Russian and French revolutions, and the opposition of the People's Radical Party got Aleksandar II to respond harshly. Political life was suspended, the socialist movement banned, and a Royal Dictatorship ushered in to maintain order in the defeated nation. This act only inflamed tensions in the country by the end, however, and it boiled over to revolution in 1925. The military, organised into the Konspiracija secret society, made an act of defiance against their King and orchestrated an assassination of Aleksandar II on December 3rd, which led the Royal Dictatorship to its collapse. Prime Minister Vojislav Veljković, surrendered to the opposition, which proclaimed a Serbian Republic.\n\nAfter a brief diplomatic standoff, the provisional government of Ljubomir Stojanović recognised the Treaty of Wartholz, and Vienna recognised the Republican government in turn. Today, Serbia stands as a burning symbol of democracy in the Balkans - at least on the surface. In truth, however, while the government may proclaim heartwarming goals like peace, welfare and prosperity, nothing in the Serbian government happens without the approval of the Konspiracija. This military secret society, deliberately styled after the Black Hand, seeks one thing and one thing only - the liberation of all Serbs outside of the Republic's borders. Again in the shadows, another conspiracy lurks as well - the White Hand, led by Petar Živković, which waits for a chance to overthrow the Republican interregnum and restore the underage son of Aleksandar II.\n\nAs 1936 begins, Serbia is still, nominally, a client state of the Austro-Hungarian Empire, but this grip grows looser by the second, and once it finally falls, all of Serbia's enemies may tremble."
+ serbia.0.a: "Serbia will be great again!"
+
+ YUG_guide: "§MRepublicans Remain§! (§lSocial Liberal§!)\n£white_dot Win the 1936 election with any government led by the Republicans.\nIf the Radical Socialists are in the coalition, fight the coup by calling on the group the conspirators didn't ally with in the \"Unrest Among the Chetniks\" event.\n\n§MRadicals - Democracy Retained / National Consolidation§! (§mMarket Liberal§! / §cSocial Conservative§! / §gAuthoritarian Democrat§! / §PPaternal Autocrat§!)\n£white_dot Win the 1936 election with any government led by the Radicals.\n£white_dot Taking the focus The Sarez will turn you Social Conservative.\n£white_dot Taking the focus The State of National Consolidation will turn you Authoritarian Democrat.\n£white_dot Finishing the political focus tree after taking The State of National Consolidation will turn you Paternal Autocrat, with an option to invite Petar II to restore the monarchy or continue Stojadinovic's rule.\n\n§MVictory to the People§! (§RRadical Socialist§!)\n£white_dot Win the 1936 election with any government led by the Socialist Workers.\n£white_dot Fight the coup by calling on the group the conspirators didn't ally with in the event \"Unrest Among the Chetniks\".\n£white_dot Complete all three timed missions before they expire.\n\n§MRoyalist Coup - Živković Endures / National Regeneration§! (§PPaternal Autocrat§! / §NNational Populist§!)\n£white_dot Win the 1936 election with any government that includes the Socialist Workers.\n£white_dot Fall to the coup by calling on the group the conspirators did ally in the event \"Unrest Among the Chetniks\".\n£white_dot Favoring one branch of the political tree will lead to that branch's faction becoming dominant becoming dominant after Petar comes of age in August 1941:\n£white_dot Enshrine Military Dominance > Paternal Autocrat\n£white_dot National Regeneration > National Populist"
+
+### Events ###
+
+
+### Characters ###
+ MAC_ivan_mihajlov: "Ivan Mihajlov"
+ MAC_imro_joint_command: "IMRO Joint Command"
+
+### Characters ###
+ YUG_petar_ii: "Petar II"
+ YUG_petar_ii_leader_desc: "The first and only child of Aleksandar II Karađorđević, the last King of Serbia before the "republican" interregnum, Petar II was only two years old when he was taken from the overrun Royal Palace and handed over to the hands of Petar Živković. The young heir to the throne was moved out of the country and ended up in Canada, where the loyalists of the Karađorđević dynasty gave him to Prince Pavle, first cousin of Aleksandar II and a friend of the British royal family. While the White Hand continued the fight in the fallen Kingdom, the Prince was given the task of raising his nephew.\n\nThus, Petar grew up in the relatively liberal environment of Canada. He spent his childhood attending balls, speaking in English, and caring little about the impoverished Balkan state he still claimed the throne of. Though his guardian taught him little in the way of statecraft, the Westminster system he witnessed imprinted deep upon him. Once the time came for the young King to return home, he brought this British thinking with him.\n\nPersonality-wise, Petar is impulsive, naive and a hopeless idealist. His imagination of the political situation rarely coincides with reality. Though his kingdom may pale in comparison to his childhood home, he nevertheless sees the well-being of his subjects as his duty, even at the expense of political capital. This makes the young King easy to play with for those with actual political acumen. Thus, even if Petar may have good ideas in his mind, he has always been a tool for those who hold real power, and likely always will be."
+
+ YUG_temporary_national_representation: "Temporary National Representation"
+
+ YUG_milan_grol: "Milan Grol"
+ YUG_milan_grol_leader_desc: "Born in 1876, Milan Grol received a multi-disciplinary education studying philosophy, literature, theatre and arts. After a stint in Paris, he returned to Serbia in 1902 as a teacher and a writer, frequently lambasting King Alexander I and the Obrenovic dynasty in the press. Around this time, he began to affiliate with the left, joining the Independent Radical Party. His career in theatre came to an end with the start of the Weltkrieg. He moved to Geneva during the conflict and began to rededicate his life towards his political writings and activism.\n\nThe end of the war would see Serbia occupied and humiliated. Grol returned to his homeland to see a devastated nation, and soon helped found the Serbian Republican party. Victory in the 1931 elections saw Grol assume the post of Prime Minister under Dragisa Vasic. As a consequence, he was seen as the natural successor to Vasic, and went on to win the Presidency. Carrying legacy of Ljubomir Stojanovic on his shoulders, Milan Grol and his party are now empowered to bring about the reforms they’ve dreamed of over the land."
+
+ YUG_albert_kramer: "Albert Kramer"
+ YUG_dimitrije_ljotic: "Dimitrije Ljotić"
+ YUG_mirko_korolija: "Mirko Korolija"
+ YUG_nikola_uzunovic: "Nikola Uzunović"
+ YUG_mosa_pijade: "Moša Pijade"
+ YUG_milan_gorkic: "Milan Gorkić"
+ YUG_josip_broz: "Josip Broz"
+ YUG_vukasin_markovic: "Vukašin Marković"
+
+ YUG_trifun_kaclerovic: "Trifun Kaclerović"
+ YUG_trifun_kaclerovic_leader_desc: "The "old man of the socialists", Trifun "Triša" Kaclerović was born in 1879 in the Serbian countryside and became involved in the socialist movement during his student years. In the leadup to the May Coup of 1903, he and his fellow students organised a protest against the increasingly absolute Aleksandar I Obrenović. He remained in opposition even after the king's assassination and the rise of the Karađorđevićs. Now a leading member of the Social Democratic Party, Kaclerović spent the years leading up to World War I fighting for labour rights, representing the workers in the Skupština and demanding rights for socialists.\n\nThe end of the Weltkrieg saw the socialist movement split. Some, radicalised by the Russian and French Revolutions, turned to violence. Others shunned themselves from the ideology entirely, or clung onto reformism even in the tense atmosphere of postwar Serbia. Kaclerović led his faction of the Social Democrats to the nascent Socialist Workers' Party, and commanded it for the following decades. A grand hegemon of the left, the SRP unites everyone from social democrats to open Syndicalists. Kaclerović stands at the top of it all - all of them can respect this elderly, collected founder of modern Serbian socialism."
+
+ YUG_zivko_topalovic: "Živko Topalović"
+
+ YUG_dragomir_vasic: "Dragomir Vasić"
+ YUG_dragomir_vasic_leader_desc: "Dragomir "Dragiša" Vasić is the second President of the Serbian Republic, elected with the initiative of the Republican Party in 1931. Born in Morava in 1885, Vasić unfortunately happened to belong to the generation of Serbian men and women sent to die in the trenches of the Balkan Wars and the Weltkrieg. It was there, during the Second Balkan War, that Vasić the revolutionary began to develop — and Vasić the writer. His first real attempt, a short story titled "Pačko", depicts a Serbian soldier in the Battle of Bregalnica. Pitying a felled Bulgarian officer, he tries to give him a proper burial in no man's land, only to be shot by the enemy while erecting a wooden cross. This revolutionary fervour slowly lead to disillusion with the Karađorđević dynasty — especially after the Salonika Trial, as one of the members of the Black Hand executed was his cousin Ljubomir Vulović.\n\nAfter the war, Vasić returned to Serbia along the remaining exiles, pursued a legal career, and founded the newspaper "Progress". However, it was soon shut down and his lawyer's licence suspended by the Royal Dictatorship for defending communists. In reaction, he joined the Republican Party and became a member of its main board, a crucial member of the underground organisation - not only thanks to his literary skill, but also his numerous contacts within the Serbian Army. When the Revolution came, Vasić joined it, was elected to the Skupština, and accepted his role as the Ambassador to the Commune of France. While visiting Paris and seeing its achievements did not convert him to a Syndicalist, it nevertheless fascinated him.\n\nThe Konspiracija, suspicious of President Jaša Prodanović's anti-militarist stance, forced him out of power in 1931. Discreetly inviting Vasić to succeed him in the next election, they expected him to be easier to control thanks to his past in the Black Hand. Reluctantly, Vasić agreed, and stands today as a leader torn between his progressive outlook and his debt to the conspirators. To him, the fight against Bulgaria is not just a matter of irredentism - it is a matter of liberty. Time and time again the Serbs have proven to be its beacon in the Balkans while the Bulgarians dabble in dim absolutism. But can Serbia really claim to be a harbinger of liberty in this state?"
+
+ YUG_milan_stojadinovic: "Milan Stojadinović"
+ YUG_milan_stojadinovic_leader_desc: "Named after King Milan of Serbia, Milan Stojadinović was born to the family of a rural judge in Šumadija, and followed the same course as many in the Serbian intellectual class. A childhood friend of Živko Topalović, he sympathised with socialism in his youth, before pursuing national liberation over class struggle. Ending up in the People's Radical Party instead. Stojadinović spent the time before the Weltkrieg outside of Serbia, studying in Western universities and representing the Ministry of Finance abroad, and returned to his homeland just in time to serve in the Balkan Wars.\n\nThe Serbian exiles in Corfu, including Stojadinović, needed bureaucrats — men who would make sure that as few of their thinned ranks starve and wither away. Stojadinović, as a clerk in the Ministry of Finance, distinguished himself as a capable economist and negotiator, helping stabilise the Serbian dinar, raise funding for the remnants of the Army, and ensure distribution of the scarce resources. The Prime Minister and leader of the Radicals, Nikola Pašić, recognised his efforts, and Stojadinović became his protege. When Pašić was dismissed after the end of the war on Aleksandar II's orders, Stojadinović resigned as well. He returned to a modest and calm life as a banker and university professor.\n\nThe tide of the Republican Revolution caught Stojadinović as well, many saw him as a republican sympathiser. When Aca Stanojević invited him to the refounded Radical Party, he accepted. Years pass, the old generation of Radicals pass away, and the calm, collected and intelligent economist Stojadinović was the natural fit to lead them. The dilemma of unifying the South Slavs is on his mind, but so are the lessons passed down to him by his mentor: "When it comes to the grand design which God has for the Serbian nation, there can be no compromise or half-measures". Freedom is strong, but collective, absolute power can be stronger."
+
+ YUG_milan_gavrilovic: "Milan Gavrilović"
+ YUG_zivojin_peric: "Živojin Perić"
+
+ YUG_petar_zivkovic: "Petar Živković"
+ YUG_petar_zivkovic_leader_desc: "To his enemies, he is known as a deadly intricate webweaver, a nefarious puppetmaster who held Aleksandar II hostage and crafted the infamous Royal Dictatorship following the Weltkrieg. To his followers, he is known as the most loyal a monarchist could possibly be, a soldier who has stood by the House of Karađorđević as long as he lived. Petar Živković was born in 1879 and followed the prestigious career of military service. He rose to become a member of the Royal Guard, a position in which he played a crucial role during the events in 1903, as he was the guard who opened the entrance to the Royal Court and allowed the Black Hand to extinguish the House of Obrenović. Živković soon became disillusioned with the Black Hand, however, believing that their leader Apis was plotting to overthrow the Karađorđevićs as well. Following the advice of Crown Prince Aleksandar, Petar created the White Hand - a rival to the Black Hand, dedicated to the protection of the ruling dynasty.\n\nDuring the Weltkrieg, Živković disposed of his Black Hand rivals at last, sentencing Apis and his comrades to death in the Thessaloniki Process. Though Serbia lost the war, his power only continued to grow. It was his advice that Aleksandar followed when proclaiming the Obznana and declaring the Royal Dictatorship. Some even rumoured that he held the King's dirty secrets, forcing the monarch to dance to his will. Unfortunately, as powerful as he was, he could not predict, nor prevent, the Revolution. In the midst of the monarchy's collapse, he made sure to secure the two-year-old heir, Petar II, and place him in the hands of Prince Pavle in Canada. The White Hand transformed into a secret society, taking revenge on the Republican officers, sowing terror and plotting their return to power. Always more accustomed to court politics than terrorism, Živković despised this change, instead spending his time in exile coordinating his underlings. Waiting for the moment to return - until, someday, he can finally right the wrongs of the last decade."
+
+ YUG_collective_leadership: "Collective Leadership"
+ YUG_petar_bojovic: "Petar Bojović"
+ YUG_konstantin_popovic: "Konstantin Popović"
+ YUG_blazo_jovanovic: "Blažo Jovanović"
+ YUG_milan_nedic: "Milan Nedić"
+ YUG_milorad_petrovic: "Milorad Petrović"
+ YUG_dragoljub_mihailovic: "Dragoljub Mihailović"
+ YUG_ljubomir_maric: "Ljubomir Marić"
+ YUG_milutin_nedic: "Milutin Nedić"
+ YUG_dusan_trifunovic: "Dušan Trifunović"
+ YUG_bogoljub_ilic: "Bogoljub Ilić"
+ YUG_dusan_simovic: "Dušan Simović"
+ YUG_milan_spasic: "Milan Spasić"
+
+ YUG_mihailo_ilic: "Mihailo Ilić"
+ YUG_sima_markovic: "Sima Marković"
+ YUG_aleksandar_cincar_markovic: "Aleksandar Cincar-Marković"
+ YUG_konstantin_pecanac: "Konstantin Pečanać"
+ YUG_serbian_cultural_club: "Serbian Cultural Club"
+ YUG_aleksandar_rankovic: "Aleksandar Ranković"
+ YUG_slobodan_jovanovic: "Slobodan Jovanović"
+ YUG_filip_filipovic: "Filip Filipović"
+ YUG_milan_srskic: "Milan Srškić"
+ YUG_ninko_peric: "Ninko Perić"
+
+ YUG_milan_acimovic: "Milan Aćimović"
+ YUG_dragutin_gavrilovic: "Dragutin Gavrilović"
+ YUG_mladen_zujovic: "Mladen Žujović"
+ YUG_momcilo_nincic: "Momčilo Ninčić"
+ YUG_milos_savcic: "Miloš Savčić"
+ YUG_dobrica_matkovic: "Dobrica Matković"
+
+ YUG_petar_kosic: "Petar Kosić"
+ YUG_dragomir_stojanovic: "Dragomir Stojanović"
+ YUG_navy_army_command: "Under Army Command"
+ YUG_arso_jovanovic: "Arsenije Jovanović"
+
+ YUG_event_only: "May only be added by event."

@@ -1,0 +1,61 @@
+RUS_Industrial_Expansion_decisions = {
+	icon = GFX_decision_category_generic_industry
+	priority = 80
+
+	allowed = {
+		original_tag = RUS
+	}
+}
+
+RUS_Zemstvo_Funding_decisions = {
+	icon = GFX_decision_category_generic_economy
+	picture = GFX_decision_cat_picture_government_in_exile
+	priority = 80
+
+	allowed = {
+		original_tag = RUS
+	}
+
+	visible = {
+		has_completed_focus = RUS_Funding_Frenzy
+	}
+}
+
+RUS_Alliance_decisions = {
+	icon = GFX_decision_category_generic_foreign_policy
+	priority = 120
+
+	allowed = {
+		original_tag = RUS
+	}
+	visible = {
+		NOT = { has_rule = can_not_declare_war }
+	}
+}
+
+RUS_Foreign_Policy_decisions = {
+	icon = GFX_decision_category_russia
+	priority = 100
+
+	allowed = {
+		original_tag = RUS
+	}
+
+	visible = {
+		is_subject = no
+		NOT = { has_rule = can_not_declare_war }
+	}
+}
+
+RUS_Spreading_The_Revolution_decisions = {
+	icon = GFX_decision_category_russia
+	priority = 100
+
+	allowed = {
+		original_tag = RUS
+	}
+
+	visible = {
+		is_subject = no
+	}
+}

@@ -1,0 +1,40 @@
+USA_is_valid_loas_member = {
+	country_exists = USA
+	NOT = { has_war_with = USA }
+	OR = {
+		is_ally_with = USA
+		AND = {
+			is_in_faction = no
+			is_subject = no
+		}
+		is_faction_leader = yes
+	}
+	has_socialist_government = no
+	NOT = { has_government = national_populist }
+}
+
+PSA_can_elect_farmer_labor = {
+	tag = PSA
+	NOT = {
+		country_exists = USA
+		is_in_faction_with = NEE
+	}
+}
+
+TEX_long_in_power = {
+	OR = {
+		has_country_leader = { character = TEX_huey_long }
+		has_country_leader = { character = TEX_earl_kemp_long }
+	}
+}
+
+TEX_business_plot_in_power = {
+	OR = {
+		has_country_leader = { character = TEX_george_van_horn_moseley }
+		has_country_leader = { character = TEX_charles_lindbergh }
+	}
+}
+
+TEX_dies_in_power = {
+	has_country_leader = { character = TEX_martin_dies_jr }
+}
