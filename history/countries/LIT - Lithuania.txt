@@ -3,7 +3,6 @@ oob = "LIT"
 set_research_slots = 3
 set_war_support = 0.1
 set_convoys = 10
-set_cosmetic_tag = LIT_monarchy
 starting_train_buffer = 2
 
 set_technology = {
@@ -63,49 +62,33 @@ set_variable = { country_intro_page_count = 2 }
 add_ideas = {
 	limited_conscription
 
-	LIT_german_economic_dominance_1
-	LIT_cultural_divide_1
-	LIT_disorganised_army_1
+
 }
 
-GER = {
-	set_autonomy = {
-		target = LIT
-		autonomy_state = oststaat
-	}
-}
 set_politics = {
-	ruling_party = social_conservative
-	last_election = "1933.2.10"
-	election_frequency = 48
-	elections_allowed = yes
+	ruling_party = paternal_autocrat
+	last_election = "1926.5.8"
+	election_frequency = 120
+	elections_allowed = no
 }
 set_popularities = {
 	totalist = 0
 	radical_socialist = 0
-	syndicalist = 3
-	social_democrat = 25
-	social_liberal = 7
-	market_liberal = 8
-	social_conservative = 39
-	authoritarian_democrat = 12
-	paternal_autocrat = 3
-	national_populist = 3
+	syndicalist = 0
+	social_democrat = 20
+	social_liberal = 5
+	market_liberal = 0
+	social_conservative = 10
+	authoritarian_democrat = 0
+	paternal_autocrat = 60
+	national_populist = 5
 }
-
 set_variable = { LIT_LAF_threat = 25 }
 
-### Integration ###
-ROOT = {
-	94 = { enable_state_integration_80_compliance = yes } #Volkovysk
-	97 = { enable_state_integration_80_compliance = yes } #Bialystok
-	188 = { enable_state_integration_50_compliance = yes } #Memel
-}
+
 
 ### Characters ###
-recruit_character = LIT_karl_gero_von_urach
-recruit_character = LIT_eberhard_von_urach
-
+recruit_character = LIT_antanas_smetona
 recruit_character = LIT_juozas_butkus
 recruit_character = LIT_vincas_galinis
 recruit_character = LIT_justas_paleckis
@@ -113,7 +96,7 @@ recruit_character = LIT_steponas_kairys
 recruit_character = LIT_vaclovas_sidzikauskas
 recruit_character = LIT_stanislaw_narutowicz
 recruit_character = LIT_stasys_salkauskis
-recruit_character = LIT_antanas_smetona
+
 recruit_character = LIT_povilas_plechavicius
 recruit_character = LIT_kazimieras_tiskevicius
 recruit_character = LIT_augustinas_voldemaras

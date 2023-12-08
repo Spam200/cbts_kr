@@ -118,6 +118,9 @@ characters = {
 		country_leader = {
 			ideology = authoritarian_democrat_subtype
 		}
+		country_leader = {
+			ideology = paternal_autocrat_subtype
+		}
 		advisor = {
 			slot = second_in_command
 			idea_token = LIT_antanas_smetona_sic
