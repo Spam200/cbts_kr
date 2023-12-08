@@ -8,10 +8,7 @@ set_war_support = 0.3
 starting_train_buffer = 2
 
 add_ideas = {
-	GER_march_to_april
-	GER_victors_of_wwi
-	GER_imperial_pride
-	GER_pre_black_monday
+
 }
 
 set_variable = { country_intro_page_count = 5 }
@@ -171,18 +168,6 @@ set_politics = {
 	elections_allowed = no
 
 }
-set_popularities = {
-	totalist = 17 #KPD 16.86
-	radical_socialist = 0.1 #SAPD 0.13
-	syndicalist = 12 #SDP 20.4
-	social_democrat = 8
-	social_liberal = 1 #DStP 0.95
-	market_liberal = 0.7 #Reich Party of the German Middle Class 0.31, German Farmers' Party 0.42
-	social_conservative = 18.74 #DVP 1.86
-	authoritarian_democrat = 0.96
-	paternal_autocrat = 8.5 #DNVP
-	national_populist = 33 #NSDAP
-}
 
 set_popularities = {           
 	totalist = 17 #KPP
@@ -197,18 +182,7 @@ set_popularities = {
 	national_populist = 33 #NSDAP
 }
 
-create_faction = reichspakt
-add_to_faction = GER
-add_to_faction = BEL
-add_to_faction = LIT
-add_to_faction = BAT
-add_to_faction = WHR
-add_to_faction = UKR
-add_to_faction = POL
-add_to_faction = FIN
-add_to_faction = MOR
-add_to_faction = MAF
-add_to_faction = GEA
+
 
 # Election variables
 set_variable = { GER_farleft_seats = 8 }
@@ -226,74 +200,7 @@ set_variable = { GER_DVLP_seats = 65 }
 set_variable = { GER_farright_seats = 3 }
 #Total seats - 445
 
-country_event = { id = gerblack.1 days = 8 } #Pre-BM event 1
-country_event = { id = gerblack.2 days = 29 } #Pre-BM event 2
-country_event = { id = gerblack.3 days = 32 } #Pre-BM event 3
-country_event = { id = gerblack.5 days = 40 } #Collapse of Danatbank
 
-country_event = { id = germany.6 days = 12 } #Choosing DVLP or SPD
-country_event = { id = germany.11 days = 70 random_days = 20 } #Berlin elections
-country_event = { id = germany.12 days = 80 random_days = 5 } #Berlin elections
-country_event = { id = germany.15 days = 45 random_days = 3 } #Neue Wirtschaft
-country_event = { id = germany.16 days = 35 random_days = 7 } #Federalist Bloc
-
-country_event = { id = germany.18 days = 111 } #May Day Riots
-country_event = { id = germany.19 days = 121 } #May Day Riots
-country_event = { id = germany.24 days = 145 random_days = 3 } #Zentrum event chain
-country_event = { id = germany.21 days = 50 random_days = 300 } #Anti-Semitic Violence
-country_event = { id = germany.36 days = 450 random_days = 7 } #SPD Youth
-country_event = { id = germany.58 days = 1095 random_days = 100 } #War Scare
-country_event = { id = germany.59 days = 730 random_days = 100 } #Ruhrkampf leads to insurgency if not defeated.
-
-#country_event = { id = germany.23 days = 365 } #Fallback Prussia event
-
-country_event = { id = gerschl.14 days = 181 } #Ruhrkampf begins
-country_event = { id = gerschl.40 days = 311 } #Red Brunswick
-country_event = { id = gerschl.58 days = 711 } #Tat Circle
-country_event = { id = gerschl.60 days = 720 random_days = 15 } #1938 Budget Vote
-country_event = { id = gerschl.61 days = 365 random_days = 30 } #Agrarian Question
-country_event = { id = gerschl.72 days = 900 random_days = 30 } #Winnig Expelled
-
-country_event = { id = gerspd.11 days = 450 random_days = 360 } # Civil service reform
-country_event = { id = gerspd.8 days = 550 random_days = 7 } # Prussia crisis begins
-
-country_event = { id = germil.1 days = 370 } #Generic military setup
-
-country_event = { id = gerswr.7 days = 365 random_days = 90 } #Royal Scandal
-country_event = { id = gerswr.48 days = 762 random_days = 20 } #Gotha Conference
-
-country_event = { id = gerspd.75 days = 720 random_days = 15 } #SPD Agrarian Dilemma
-
-country_event = { id = gerflavour.1 days = 37 } #Death of Solf
-country_event = { id = gerflavour.6 days = 1218 }  #Death of Groener
-country_event = { id = gerflavour.7 days = 238 } #Sedanday
-country_event = { id = gerflavour.11 days = 2189 } #Death of the Saxe-Meiningen Duke
-country_event = { id = gerflavour.12 days = 3257 random_days = 20 } #Great Freedom
-country_event = { id = gerflavour.13 days = 3798 } #Death of the Waldeck-Pyrmont Prince
-country_event = { id = gerflavour.16 days = 135 } #Mother's Day
-country_event = { id = gerflavour.17 days = 1065 } #Discovery of Nuclear Fission
-country_event = { id = gerflavour.18 days = 895 } #Golden Throne Jubilee
-country_event = { id = gerflavour.20 days = 430 random_days = 30 } #Citric Acid Cycle
-country_event = { id = gerflavour.21 days = 1200 random_days = 30 } #Vydūnas
-country_event = { id = gerflavour.27 days = 900 random_days = 120 } #History of Kashubia
-country_event = { id = gerflavour.39 days = 720 random_days = 365 } #DVLP Splits
-country_event = { id = gerflavour.40 days = 710 } #Death of Ludendorff
-country_event = { id = gerflavour.71 days = 410 } #Max Bauer event
-country_event = { id = gerflavour.72 days = 1400 } #Rhenish festivities cancelled. Checks 1939 Nov, 1940 Feb, 1940 Nov and 1941 Feb
-country_event = { id = gerflavour.72 days = 1492 }
-country_event = { id = gerflavour.72 days = 1766 }
-country_event = { id = gerflavour.72 days = 1858 }
-country_event = { id = gerflavour.75 days = 1200 random_days = 30 } #Lower Saxons event
-country_event = { id = gerflavour.78 days = 1000 } #Goering event
-country_event = { id = gerflavour.81 days = 1120 random_days = 30 }
-
-country_event = { id = mittel.40 days = 84 } #The Kenyatta Affair
-MAF = { country_event = { id = mittel.40 days = 84 } } #The Kenyatta Affair
-
-country_event = { id = gerflavour.8 days = 1981 } #Death of Wilhelm II
-MAF = {
-	country_event = { id = gerflavour.8 days = 1981 } #Death of Wilhelm II
-}
 
 ### Country Leaders ###
 recruit_character = GER_wilhelm_ii #order matters - first one takes precedence

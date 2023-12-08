@@ -141,16 +141,16 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	totalist = 1
-	radical_socialist = 0
-	syndicalist = 21
-	social_democrat = 20
-	social_liberal = 0
-	market_liberal = 5
-	social_conservative = 8
-	authoritarian_democrat = 8
-	paternal_autocrat = 0	
-	national_populist = 3
+	totalist = 1 #KPO
+	radical_socialist = 0 #SDAPO
+	syndicalist = 0 #SDAPO
+	social_democrat = 41 #SDAPO
+	social_liberal = 0 #SDAPO
+	market_liberal = 5 #Landbund
+	social_conservative = 36 #CS
+	authoritarian_democrat = 2 #GDVP
+	paternal_autocrat = 9 #Heimwehr
+	national_populist = 6 #NSAPO
 }
 
 ### Relations ###
