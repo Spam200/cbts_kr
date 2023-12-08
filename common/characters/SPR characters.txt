@@ -2,151 +2,313 @@ characters = {
 	#######################
 	### Country Leaders ###
 	#######################
-	SPR_javier_de_borbon_parma = {
-		name = SPR_javier_de_borbon_parma
+	SPR_augusto_barcia_trelles = {
+		name = SPR_augusto_barcia_trelles
 		portraits = {
-			army = {
-				large = "gfx/leaders/Spains/Portrait_SPA_Javier_I.png"
-				small = "gfx/interface/advisors/SPA/SPA_javier_de_borbon_parma.png"
+			civilian = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Augusto_Barcia_Trelles.png"
 			}
 		}
 		country_leader = {
-			desc = SPR_javier_de_borbon_parma_desc
-			ideology = social_conservative_subtype
-		}
-		country_leader = {
-			desc = SPR_javier_de_borbon_parma_desc
-			ideology = authoritarian_democrat_subtype
-		}
-		country_leader = {
-			desc = SPR_javier_de_borbon_parma_desc
-			ideology = paternal_autocrat_subtype
-		}
-		country_leader = {
-			desc = SPR_javier_de_borbon_parma_desc
-			ideology = national_populist_subtype
-		}
-		field_marshal = {
-			desc = SPR_javier_de_borbon_parma_desc
-			traits = { inflexible_strategist inspirational_leader }
-			skill = 1
-			attack_skill = 1
-			defense_skill = 1
-			planning_skill = 1
-			logistics_skill = 1
+			ideology = social_democrat_subtype
 		}
 	}
-	################
-	### Advisors ###
-	################
-
-	## Only SiC
-	SPR_manuel_fal_conde = {
-		name = SPR_manuel_fal_conde
+	SPR_manuel_azana_diaz = {
+		name = SPR_manuel_azana_diaz
 		portraits = {
 			civilian = {
-				small = "gfx/interface/advisors/SPA/SPA_manuel_fal_conde.png"
+				large = "gfx/leaders/Spains/Portrait_SPA_Manuel_Azana_Diaz.png"
+			}
+		}
+		country_leader = {
+			ideology = social_liberal_subtype
+		}
+	}
+	SPR_niceto_alcala_zamora = {
+		name = SPR_niceto_alcala_zamora
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Niceto_Alcala_Zamora.png"
+			}
+		}
+		country_leader = {
+			ideology = market_liberal_subtype
+		}
+	}
+	SPR_jose_calvo_sotelo = {
+		name = SPR_jose_calvo_sotelo
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Jose_Calvo_Sotelo.png"
+				small = "gfx/interface/advisors/SPA/SPR_jose_calvo_sotelo.png"
+			}
+		}
+		country_leader = {
+			desc = SPR_jose_calvo_sotelo_leader_desc
+			ideology = social_conservative_subtype
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = SPR_jose_calvo_sotelo
+			traits = { KR_interventionist_economist }
+			available = {
+				not_already_hired_except_as = political_advisor
+				is_country_leader = no
 			}
 		}
 		advisor = {
 			slot = second_in_command
-			idea_token = SPR_manuel_fal_conde_sic
+			idea_token = SPR_jose_calvo_sotelo_sic
+			traits = { KR_economic_reformer_sic }
+			cost = 0
+			can_be_fired = no
+		}
+	}
+	SPR_gil_robles = {
+		name = SPR_gil_robles
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/Spains/Portrait_SPA_J_M_Gil_Robles_Quinones.png"
+				small = "gfx/interface/advisors/SPA/SPR_j_m_gil_robles_quinones.png"
+			}
+		}
+		country_leader = {
+			desc = SPR_gil_robles_leader_desc
+			ideology = authoritarian_democrat_subtype
+		}
+		advisor = {
+			slot = second_in_command
+			idea_token = SPR_gil_robles_sic
+			traits = { KR_backroom_backstabber_sic }
+			cost = 0
+			can_be_fired = no
+		}
+	}
+	SPR_emilio_mola_vidal = {
+		name = SPR_emilio_mola_vidal
+		portraits = {
+			army = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Mola_Vidal.png"
+				small = "gfx/interface/advisors/SPA/SPR_emilio_mola_vidal.png"
+			}
+		}
+		country_leader = {
+			desc = SPR_emilio_mola_vidal_leader_desc
+			ideology = paternal_autocrat_subtype
+		}
+		field_marshal = {
+			traits = { trait_cautious thorough_planner organisational_leader }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 2
+		}
+		advisor = {
+			slot = high_command
+			idea_token = SPR_emilio_mola_vidal_high_command
+			ledger = army
+			available = {
+				not_already_hired_except_as = high_command
+			}
+			traits = { KR_MHC_infantry_2 }
+			cost = 100
+		}
+		advisor = {
+			slot = theorist
+			idea_token = SPR_emilio_mola_vidal_theorist
+			ledger = army
+			available = {
+				not_already_hired_except_as = theorist
+			}
+			traits = { KR_military_theorist }
+			cost = 100
+		}
+		advisor = {
+			slot = second_in_command
+			idea_token = SPR_emilio_mola_vidal_sic
 			traits = { KR_iron_fisted_brute_sic }
 			cost = 0
 			can_be_fired = no
 		}
 	}
+	SPR_camilo_alonso_vega = {
+		name = SPR_camilo_alonso_vega
+		portraits = {
+			army = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Alonso_Vega.png"
+				small = "gfx/interface/advisors/SPA/SPR_camilo_alonso_vega.png"
+			}
+		}
+		country_leader = {
+			ideology = national_populist_subtype
+		}
+		corps_commander = {
+			traits = { trickster }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+		}
+		advisor = {
+			slot = second_in_command
+			idea_token = SPR_camilo_alonso_vega_sic
+			traits = { KR_flamboyant_brute_sic }
+			cost = 0
+			can_be_fired = no
+		}
+	}
+
+	SPR_alfonso_de_borbon = {
+		name = SPR_alfonso_de_borbon_regnal
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/Spains/Portrait_Alfonso_XIII.png"
+			}
+		}
+		country_leader = {
+			desc = SPR_alfonso_de_borbon_leader_desc
+			ideology = social_conservative_subtype
+		}
+		country_leader = {
+			desc = SPR_alfonso_de_borbon_leader_desc
+			ideology = authoritarian_democrat_subtype
+		}
+		country_leader = {
+			desc = SPR_alfonso_de_borbon_leader_desc
+			ideology = paternal_autocrat_subtype
+		}
+		country_leader = {
+			desc = SPR_alfonso_de_borbon_leader_desc
+			ideology = national_populist_subtype
+		}
+	}
+	SPR_juan_de_borbon = {
+		name = SPR_juan_de_borbon
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Juan_III.png"
+			}
+		}
+	}
+	SPR_jaime_de_borbon = {
+		name = SPR_jaime_de_borbon
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Jaime_I.png"
+			}
+		}
+	}
+	SPR_henri_de_borbon = {
+		name = SPR_jaime_de_borbon_francospain
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Jaime_I.png"
+			}
+		}
+	}
+
+	################
+	### Advisors ###
+	################
 
 	## Other advisors
-	SPR_jose_maria_valiente = {
-		name = SPR_jose_maria_valiente
+	SPR_francisco_de_borbon_de_la_torre = {
+		name = SPR_francisco_de_borbon_de_la_torre
 		portraits = {
 			civilian = {
-				small = "gfx/interface/advisors/SPA/SPA_jose_maria_valiente.png"
+				small = "gfx/interface/advisors/SPA/SPR_francisco_de_borbon_de_la_torre.png"
 			}
 		}
 		advisor = {
 			slot = political_advisor
-			idea_token = SPR_jose_maria_valiente
-			traits = { KR_backroom_backstabber }
+			idea_token = SPR_francisco_de_borbon_de_la_torre
+			traits = { KR_elder_aristocrat }
 		}
 	}
-	SPR_alejandro_goicoechea_omar = {
-		name = SPR_alejandro_goicoechea_omar
+
+	SPR_francisco_serrat_y_bonastre = {
+		name = SPR_francisco_serrat_y_bonastre
 		portraits = {
 			civilian = {
-				small = "gfx/interface/advisors/SPA/SPA_alejandro_goicoechea_omar.png"
+				small = "gfx/interface/advisors/SPA/SPR_francisco_serrat_y_bonastre.png"
 			}
 		}
 		advisor = {
 			slot = political_advisor
-			idea_token = SPR_alejandro_goicoechea_omar
-			traits = { KR_captain_of_industry }
+			idea_token = SPR_francisco_serrat_y_bonastre
+			traits = { KR_leading_diplomat }
 		}
 	}
-	SPR_tomas_dominguez_arevalo = {
-		name = SPR_tomas_dominguez_arevalo
+
+	SPR_miguel_maura_gamazo = {
+		name = SPR_miguel_maura_gamazo
 		portraits = {
 			civilian = {
-				small = "gfx/interface/advisors/SPA/SPA_tomas_dominguez_arevalo.png"
+				small = "gfx/interface/advisors/SPA/SPR_miguel_maura_gamazo.png"
 			}
 		}
 		advisor = {
 			slot = political_advisor
-			idea_token = SPR_tomas_dominguez_arevalo
-			traits = { KR_technocrat }
+			idea_token = SPR_miguel_maura_gamazo
+			traits = { KR_economic_reformer }
 		}
 	}
-	SPR_dolores_de_gortazar = {
-		name = SPR_dolores_de_gortazar
+
+	SPR_fidel_davila_arrondo = {
+		name = SPR_fidel_davila_arrondo
+		portraits = {
+			civilian = {
+				small = "gfx/interface/advisors/SPA/SPR_fidel_davila_arrondo.png"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = SPR_fidel_davila_arrondo
+			traits = { KR_general_staffer }
+		}
+	}
+
+	SPR_german_gil_y_yuste = {
+		name = SPR_german_gil_y_yuste
+		portraits = {
+			civilian = {
+				small = "gfx/interface/advisors/SPA/SPR_german_gil_y_yuste.png"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = SPR_german_gil_y_yuste
+			traits = { KR_infantry_proponent }
+		}
+	}
+
+	SPR_juan_march_ordinas = {
+		name = SPR_juan_march_ordinas
+		portraits = {
+			civilian = {
+				small = "gfx/interface/advisors/SPA/SPR_juan_march_ordinas.png"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = SPR_juan_march_ordinas
+			traits = { KR_kingmaker }
+		}
+	}
+
+	SPR_pilar_millan_astray = {
+		name = SPR_pilar_millan_astray
 		gender = female
 		portraits = {
 			civilian = {
-				small = "gfx/interface/advisors/SPA/SPA_dolores_de_gortazar.png"
+				small = "gfx/interface/advisors/SPA/SPR_pilar_millan_astray.png"
 			}
 		}
 		advisor = {
 			slot = political_advisor
-			idea_token = SPR_dolores_de_gortazar
-			traits = { KR_ideological_crusader }
-		}
-	}
-	SPR_pedro_segura = {
-		name = SPR_pedro_segura
-		portraits = {
-			civilian = {
-				small = "gfx/interface/advisors/SPA/SPA_pedro_segura.png"
-			}
-		}
-		advisor = {
-			slot = political_advisor
-			idea_token = SPR_pedro_segura
-			traits = { KR_representative_of_the_pope }
-		}
-	}
-	SPR_jaime_del_burgo_torres = {
-		name = SPR_jaime_del_burgo_torres
-		portraits = {
-			civilian = {
-				small = "gfx/interface/advisors/SPA/SPA_jaime_del_burgo_torres.png"
-			}
-		}
-		advisor = {
-			slot = political_advisor
-			idea_token = SPR_jaime_del_burgo_torres
-			traits = { KR_silent_workhorse }
-		}
-	}
-	SPR_antonio_de_lizarza = {
-		name = SPR_antonio_de_lizarza
-		portraits = {
-			civilian = {
-				small = "gfx/interface/advisors/SPA/SPA_antonio_de_lizarza.png"
-			}
-		}
-		advisor = {
-			slot = political_advisor
-			idea_token = SPR_antonio_de_lizarza
+			idea_token = SPR_pilar_millan_astray
 			allowed = {
 				has_dlc_lar = yes
 			}
@@ -160,122 +322,140 @@ characters = {
 	################
 	### Generals ###
 	################
-	SPR_miguel_cabanellas_ferrer = {
-		name = SPR_miguel_cabanellas_ferrer
+	SPR_jose_millan_astray_y_terreros = {
+		name = SPR_jose_millan_astray_y_terreros
 		portraits = {
 			army = {
-				large = "gfx/leaders/Spains/Portrait_SPA_Miguel_Cabanellas_Ferrer.png"
-				small = "gfx/interface/advisors/SPA/SPA_miguel_cabanellas_ferrer.png"
+				large = "gfx/leaders/Spains/Portrait_SPA_Jose_Millan_Astray.png"
+				small = "gfx/interface/advisors/SPA/SPR_jose_millan_astray_y_terreros.png"
 			}
 		}
 		corps_commander = {
-			traits = { old_guard cavalry_officer }
-			skill = 3
+			traits = { media_personality war_hero }
+			skill = 2
 			attack_skill = 2
-			defense_skill = 2
-			planning_skill = 3
+			defense_skill = 1
+			planning_skill = 1
 			logistics_skill = 3
 		}
-		advisor = {
-			slot = high_command
-			idea_token = SPR_miguel_cabanellas_ferrer
-			ledger = army
-			traits = { KR_MHC_army_regrouping_2 }
-			cost = 100
-		}
 	}
-	SPR_gonzalo_queipo_de_llano = {
-		name = SPR_gonzalo_queipo_de_llano
+
+	SPR_jose_sanjurjo_sacanell = {
+		name = SPR_jose_sanjurjo_sacanell
 		portraits = {
 			army = {
-				large = "gfx/leaders/Spains/Portrait_SPA_Queipo_de_Llano_y_Sierra.png"
-				small = "gfx/interface/advisors/SPA/SPA_gonzalo_queipo_de_llano.png"
+				large = "gfx/leaders/Spains/Portrait_SPA_Sanjurjo_Sacanell.png"
+				small = "gfx/interface/advisors/SPA/SPR_jose_sanjurjo_sacanell.png"
 			}
 		}
-		corps_commander = {
-			traits = { infantry_officer }
-			skill = 3
-			attack_skill = 3
-			defense_skill = 3
+		field_marshal = {
+			traits = { old_guard politically_connected logistics_wizard }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
 			planning_skill = 2
 			logistics_skill = 2
 		}
-		advisor = {
-			slot = high_command
-			idea_token = SPR_emilio_mola_vidal
-			ledger = army
-			traits = { KR_MHC_army_logistics_1 }
-			cost = 50
-		}
 	}
-	SPR_mariano_gamir_ulibarri = {
-		name = SPR_mariano_gamir_ulibarri
+	SPR_francisco_franco_bahamonde = {
+		name = SPR_francisco_franco_bahamonde
 		portraits = {
 			army = {
-				large = "gfx/leaders/Spains/Portrait_SPA_Mariano_Gamir_Ulibarri.png"
-				small = "gfx/interface/advisors/SPA/SPA_mariano_gamir_ulibarri.png"
+				large = "gfx/leaders/Spains/Portrait_SPA_Franco_Bahamonde.png"
+				small = "gfx/interface/advisors/SPA/SPR_francisco_franco_bahamonde.png"
 			}
 		}
 		corps_commander = {
-			traits = { trickster commando }
-			skill = 2
+			traits = { politically_connected infantry_leader }
+			skill = 3
 			attack_skill = 3
-			defense_skill = 1
-			planning_skill = 1
+			defense_skill = 2
+			planning_skill = 3
 			logistics_skill = 2
 		}
-	}
-	SPR_jose_moscardo_ituarte = {
-		name = SPR_jose_moscardo_ituarte
-		portraits = {
-			army = {
-				large = "gfx/leaders/Spains/Portrait_SPA_Jose_Moscardo_Ituarte.png"
-				small = "gfx/interface/advisors/SPA/SPA_jose_moscardo_ituarte.png"
-			}
-		}
-		corps_commander = {
-			traits = { trait_cautious skilled_staffer }
-			skill = 1
-			attack_skill = 1
-			defense_skill = 1
-			planning_skill = 1
-			logistics_skill = 1
-		}
-	}
-	SPR_ricardo_de_rada_y_peral = {
-		name = SPR_ricardo_de_rada_y_peral
-		portraits = {
-			army = {
-				large = "gfx/leaders/Spains/Portrait_SPA_Ricardo_de_Rada_Peral.png"
-				small = "gfx/interface/advisors/SPA/SPA_ricardo_de_rada_y_peral.png"
-			}
-		}
 		advisor = {
-			slot = high_command
-			idea_token = SPR_ricardo_de_rada_y_peral
-			ledger = army
-			traits = { KR_MHC_entrenchment_2 }
+			slot = army_chief
+			idea_token = SPR_francisco_franco_bahamonde
+			traits = { KR_army_chief_offensive_2 }
 			cost = 100
 		}
+	}
+	SPR_leopoldo_saro_marin = {
+		name = SPR_leopoldo_saro_marin
+		portraits = {
+			army = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Leopoldo_Saro_Marin.png"
+				small = "gfx/interface/advisors/SPA/SPR_leopoldo_saro_marin.png"
+			}
+		}
 		corps_commander = {
-			traits = { old_guard }
+			traits = { politically_connected trait_cautious }
 			skill = 1
 			attack_skill = 1
 			defense_skill = 1
 			planning_skill = 1
 			logistics_skill = 1
+		}
+	}
+	SPR_emilio_barrera_luyando = {
+		name = SPR_emilio_barrera_luyando
+		portraits = {
+			army = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Emilio_Luyando.png"
+				small = "gfx/interface/advisors/SPA/SPR_emilio_barrera_luyando.png"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SPR_manuel_goded_llopis = {
+		name = SPR_manuel_goded_llopis
+		portraits = {
+			army = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Goded_Llopis.png"
+				small = "gfx/interface/advisors/SPA/SPR_manuel_goded_llopis.png"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	SPR_damaso_berenguer_fuste = {
+		name = SPR_damaso_berenguer_fuste
+		portraits = {
+			army = {
+				large = "gfx/leaders/Spains/Portrait_SPA_Damaso_Berenguer_Fuste.png"
+				small = "gfx/interface/advisors/SPA/SPR_damaso_berenguer_fuste.png"
+			}
+		}
+		corps_commander = {
+			traits = { old_guard organizer }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
 		}
 	}
 
 	################
 	### Admirals ###
 	################
-	SPA_salvador_moreno_hernandez = {
-		name = SPA_salvador_moreno_hernandez
+	SPR_manuel_vierna_belando = {
+		name = SPR_manuel_vierna_belando
 		portraits = {
 			army = {
-				large = "gfx/leaders/Spains/Portrait_SPA_Salvador_Moreno_Hernandez.png"
-				small = "gfx/interface/advisors/SPA/SPA_salvador_moreno_hernandez.png"
+				large = "gfx/leaders/Spains/Portrait_SPA_Manuel_Vierna_Belando.png"
+				small = "gfx/interface/advisors/SPA/SPR_manuel_vierna_belando.png"
 			}
 		}
 		navy_leader = {
@@ -285,72 +465,110 @@ characters = {
 			maneuvering_skill = 1
 			coordination_skill = 1
 		}
-		advisor = {
-			slot = navy_chief
-			idea_token = SPA_salvador_moreno_fernandez
-			traits = { KR_navy_chief_decisive_battle_2 }
-			cost = 100
-		}
 	}
 
 	######################
 	### Military Staff ###
 	######################
-	SPR_rafael_garcia_valino = {
-		name = SPR_rafael_garcia_valino
+	SPR_juan_yague_blanco = {
+		name = SPR_juan_yague_blanco
 		portraits = {
 			army = {
-				small = "gfx/interface/advisors/SPA/SPA_rafael_garcia_valino.png"
+				small = "gfx/interface/advisors/SPA/SPR_juan_yague_blanco.png"
 			}
 		}
 		advisor = {
 			slot = army_chief
-			idea_token = SPA_rafael_garcia_valino
-			traits = { KR_army_chief_organisational_2 }
-			cost = 100
-		}
-	}
-	SPR_heliodoro_rolando_de_tella_cantos = {
-		name = SPR_heliodoro_rolando_de_tella_cantos
-		portraits = {
-			army = {
-				small = "gfx/interface/advisors/SPA/SPA_heliodoro_rolando_de_tella_cantos.png"
-			}
-		}
-		advisor = {
-			slot = army_chief
-			idea_token = SPR_heliodoro_rolando_de_tella_cantos
+			idea_token = SPR_juan_yague_blanco
 			traits = { KR_army_chief_defensive_2 }
 			cost = 100
 		}
 	}
-	SPR_juan_vigon_suero_diaz = {
-		name = SPR_juan_vigon_suero_diaz
+	SPR_luis_carrero_blanco = {
+		name = SPR_luis_carrero_blanco
 		portraits = {
 			army = {
-				small = "gfx/interface/advisors/SPA/SPA_juan_vigon_suero_diaz.png"
+				small = "gfx/interface/advisors/SPA/SPR_luis_carrero_blanco.png"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = SPR_luis_carrero_blanco
+			traits = { KR_navy_chief_decisive_battle_2 }
+			cost = 100
+		}
+	}
+	SPR_francisco_moreno_fernandez = {
+		name = SPR_francisco_moreno_fernandez
+		portraits = {
+			army = {
+				small = "gfx/interface/advisors/SPA/SPR_francisco_moreno_fernandez.png"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = SPR_francisco_moreno_fernandez
+			traits = { KR_navy_chief_reform_2 }
+			cost = 100
+		}
+	}
+	SPR_joaquin_garcia_morato = {
+		name = SPR_joaquin_garcia_morato
+		portraits = {
+			army = {
+				small = "gfx/interface/advisors/SPA/SPR_joaquin_garcia_morato.png"
 			}
 		}
 		advisor = {
 			slot = air_chief
-			idea_token = SPR_juan_vigon_suero_diaz
-			traits = { KR_air_chief_reform_2 }
+			idea_token = SPR_joaquin_garcia_morato
+			traits = { KR_air_chief_ground_support_2 }
 			cost = 100
 		}
 	}
-	SPR_jose_enrique_varela = {
-		name = SPR_jose_enrique_varela
+	SPR_miguel_ponte_manso_de_zuniga = {
+		name = SPR_miguel_ponte_manso_de_zuniga
 		portraits = {
 			army = {
-				small = "gfx/interface/advisors/SPA/SPA_jose_enrique_varela.png"
+				small = "gfx/interface/advisors/SPA/SPR_miguel_ponte_manso_de_zuniga.png"
 			}
 		}
 		advisor = {
-			slot = theorist
-			idea_token = SPR_jose_enrique_varela
+			slot = high_command
+			idea_token = SPR_miguel_ponte_manso_de_zuniga
 			ledger = army
-			traits = { KR_military_theorist }
+			traits = { KR_MHC_entrenchment_1 }
+			cost = 50
+		}
+	}
+	SPR_enrique_canovas_lacruz = {
+		name = SPR_enrique_canovas_lacruz
+		portraits = {
+			army = {
+				small = "gfx/interface/advisors/SPA/SPR_enrique_canovas_lacruz.png"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = SPR_enrique_canovas_lacruz
+			ledger = army
+			traits = { KR_MHC_army_logistics_2 }
 			cost = 100
+		}
+	}
+	SPR_angel_salas_larrazabal = {
+		name = SPR_angel_salas_larrazabal
+		portraits = {
+			army = {
+				small = "gfx/interface/advisors/SPA/SPR_angel_salas_larrazabal.png"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = SPR_angel_salas_larrazabal
+			ledger = air
+			traits = { KR_MHC_strategic_bombing_1 }
+			cost = 50
 		}
 	}
 }

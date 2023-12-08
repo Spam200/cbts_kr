@@ -2,34 +2,34 @@ characters = {
 	#######################
 	### Country Leaders ###
 	#######################
-	SER_petar_ii = {
-		name = SER_petar_ii
+	YUG_petar_ii = {
+		name = YUG_petar_ii
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Peter_II.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Peter_II.png"
 			}
 		}
 	}
-	SER_temporary_national_representation = {
-		name = SER_temporary_national_representation
+	YUG_temporary_national_representation = {
+		name = YUG_temporary_national_representation
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Temporary_National_Representation.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Temporary_National_Representation.png"
 			}
 		}
 	}
-	SER_milan_grol = {
-		name = SER_milan_grol
+	YUG_milan_grol = {
+		name = YUG_milan_grol
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Milan_Grol.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milan_Grol.png"
 			}
 			army = {
 				small = "gfx/interface/advisors/SER/SER_milan_grol.png"
 			}
 		}
 		country_leader = {
-			desc = SER_milan_grol_leader_desc
+			desc = YUG_milan_grol_leader_desc
 			ideology = social_liberal_subtype
 		}
 		advisor = {
@@ -40,11 +40,11 @@ characters = {
 			can_be_fired = no
 		}
 	}
-	SER_dimitrije_ljotic = {
-		name = SER_dimitrije_ljotic
+	YUG_dimitrije_ljotic = {
+		name = YUG_dimitrije_ljotic
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Milan_Nedic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milan_Nedic.png"
 			}
 			army = {
 				small = "gfx/interface/advisors/SER/SER_dimitrije_ljotic.png"
@@ -61,8 +61,8 @@ characters = {
 			can_be_fired = no
 		}
 	}
-	SER_mirko_korolija = {
-		name = SER_mirko_korolija
+	YUG_mirko_korolija = {
+		name = YUG_mirko_korolija
 		portraits = {
 			civilian = {
 				large = GFX_Portrait_Europe_Generic_new_12
@@ -72,11 +72,11 @@ characters = {
 			ideology = national_populist_subtype
 		}
 	}
-	SER_nikola_uzunovic = {
-		name = SER_nikola_uzunovic
+	YUG_nikola_uzunovic = {
+		name = YUG_nikola_uzunovic
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Nikola_Uzunovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Nikola_Uzunovic.png"
 			}
 			army = {
 				small = "gfx/interface/advisors/SER/SER_nikola_uzunovic.png"
@@ -93,45 +93,45 @@ characters = {
 			can_be_fired = no
 		}
 	}
-	SER_mosa_pijade = {
-		name = SER_mosa_pijade
+	YUG_mosa_pijade = {
+		name = YUG_mosa_pijade
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Mosa_Pijade.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Mosa_Pijade.png"
 			}
 		}
 		country_leader = {
 			ideology = radical_socialist_subtype
 		}
 	}
-	SER_milan_gorkic = {
-		name = SER_milan_gorkic
+	YUG_milan_gorkic = {
+		name = YUG_milan_gorkic
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Milan_Gorkic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milan_Gorkic.png"
 			}
 		}
 		country_leader = {
 			ideology = radical_socialist_subtype
 		}
 	}
-	SER_josip_broz = {
-		name = SER_josip_broz
+	YUG_josip_broz = {
+		name = YUG_josip_broz
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Josip_Broz.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Josip_Broz.png"
 			}
 		}
 		country_leader = {
 			ideology = radical_socialist_subtype
-			traits = { SER_independent_red }
+			traits = { YUG_independent_red }
 		}
 	}
-	SER_vukasin_markovic = {
-		name = SER_vukasin_markovic
+	YUG_vukasin_markovic = {
+		name = YUG_vukasin_markovic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Vukasin_Markovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Vukasin_Markovic.png"
 				small = "gfx/interface/advisors/SER/SER_vukasin_markovic.png"
 			}
 		}
@@ -149,28 +149,28 @@ characters = {
 			planning_skill = 1
 			logistics_skill = 2
 			visible = { #TODO: revert when bug with country_leader variable is fixed
-				has_completed_focus = SER_new_generals
+				has_completed_focus = YUG_new_generals
 				has_socialist_government = yes
 			}
 		}
 	}
-	SER_trifun_kaclerovic = {
-		name = SER_trifun_kaclerovic
+	YUG_trifun_kaclerovic = {
+		name = YUG_trifun_kaclerovic
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Trifun_Kaclerovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Trifun_Kaclerovic.png"
 			}
 		}
 		country_leader = {
-			desc = SER_trifun_kaclerovic_leader_desc
+			desc = YUG_trifun_kaclerovic_leader_desc
 			ideology = radical_socialist_subtype
 		}
 	}
-	SER_zivko_topalovic = {
-		name = SER_zivko_topalovic
+	YUG_zivko_topalovic = {
+		name = YUG_zivko_topalovic
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Zivko_Topalovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Zivko_Topalovic.png"
 				small = "gfx/interface/advisors/SER/SER_zivko_topalovic.png"
 			}
 		}
@@ -186,73 +186,73 @@ characters = {
 			traits = { KR_socialist_moderate }
 		}
 	}
-	SER_dragomir_vasic = {
-		name = SER_dragomir_vasic
+	YUG_dragomir_vasic = {
+		name = YUG_dragomir_vasic
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Dragomir_Vasic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Dragomir_Vasic.png"
 			}
 		}
 		country_leader = {
-			desc = SER_dragomir_vasic_leader_desc
+			desc = YUG_dragomir_vasic_leader_desc
 			ideology = social_liberal_subtype
 		}
 	}
-	SER_milan_stojadinovic = {
-		name = SER_milan_stojadinovic
+	YUG_milan_stojadinovic = {
+		name = YUG_milan_stojadinovic
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Milan_Stojadinovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milan_Stojadinovic.png"
 			}
 			army = {
 				small = "gfx/interface/advisors/SER/SER_milan_stojadinovic.png"
 			}
 		}
 		country_leader = {
-			desc = SER_milan_stojadinovic_leader_desc
+			desc = YUG_milan_stojadinovic_leader_desc
 			ideology = market_liberal_subtype
 		}
 		advisor = {
 			slot = second_in_command
 			idea_token = SER_milan_stojadinovic_sic
-			allowed = { has_idea = SER_Petar_II_stojadinovic_puppet }
+			allowed = { has_idea = YUG_Petar_II_stojadinovic_puppet }
 			traits = { KR_corporate_suit_sic }
 			cost = 0
 			can_be_fired = no
 		}
 	}
-	SER_milan_gavrilovic = {
-		name = SER_milan_gavrilovic
+	YUG_milan_gavrilovic = {
+		name = YUG_milan_gavrilovic
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Milan_Gavrilovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milan_Gavrilovic.png"
 			}
 		}
 		country_leader = {
 			ideology = social_conservative_subtype
 		}
 	}
-	SER_zivojin_peric = {
-		name = SER_zivojin_peric
+	YUG_zivojin_peric = {
+		name = YUG_zivojin_peric
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Zivojin_Peric.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Zivojin_Peric.png"
 			}
 		}
 		country_leader = {
 			ideology = authoritarian_democrat_subtype
 		}
 	}
-	SER_petar_zivkovic = {
-		name = SER_petar_zivkovic
+	YUG_petar_zivkovic = {
+		name = YUG_petar_zivkovic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Petar_Zivkovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Petar_Zivkovic.png"
 				small = "gfx/interface/advisors/SER/SER_petar_zivkovic.png"
 			}
 		}
 		country_leader = {
-			desc = SER_petar_zivkovic_leader_desc
+			desc = YUG_petar_zivkovic_leader_desc
 			ideology = paternal_autocrat_subtype
 		}
 		advisor = {
@@ -274,11 +274,11 @@ characters = {
 			}
 		}
 	}
-	SER_collective_leadership = {
-		name = SER_collective_leadership
+	YUG_collective_leadership = {
+		name = YUG_collective_leadership
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/SER/Portrait_SER_Milan_Nedic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milan_Nedic.png"
 			}
 		}
 		country_leader = {
@@ -289,12 +289,12 @@ characters = {
 	################
 	### Generals ###
 	################
-	SER_petar_bojovic = {
-		name = SER_petar_bojovic
+	YUG_petar_bojovic = {
+		name = YUG_petar_bojovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_petar_bojovic.png"
-				large = "gfx/leaders/SER/Portrait_SER_Petar_Bojovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Petar_Bojovic.png"
 			}
 		}
 		corps_commander = {
@@ -306,12 +306,12 @@ characters = {
 			logistics_skill = 3
 		}
 	}
-	SER_konstantin_popovic = {
-		name = SER_konstantin_popovic
+	YUG_konstantin_popovic = {
+		name = YUG_konstantin_popovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_konstantin_popovic.png"
-				large = "gfx/leaders/SER/Portrait_SER_Koca_Popovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Koca_Popovic.png"
 			}
 		}
 		corps_commander = {
@@ -323,12 +323,12 @@ characters = {
 			logistics_skill = 1
 		}
 	}
-	SER_arso_jovanovic = {
-		name = SER_arso_jovanovic
+	YUG_arso_jovanovic = {
+		name = YUG_arso_jovanovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_arso_jovanovic.png"
-				large = "gfx/leaders/SER/Portrait_SER_Arso_Jovanovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Arso_Jovanovic.png"
 			}
 		}
 		corps_commander = {
@@ -340,12 +340,12 @@ characters = {
 			logistics_skill = 1
 		}
 	}
-	SER_milan_nedic = {
-		name = SER_milan_nedic
+	YUG_milan_nedic = {
+		name = YUG_milan_nedic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_milan_nedic.png"
-				large = "gfx/leaders/SER/Portrait_SER_Milan_Nedic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milan_Nedic.png"
 			}
 		}
 		field_marshal = {
@@ -357,11 +357,11 @@ characters = {
 			logistics_skill = 3
 		}
 	}
-	SER_milorad_petrovic = {
-		name = SER_milorad_petrovic
+	YUG_milorad_petrovic = {
+		name = YUG_milorad_petrovic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Mirolad_Petrovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Mirolad_Petrovic.png"
 				small = "gfx/interface/advisors/SER/SER_milorad_petrovic.png"
 			}
 		}
@@ -380,11 +380,11 @@ characters = {
 			cost = 100
 		}
 	}
-	SER_dragoljub_mihailovic = {
-		name = SER_dragoljub_mihailovic
+	YUG_dragoljub_mihailovic = {
+		name = YUG_dragoljub_mihailovic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Draza_Mihailovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Draza_Mihailovic.png"
 				small = "gfx/interface/advisors/SER/SER_dragoljub_mihailovic.png"
 			}
 		}
@@ -404,11 +404,11 @@ characters = {
 			cost = 100
 		}
 	}
-	SER_ljubomir_maric = {
-		name = SER_ljubomir_maric
+	YUG_ljubomir_maric = {
+		name = YUG_ljubomir_maric
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Lubomir_Maric.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Lubomir_Maric.png"
 				small = "gfx/interface/advisors/SER/SER_ljubomir_maric.png"
 			}
 		}
@@ -427,11 +427,11 @@ characters = {
 			cost = 50
 		}
 	}
-	SER_milutin_nedic = {
-		name = SER_milutin_nedic
+	YUG_milutin_nedic = {
+		name = YUG_milutin_nedic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Milutin_Nedic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milutin_Nedic.png"
 				small = "gfx/interface/advisors/SER/SER_milutin_nedic.png"
 			}
 		}
@@ -463,11 +463,11 @@ characters = {
 			cost = 50
 		}
 	}
-	SER_dusan_trifunovic = {
-		name = SER_dusan_trifunovic
+	YUG_dusan_trifunovic = {
+		name = YUG_dusan_trifunovic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Dusan_Trifunovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Dusan_Trifunovic.png"
 				small = "gfx/interface/advisors/SER/SER_dusan_trifunovic.png"
 			}
 		}
@@ -487,11 +487,11 @@ characters = {
 			cost = 50
 		}
 	}
-	SER_bogoljub_ilic = {
-		name = SER_bogoljub_ilic
+	YUG_bogoljub_ilic = {
+		name = YUG_bogoljub_ilic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Bogoljub_Ilic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Bogoljub_Ilic.png"
 				small = "gfx/interface/advisors/SER/SER_bogoljub_ilic.png"
 			}
 		}
@@ -506,7 +506,7 @@ characters = {
 		advisor = {
 			slot = second_in_command
 			idea_token = SER_bogoljub_ilic_sic
-			allowed = { has_country_leader = { character = SER_milan_nedic } }
+			allowed = { has_country_leader = { character = YUG_milan_nedic } }
 			traits = { KR_old_general_sic }
 			cost = 0
 			can_be_fired = no
@@ -521,11 +521,11 @@ characters = {
 			cost = 50
 		}
 	}
-	SER_dusan_simovic = {
-		name = SER_dusan_simovic
+	YUG_dusan_simovic = {
+		name = YUG_dusan_simovic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Dusan_Simovic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Dusan_Simovic.png"
 				small = "gfx/interface/advisors/SER/SER_dusan_simovic.png"
 			}
 		}
@@ -540,7 +540,7 @@ characters = {
 		advisor = {
 			slot = second_in_command
 			idea_token = SER_dusan_simovic_sic
-			allowed = { has_completed_focus = SER_March_Conspiracy }
+			allowed = { has_completed_focus = YUG_March_Conspiracy }
 			traits = { KR_old_air_marshal_sic }
 			cost = 0
 			can_be_fired = no
@@ -564,11 +564,11 @@ characters = {
 			cost = 100
 		}
 	}
-	SER_milan_spasic = {
-		name = SER_milan_spasic
+	YUG_milan_spasic = {
+		name = YUG_milan_spasic
 		portraits = {
 			army = {
-				large = "gfx/leaders/SER/Portrait_SER_Milan_Spasic.png"
+				large = "gfx/leaders/YUG/Portrait_SER_Milan_Spasic.png"
 				small = "gfx/interface/advisors/SER/SER_milan_spasic.png"
 			}
 		}
@@ -591,8 +591,8 @@ characters = {
 	### Advisors ###
 	################
 	# Seconds in Command
-	SER_sima_markovic = {
-		name = SER_sima_markovic
+	YUG_sima_markovic = {
+		name = YUG_sima_markovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_sima_markovic.png"
@@ -606,8 +606,8 @@ characters = {
 			can_be_fired = no
 		}
 	}
-	SER_mihailo_ilic = {
-		name = SER_mihailo_ilic
+	YUG_mihailo_ilic = {
+		name = YUG_mihailo_ilic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_mihailo_ilic.png"
@@ -621,8 +621,8 @@ characters = {
 			can_be_fired = no
 		}
 	}
-	SER_aleksandar_cincar_markovic = {
-		name = SER_aleksandar_cincar_markovic
+	YUG_aleksandar_cincar_markovic = {
+		name = YUG_aleksandar_cincar_markovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_aleksandar_cincar_markovic.png"
@@ -637,8 +637,8 @@ characters = {
 		}
 	}
 	# Political Advisors
-	SER_serbian_cultural_club = {
-		name = SER_serbian_cultural_club
+	YUG_serbian_cultural_club = {
+		name = YUG_serbian_cultural_club
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_serbian_cultural_club.png"
@@ -656,16 +656,16 @@ characters = {
 			available = {
 				has_character_flag = character_event_only
 				OR = {
-					has_idea = SER_konspiracija_idea
-					has_idea = SER_YUG_interferent_military
-					has_idea = SER_YUG_deep_state
+					has_idea = YUG_konspiracija_idea
+					has_idea = YUG_YUG_interferent_military
+					has_idea = YUG_YUG_deep_state
 				}
 			}
 			traits = { KR_serbian_cultural_club }
 		}
 	}
-	SER_aleksandar_rankovic = {
-		name = SER_aleksandar_rankovic
+	YUG_aleksandar_rankovic = {
+		name = YUG_aleksandar_rankovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_aleksandar_rankovic.png"
@@ -680,8 +680,8 @@ characters = {
 			traits = { KR_prince_of_terror }
 		}
 	}
-	SER_konstantin_pecanac = {
-		name = SER_konstantin_pecanac
+	YUG_konstantin_pecanac = {
+		name = YUG_konstantin_pecanac
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_konstantin_pecanac.png"
@@ -693,8 +693,8 @@ characters = {
 			traits = { KR_chetnik_veteran }
 		}
 	}
-	SER_slobodan_jovanovic = {
-		name = SER_slobodan_jovanovic
+	YUG_slobodan_jovanovic = {
+		name = YUG_slobodan_jovanovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_slobodan_jovanovic.png"
@@ -704,13 +704,13 @@ characters = {
 			slot = political_advisor
 			idea_token = SER_slobodan_jovanovic
 			available = {
-				SER = { is_monarchy = no }
+				YUG = { is_monarchy = no }
 			}
 			traits = { KR_republican_academic }
 		}
 	}
-	SER_filip_filipovic = {
-		name = SER_filip_filipovic
+	YUG_filip_filipovic = {
+		name = YUG_filip_filipovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_filip_filipovic.png"
@@ -725,8 +725,8 @@ characters = {
 			traits = { KR_socialism_proponent }
 		}
 	}
-	SER_milan_srskic = {
-		name = SER_milan_srskic
+	YUG_milan_srskic = {
+		name = YUG_milan_srskic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_milan_srskic.png"
@@ -737,15 +737,15 @@ characters = {
 			idea_token = SER_milan_srskic
 			available = {
 				OR = {
-					has_idea = SER_Petar_II_regency
-					has_country_leader = { character = SER_petar_ii }
+					has_idea = YUG_Petar_II_regency
+					has_country_leader = { character = YUG_petar_ii }
 				}
 			}
 			traits = { KR_monarchist_loyalist }
 		}
 	}
-	SER_ninko_peric = {
-		name = SER_ninko_peric
+	YUG_ninko_peric = {
+		name = YUG_ninko_peric
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_ninko_peric.png"
@@ -758,8 +758,8 @@ characters = {
 		}
 	}
 	# Živko Topalović
-	SER_milan_acimovic = {
-		name = SER_milan_acimovic
+	YUG_milan_acimovic = {
+		name = YUG_milan_acimovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_milan_acimovic.png"
@@ -776,14 +776,14 @@ characters = {
 			}
 			available = {
 				has_character_flag = character_event_only
-				has_idea = SER_konspiracija_idea
+				has_idea = YUG_konspiracija_idea
 			}
 			traits = { KR_conspiracy_puppet }
 			can_be_fired = no
 		}
 	}
-	SER_dragutin_gavrilovic = {
-		name = SER_dragutin_gavrilovic
+	YUG_dragutin_gavrilovic = {
+		name = YUG_dragutin_gavrilovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_dragutin_gavrilovic.png"
@@ -796,8 +796,8 @@ characters = {
 		}
 	}
 	# Dušan Simović
-	SER_mladen_zujovic = {
-		name = SER_mladen_zujovic
+	YUG_mladen_zujovic = {
+		name = YUG_mladen_zujovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_mladen_zujovic.png"
@@ -807,13 +807,13 @@ characters = {
 			slot = political_advisor
 			idea_token = SER_mladen_zujovic
 			available = {
-				SER = { is_monarchy = no }
+				YUG = { is_monarchy = no }
 			}
 			traits = { KR_republican_firebrand }
 		}
 	}
-	SER_momcilo_nincic = {
-		name = SER_momcilo_nincic
+	YUG_momcilo_nincic = {
+		name = YUG_momcilo_nincic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_momcilo_nincic.png"
@@ -823,13 +823,13 @@ characters = {
 			slot = political_advisor
 			idea_token = SER_momcilo_nincic
 			available = {
-				has_country_leader = { character = SER_milan_stojadinovic }
+				has_country_leader = { character = YUG_milan_stojadinovic }
 			}
 			traits = { KR_pragmatic_statesman }
 		}
 	}
-	SER_milos_savcic = {
-		name = SER_milos_savcic
+	YUG_milos_savcic = {
+		name = YUG_milos_savcic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_milos_savcic.png"
@@ -841,8 +841,8 @@ characters = {
 			traits = { KR_captain_of_industry }
 		}
 	}
-	SER_dobrica_matkovic = {
-		name = SER_dobrica_matkovic
+	YUG_dobrica_matkovic = {
+		name = YUG_dobrica_matkovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_dobrica_matkovic.png"
@@ -860,8 +860,8 @@ characters = {
 			traits = { KR_head_of_intelligence }
 		}
 	}
-	SER_petar_kosic = {
-		name = SER_petar_kosic
+	YUG_petar_kosic = {
+		name = YUG_petar_kosic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_petar_kosic.png"
@@ -875,8 +875,8 @@ characters = {
 			cost = 50
 		}
 	}
-	SER_dragomir_stojanovic = {
-		name = SER_dragomir_stojanovic
+	YUG_dragomir_stojanovic = {
+		name = YUG_dragomir_stojanovic
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_dragomir_stojanovic.png"
@@ -890,8 +890,8 @@ characters = {
 			cost = 50
 		}
 	}
-	SER_navy_army_command = {
-		name = SER_navy_army_command
+	YUG_navy_army_command = {
+		name = YUG_navy_army_command
 		portraits = {
 			army = {
 				small = "gfx/interface/advisors/SER/SER_navy_army_command.png"
@@ -905,8 +905,8 @@ characters = {
 		}
 	}
 
-	SER_military_reform_council = {
-		name = SER_military_reform_council
+	YUG_military_reform_council = {
+		name = YUG_military_reform_council
 		portraits = {
 			army = {
 				small = GFX_idea_generic_council_of_theorists
@@ -917,7 +917,7 @@ characters = {
 			idea_token = SER_military_reform_council
 			ledger = military
 			available = {
-				has_completed_focus = SER_Form_The_Military_Council
+				has_completed_focus = YUG_Form_The_Military_Council
 			}
 			traits = { KR_council_of_theorists }
 			cost = 100
