@@ -48,7 +48,7 @@ add_ideas = {
 china_add_poor_army = yes
 
 set_variable = { country_intro_page_count = 2 } #Intro Screen
-country_event = { id = xin.3 days = 13 }
+#country_event = { id = xin.3 days = 13 }
 
 recruit_character = SIK_fan_yaonan
 recruit_character = SIK_ma_shaowu

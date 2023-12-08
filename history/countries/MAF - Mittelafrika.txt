@@ -147,19 +147,19 @@ if = {
 	}
 }
 
-country_event = { id = bushwar.1 days = 2 }
+#country_event = { id = bushwar.1 days = 2 }
 
-country_event = { id = mittel.420 days = 265 } #Kikuyu Central Association
-country_event = { id = mittel.001 days = 287 } #Anniversary of Mahiwa
-country_event = { id = mittel.002 days = 495 random_days = 50 } #Death of Bernhard Dernburg
-country_event = { id = mittel.421 days = 996 } #Colonisation Question
-country_event = { id = literature.14 days = 1250 random_days = 200 } #Auf den Marmorklippen, a Book by Ernst Júnger
-country_event = { id = mittel.423 days = 1825 random_days = 150 } #Death of Josslyn Hay
+#country_event = { id = mittel.420 days = 265 } #Kikuyu Central Association
+#country_event = { id = mittel.001 days = 287 } #Anniversary of Mahiwa
+#country_event = { id = mittel.002 days = 495 random_days = 50 } #Death of Bernhard Dernburg
+#country_event = { id = mittel.421 days = 996 } #Colonisation Question
+#country_event = { id = literature.14 days = 1250 random_days = 200 } #Auf den Marmorklippen, a Book by Ernst Júnger
+#country_event = { id = mittel.423 days = 1825 random_days = 150 } #Death of Josslyn Hay
 
-country_event = { id = mittel.201 days = 366 } #Budget 1937
-country_event = { id = mittel.202 days = 731 } #Budget 1938
-country_event = { id = mittel.203 days = 1096 } #Budget 1939
-country_event = { id = mittel.204 days = 1461 } #Budget 1940
+#country_event = { id = mittel.201 days = 366 } #Budget 1937
+#country_event = { id = mittel.202 days = 731 } #Budget 1938
+#country_event = { id = mittel.203 days = 1096 } #Budget 1939
+#country_event = { id = mittel.204 days = 1461 } #Budget 1940
 
 GER = {
 	set_autonomy = {

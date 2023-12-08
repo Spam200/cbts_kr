@@ -54,8 +54,8 @@ add_ideas = {
 	HON_great_purge
 }
 
-country_event = { id = cafla.18 days = 258 }
-country_event = { id = honduras.2 days = 90 }
+#country_event = { id = cafla.18 days = 258 }
+#country_event = { id = honduras.2 days = 90 }
 
 activate_targeted_decision = { decision = CEN_unite_central_america target = THIS }
 

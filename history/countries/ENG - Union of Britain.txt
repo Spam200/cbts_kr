@@ -174,18 +174,18 @@ set_popularities = {
 add_ideas = ENG_naval_devotion
 
 ### Events ###
-#country_event = { id = uob.0 days = 1 } #Intro event
-country_event = { id = uob.1 days = 20 } #Congress Starts
-#country_event = { id = uob.363 days = 345 }
-country_event = { id = uob.1003 days = 914 }
-country_event = { id = uob.1004 days = 745 }
-country_event = { id = uob.1005 days = 3050 }
+##country_event = { id = uob.0 days = 1 } #Intro event
+#country_event = { id = uob.1 days = 20 } #Congress Starts
+##country_event = { id = uob.363 days = 345 }
+#country_event = { id = uob.1003 days = 914 }
+#country_event = { id = uob.1004 days = 745 }
+#country_event = { id = uob.1005 days = 3050 }
 news_event = { id = uob.1019 days = 488 }
-country_event = { id = uob.1020 days = 10 }
-country_event = { id = comfrance.71 days = 456 random_hours = 120 }
-country_event = { id = uob.1034 days = 520 }
-country_event = { id = uob.1035 days = 60 }
-country_event = { id = uob.1014 days = 1898 } #Tom Mann Passes Away
+#country_event = { id = uob.1020 days = 10 }
+#country_event = { id = comfrance.71 days = 456 random_hours = 120 }
+#country_event = { id = uob.1034 days = 520 }
+#country_event = { id = uob.1035 days = 60 }
+#country_event = { id = uob.1014 days = 1898 } #Tom Mann Passes Away
 
 ### Country Leaders ###
 recruit_character = ENG_oswald_mosley

@@ -97,19 +97,19 @@ if = {
 	}
 }
 
-country_event = { id = bulgaria.2 days = 7 } #Intro event
-country_event = { id = bulgaria.7 days = 40 random_days = 610 }
-country_event = { id = bulgaria.8 days = 40 random_days = 550 }
-country_event = { id = bulgaria.14 days = 60 random_days = 300 }
-country_event = { id = bulgaria.27 days = 90 random_days = 250 }
-country_event = { id = bulgariaflavour.1 days = 60 random_days = 400 }
-country_event = { id = bulgariaflavour.2 days = 35 random_days = 100 }
-country_event = { id = bulgariaflavour.3 days = 35 random_days = 350 }
-country_event = { id = bulgariaflavour.6 days = 720 random_days = 350 }
-country_event = { id = bulgariaflavour.13 days = 1000 random_days = 350 }
-country_event = { id = bulgariaflavour.14 days = 4380 random_days = 350 }
-country_event = { id = bulgariaflavour.16 days = 450 random_days = 30 }
-country_event = { id = bulgariaflavour.19 days = 150 random_days = 30 }
+#country_event = { id = bulgaria.2 days = 7 } #Intro event
+#country_event = { id = bulgaria.7 days = 40 random_days = 610 }
+#country_event = { id = bulgaria.8 days = 40 random_days = 550 }
+#country_event = { id = bulgaria.14 days = 60 random_days = 300 }
+#country_event = { id = bulgaria.27 days = 90 random_days = 250 }
+#country_event = { id = bulgariaflavour.1 days = 60 random_days = 400 }
+#country_event = { id = bulgariaflavour.2 days = 35 random_days = 100 }
+#country_event = { id = bulgariaflavour.3 days = 35 random_days = 350 }
+#country_event = { id = bulgariaflavour.6 days = 720 random_days = 350 }
+#country_event = { id = bulgariaflavour.13 days = 1000 random_days = 350 }
+#country_event = { id = bulgariaflavour.14 days = 4380 random_days = 350 }
+#country_event = { id = bulgariaflavour.16 days = 450 random_days = 30 }
+#country_event = { id = bulgariaflavour.19 days = 150 random_days = 30 }
 
 set_research_slots = 3
 set_convoys = 40

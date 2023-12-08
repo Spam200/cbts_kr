@@ -98,10 +98,10 @@ if = {
 	}
 }
 
-country_event = { id = beng.23 days = 12 }
-country_event = { id = beng.19 days = 223 }
-country_event = { id = beng.21 days = 821 }
-country_event = { id = beng.18 days = 2043 }
+#country_event = { id = beng.23 days = 12 }
+#country_event = { id = beng.19 days = 223 }
+#country_event = { id = beng.21 days = 821 }
+#country_event = { id = beng.18 days = 2043 }
 
 india_ignore_claims_until_unification = yes
 

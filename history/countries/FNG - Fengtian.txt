@@ -66,14 +66,14 @@ if = {
 }
 
 set_variable = { country_intro_page_count = 3 }
-country_event = { id = fengtian.124 days = 28 }  # Communications Clique Assassination
-country_event = { id = fengtian.173 days = 266 } # The Asia Express
-country_event = { id = fengtian.117 days = 365 random_hours = 360 }   # Honghuzi Attacks in Heilongjiang
-country_event = { id = fngshen.0 days = 440 random_hours = 360 }      # Shenyang Conference Starter Event
-country_event = { id = fengtian.138 days = 450 }                # The Founding of the Jilin Film Association
-country_event = { id = fengtian.1411 days = 608 }               # Prince Kan'in Kotohito Visits Fengtian
-country_event = { id = fengtian.116 days = 1463 random_hours = 1560 } # Seditious Articles Proliferate
-country_event = { id = fengtian.330 days = 1915 }
+#country_event = { id = fengtian.124 days = 28 }  # Communications Clique Assassination
+#country_event = { id = fengtian.173 days = 266 } # The Asia Express
+#country_event = { id = fengtian.117 days = 365 random_hours = 360 }   # Honghuzi Attacks in Heilongjiang
+#country_event = { id = fngshen.0 days = 440 random_hours = 360 }      # Shenyang Conference Starter Event
+#country_event = { id = fengtian.138 days = 450 }                # The Founding of the Jilin Film Association
+#country_event = { id = fengtian.1411 days = 608 }               # Prince Kan'in Kotohito Visits Fengtian
+#country_event = { id = fengtian.116 days = 1463 random_hours = 1560 } # Seditious Articles Proliferate
+#country_event = { id = fengtian.330 days = 1915 }
 
 QIE = {
 	embargo_ROOT = yes

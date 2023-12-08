@@ -10,7 +10,7 @@ set_technology = {
 	camelry = 1
 }
 
-country_event = { id = yemen.36 days = 287 }
+#country_event = { id = yemen.36 days = 287 }
 
 set_war_support = 0.2
 

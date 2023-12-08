@@ -8,7 +8,7 @@ set_technology = {
 	tech_trucks = 1
 }
 
-country_event = { id = panama.17 days = 500 }
+#country_event = { id = panama.17 days = 500 }
 
 set_stability = 0.55
 set_war_support = 0.15

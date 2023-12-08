@@ -126,15 +126,15 @@ china_add_poor_army = yes
 country_lock_all_division_template = yes
 
 ###- Events -###
-country_event = {
+#country_event = {
 	id = CHI.introgame.003
 	days = 4
 }
-country_event = {
+#country_event = {
 	id = CHI.earlygame.001 #The Harvest of 1936
 	days = 175 #Fires June 24th, 1936
 }
-country_event = {
+#country_event = {
 	id = CHI.midgame.815 #The Revolutionary and the Monarchist
 	days = 1305 #Fires July 28, 1939
 }

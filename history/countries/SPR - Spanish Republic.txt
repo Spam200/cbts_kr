@@ -133,10 +133,10 @@ set_popularities = {
 	national_populist = 0
 }
 
-country_event = { id = sprd.4 days = 13 }
-country_event = { id = sprd.8 days = 32 }
-country_event = { id = sprd.13 days = 57 }
-country_event = { id = sprd.21 days = 300 }
+#country_event = { id = sprd.4 days = 13 }
+#country_event = { id = sprd.8 days = 32 }
+#country_event = { id = sprd.13 days = 57 }
+#country_event = { id = sprd.21 days = 300 }
 
 add_ideas = {
 	volunteer_only

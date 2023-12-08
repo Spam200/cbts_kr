@@ -4,8 +4,8 @@ set_convoys = 80
 set_stability = 0.5
 set_war_support = 0.6
 
-country_event = { id = unionstate.21 days = 5419 random_days = 180 } #Death of the King
-country_event = { id = unionstate.42 days = 5419 random_days = 720 } #Moseley's Death
+#country_event = { id = unionstate.21 days = 5419 random_days = 180 } #Death of the King
+#country_event = { id = unionstate.42 days = 5419 random_days = 720 } #Moseley's Death
 
 USA_starting_techs = yes
 USA_starting_tank_variants = yes

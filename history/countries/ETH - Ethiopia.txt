@@ -18,7 +18,7 @@ set_technology = {
 	gw_artillery = 1
 }
 
-country_event = { id = ethiopia.8 days = 585 }
+#country_event = { id = ethiopia.8 days = 585 }
 
 set_politics = {
 	ruling_party = paternal_autocrat

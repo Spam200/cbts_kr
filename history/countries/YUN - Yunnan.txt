@@ -73,7 +73,7 @@ add_ideas = {
 china_add_poor_army = yes
 country_lock_all_division_template = yes
 
-country_event = { id = yun.335 months = 53 }
+#country_event = { id = yun.335 months = 53 }
 
 ### Leaders ###
 recruit_character = YUN_wang_fusheng

@@ -80,8 +80,8 @@ add_ideas = {
 	limited_conscription
 }
 
-country_event = { id = hai_cal.14 days = 550 random_hours = 25 }
-country_event = { id = hai_civ.1 days = 80 }
+#country_event = { id = hai_cal.14 days = 550 random_hours = 25 }
+#country_event = { id = hai_civ.1 days = 80 }
 
 add_dynamic_modifier = {
 	modifier = HAI_foreign_control_dynamic_modifier

@@ -119,9 +119,9 @@ if = {
 	}
 }
 
-country_event = { id = papalstate.3 days = 32 }
-country_event = { id = papalstate.2 days = 65 }
-country_event = { id = papalstate.7 days = 70 }
+#country_event = { id = papalstate.3 days = 32 }
+#country_event = { id = papalstate.2 days = 65 }
+#country_event = { id = papalstate.7 days = 70 }
 
 give_military_access = SIC
 give_guarantee = SIC

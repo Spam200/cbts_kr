@@ -80,7 +80,7 @@ set_variable = {
 	value = 2
 }
 
-country_event = { id = lepcollapse.1 days = 3 } # Sun Chuanfang meets with the governors
+#country_event = { id = lepcollapse.1 days = 3 } # Sun Chuanfang meets with the governors
 
 ### Country Leaders ###
 recruit_character = LEP_board_of_directors
@@ -131,8 +131,8 @@ LEP_qi_xieyuan = { set_variable = { china_alignment = token:zhili } }
 
 set_variable = { country_intro_page_count = 3 }
 # FLAVOR LEP
-country_event = { id = lep.206 days = 1521 } #Chen Xuezhao
-country_event = { id = lep.207 days = 762 } #Ju Peon event
-country_event = { id = lep.208 days = 81 } #Tsen's Theorem
-country_event = { id = lep.209 days = 285 } #Zhou Xuan
-country_event = { id = lep.210 days = 285 } #Dummy Zhou Xuan event
+#country_event = { id = lep.206 days = 1521 } #Chen Xuezhao
+#country_event = { id = lep.207 days = 762 } #Ju Peon event
+#country_event = { id = lep.208 days = 81 } #Tsen's Theorem
+#country_event = { id = lep.209 days = 285 } #Zhou Xuan
+#country_event = { id = lep.210 days = 285 } #Dummy Zhou Xuan event

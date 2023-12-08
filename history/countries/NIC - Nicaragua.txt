@@ -31,8 +31,8 @@ add_opinion_modifier = { target = HON modifier = NIC_holding_military }
 	add_dynamic_modifier = { modifier = conscription_exemptions_granted }
 }
 
-country_event = { id = nic.2 days = 22 }
-country_event = { id = cafla.18 days = 258 }
+#country_event = { id = nic.2 days = 22 }
+#country_event = { id = cafla.18 days = 258 }
 
 set_stability = 0.52
 set_war_support = 0.24

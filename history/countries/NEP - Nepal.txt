@@ -37,7 +37,7 @@ add_ideas = {
 	NEP_gurkha_brigades
 }
 
-country_event = { id = delhi.200 days = 639 random_days = 30 } # Long Night of the Festival of Lights
+#country_event = { id = delhi.200 days = 639 random_days = 30 } # Long Night of the Festival of Lights
 
 # Country Leader #
 recruit_character = NEP_dhammalok_mahasthavir

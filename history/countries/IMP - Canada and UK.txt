@@ -212,16 +212,16 @@ set_variable = { CAN_conservative_support = 0 }
 set_variable = { CAN_liberal_support = 0 }
 
 set_variable = { country_intro_page_count = 2 }
-country_event = { id = canada.4 days = 19 } #Death of George V
-country_event = { id = canada.24 days = 74 } #Call for election
-country_event = { id = canada.20 days = 99 } #1936 Stanley Cup
-country_event = { id = canada.29 days = 238 } #Duplessis becomes Premier of Quebec
-country_event = { id = canada.72 days = 1096 random_days = 180 } #J.S. Woodsworth loses CCF leadership to Coldwell
-country_event = { id = canada.70 days = 2929 } #Mackenzie King Retires
-country_event = { id = canada.71 days = 3290 } #R.B. Bennett Retires
-country_event = { id = entf.1 days = 628 } #hobbit
-country_event = { id = entf.5 days = 165 } #Chesterton
-country_event = { id = entf.7 days = 272 } #Allenby
+#country_event = { id = canada.4 days = 19 } #Death of George V
+#country_event = { id = canada.24 days = 74 } #Call for election
+#country_event = { id = canada.20 days = 99 } #1936 Stanley Cup
+#country_event = { id = canada.29 days = 238 } #Duplessis becomes Premier of Quebec
+#country_event = { id = canada.72 days = 1096 random_days = 180 } #J.S. Woodsworth loses CCF leadership to Coldwell
+#country_event = { id = canada.70 days = 2929 } #Mackenzie King Retires
+#country_event = { id = canada.71 days = 3290 } #R.B. Bennett Retires
+#country_event = { id = entf.1 days = 628 } #hobbit
+#country_event = { id = entf.5 days = 165 } #Chesterton
+#country_event = { id = entf.7 days = 272 } #Allenby
 
 set_politics = {
 	ruling_party = market_liberal

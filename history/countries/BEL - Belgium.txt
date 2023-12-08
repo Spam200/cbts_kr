@@ -109,32 +109,32 @@ if = {
 }
 
 set_variable = { country_intro_page_count = 2 }
-country_event = { id = bel.225 days = 10 }
-country_event = { id = mittel.109 days = 32 }
-country_event = { id = bel.1 days = 48 }
-country_event = { id = flawa.1 days = 95 }
-country_event = { id = bel.140 days = 96 }
-country_event = { id = bel.9 days = 120 }
-country_event = { id = flawa.5 days = 120 }
-country_event = { id = bel.30 days = 132 }
-country_event = { id = bel.118 days = 192 }
-country_event = { id = bel.218 days = 202 }
-country_event = { id = bel.23 days = 255 }
-country_event = { id = bel.807 days = 553 }
-country_event = { id = flawa.26 days = 746 random_days = 30 }
-country_event = { id = flawa.28 days = 851 }
-country_event = { id = wallonia.713 days = 2677 } #Degrelle Shot
+#country_event = { id = bel.225 days = 10 }
+#country_event = { id = mittel.109 days = 32 }
+#country_event = { id = bel.1 days = 48 }
+#country_event = { id = flawa.1 days = 95 }
+#country_event = { id = bel.140 days = 96 }
+#country_event = { id = bel.9 days = 120 }
+#country_event = { id = flawa.5 days = 120 }
+#country_event = { id = bel.30 days = 132 }
+#country_event = { id = bel.118 days = 192 }
+#country_event = { id = bel.218 days = 202 }
+#country_event = { id = bel.23 days = 255 }
+#country_event = { id = bel.807 days = 553 }
+#country_event = { id = flawa.26 days = 746 random_days = 30 }
+#country_event = { id = flawa.28 days = 851 }
+#country_event = { id = wallonia.713 days = 2677 } #Degrelle Shot
 WAL = {
-	country_event = { id = wallonia.713 days = 2677 } #Degrelle Shot
+	#country_event = { id = wallonia.713 days = 2677 } #Degrelle Shot
 }
-country_event = { id = bel.500 days = 952 } #Tintin and the Blue Lotus
+#country_event = { id = bel.500 days = 952 } #Tintin and the Blue Lotus
 
 GER = {
 	set_autonomy = {
 		target = BEL
 		autonomy_state = default_puppet
 	}
-	country_event = { id = bel.73 days = 731 random_days = 5 }
+	#country_event = { id = bel.73 days = 731 random_days = 5 }
 }
 
 set_politics = {

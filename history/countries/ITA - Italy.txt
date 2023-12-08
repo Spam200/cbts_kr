@@ -138,22 +138,15 @@ if = {
 }
 
 set_variable = { country_intro_page_count = 2 }
-country_event = { id = ita.103 days = 481 }
-country_event = { id = ita.104 days = 158 }
-country_event = { id = ita.108 days = 103 }
-country_event = { id = ita.109 days = 141 }
-country_event = { id = ita.16 days = 2617 random_days = 35 } #Partito Liberale Democratico Leadership Conference
-country_event = { id = ita.17 days = 2677 random_days = 35 } #Partito Repubblicano Italiano Leadership Conference
-country_event = { id = ita.106 days = 4243 random_days = 5 } #Anniversary of the Golden Ambrosian Republic
+#country_event = { id = ita.103 days = 481 }
+#country_event = { id = ita.104 days = 158 }
+#country_event = { id = ita.108 days = 103 }
+#country_event = { id = ita.109 days = 141 }
+#country_event = { id = ita.16 days = 2617 random_days = 35 } #Partito Liberale Democratico Leadership Conference
+#country_event = { id = ita.17 days = 2677 random_days = 35 } #Partito Repubblicano Italiano Leadership Conference
+#country_event = { id = ita.106 days = 4243 random_days = 5 } #Anniversary of the Golden Ambrosian Republic
 
-759 = {
-	state_event = { id = ita.105 days = 290 trigger_for = owner }
-}
 
-VNC = {
-	country_event = { id = venice.37 days = 476 random_days = 80 } #Sebastiano Venier Naval Military School
-	country_event = { id = venice.36 days = 841 random_days = 90 } #Ponte della Liberta
-}
 
 add_ai_strategy = {
 	type = ignore_claim
@@ -182,7 +175,7 @@ add_ai_strategy = {
 }
 
 set_politics = {
-	ruling_party = social_liberal
+	ruling_party = national_populist
 	last_election = "1932.05.01"
 	election_frequency = 60
 	elections_allowed = yes
@@ -191,17 +184,16 @@ set_politics = {
 set_popularities = {
 	totalist = 0
 	syndicalist = 0
-	radical_socialist = 2
-	social_democrat = 4
-	social_liberal = 31
-	market_liberal = 11
-	social_conservative = 18
-	authoritarian_democrat = 13
-	paternal_autocrat = 3
-	national_populist = 18
+	radical_socialist = 0
+	social_democrat = 0
+	social_liberal = 0
+	market_liberal = 0
+	social_conservative = 5
+	authoritarian_democrat = 5
+	paternal_autocrat = 10
+	national_populist = 80
 }
 
-add_ideas = ITA_republic_federation
 
 # Country Leaders
 recruit_character = ITA_italo_balbo

@@ -149,40 +149,40 @@ add_ideas = {
 	german-ukrainian_railways
 }
 
-country_event = { id = ukraine.2 days = 45 }
-country_event = { id = ukraine.4 days = 21 }
-country_event = { id = ukraine.6 days = 28 }
-country_event = { id = ukraine.8 days = 118 }
-country_event = { id = ukraine.11 days = 5 }
-country_event = { id = ukraine.36 days = 174 }
-country_event = { id = ukraine.61 days = 480 random_days = 15 }
-country_event = { id = ukraine.50 days = 555 random_days = 20 }
-country_event = { id = ukraine.51 days = 645 random_days = 20 }
-country_event = { id = ukraine.64 days = 700 random_days = 100 }
-country_event = { id = ukraine.53 days = 849 }
-country_event = { id = ukraine.65 days = 800 }
-country_event = { id = ukraine.55 days = 950 }
-country_event = { id = ukraine.59 days = 925 random_days = 20 }
-country_event = { id = ukraine.74 days = 974 random_days = 20 }
-country_event = { id = ukraine.63 days = 1000 random_days = 15 }
-country_event = { id = ukraine.54 days = 1150 }
-country_event = { id = ukraine.62 days = 1214 }
-country_event = { id = ukraine.71 days = 1308 random_days = 30 }
-country_event = { id = ukraine.75 days = 1408 }
-country_event = { id = ukraine.78 days = 1214 random_days = 20 }
-country_event = { id = ukraine.79 days = 1125 random_days = 60 }
-country_event = { id = ukraine.80 days = 765 random_days = 25 }
-country_event = { id = ukraine.81 days = 800 random_days = 50 }
-country_event = { id = ukraine.86 days = 600 random_days = 30 }
-country_event = { id = ukraine.92 days = 1089 }
-country_event = { id = ukraine_republican.110 days = 1095 }
-country_event = { id = ukraine_republican.116 days = 806 random_days = 15 }
-country_event = { id = ukraine_republican.147 days = 1340 random_days = 20 }
+#country_event = { id = ukraine.2 days = 45 }
+#country_event = { id = ukraine.4 days = 21 }
+#country_event = { id = ukraine.6 days = 28 }
+#country_event = { id = ukraine.8 days = 118 }
+#country_event = { id = ukraine.11 days = 5 }
+#country_event = { id = ukraine.36 days = 174 }
+#country_event = { id = ukraine.61 days = 480 random_days = 15 }
+#country_event = { id = ukraine.50 days = 555 random_days = 20 }
+#country_event = { id = ukraine.51 days = 645 random_days = 20 }
+#country_event = { id = ukraine.64 days = 700 random_days = 100 }
+#country_event = { id = ukraine.53 days = 849 }
+#country_event = { id = ukraine.65 days = 800 }
+#country_event = { id = ukraine.55 days = 950 }
+#country_event = { id = ukraine.59 days = 925 random_days = 20 }
+#country_event = { id = ukraine.74 days = 974 random_days = 20 }
+#country_event = { id = ukraine.63 days = 1000 random_days = 15 }
+#country_event = { id = ukraine.54 days = 1150 }
+#country_event = { id = ukraine.62 days = 1214 }
+#country_event = { id = ukraine.71 days = 1308 random_days = 30 }
+#country_event = { id = ukraine.75 days = 1408 }
+#country_event = { id = ukraine.78 days = 1214 random_days = 20 }
+#country_event = { id = ukraine.79 days = 1125 random_days = 60 }
+#country_event = { id = ukraine.80 days = 765 random_days = 25 }
+#country_event = { id = ukraine.81 days = 800 random_days = 50 }
+#country_event = { id = ukraine.86 days = 600 random_days = 30 }
+#country_event = { id = ukraine.92 days = 1089 }
+#country_event = { id = ukraine_republican.110 days = 1095 }
+#country_event = { id = ukraine_republican.116 days = 806 random_days = 15 }
+#country_event = { id = ukraine_republican.147 days = 1340 random_days = 20 }
 
-country_event = { id = ukraine_lun.23 days = 730 } #LUN warning event 4
-country_event = { id = ukraine_lun.24 days = 850 } #LUN warning event 5
-country_event = { id = ukraine_lun.25 days = 1035 } #LUN warning event 6 - LUN coup decider
-country_event = { id = ukraine_lun.26 days = 1035 } #LUN fizzles out
+#country_event = { id = ukraine_lun.23 days = 730 } #LUN warning event 4
+#country_event = { id = ukraine_lun.24 days = 850 } #LUN warning event 5
+#country_event = { id = ukraine_lun.25 days = 1035 } #LUN warning event 6 - LUN coup decider
+#country_event = { id = ukraine_lun.26 days = 1035 } #LUN fizzles out
 
 ### Country Leaders ###
 recruit_character = UKR_pavlo_skoropadskyi
