@@ -2,7 +2,7 @@
 state={
 	id=915
 	name="STATE_915"
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	manpower = 0
 	history={

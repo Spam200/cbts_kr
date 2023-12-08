@@ -5,7 +5,7 @@ state={
 	manpower = 87566 #was 165340 
 	#impassable = no
 
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 
 	history = {

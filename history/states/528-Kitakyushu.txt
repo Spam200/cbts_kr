@@ -4,7 +4,7 @@ state={
 	name="STATE_528" # Kyushu
 	#adjusted
 	manpower = 7007400
-	state_category = large_city
+	state_category = eight
     local_supplies = 0.0
 	resources={
 		chromium=88

@@ -3,7 +3,7 @@ state={
 	name="STATE_970"
 	#Phak Thawanok - Eastern Thailand
 	manpower = 730271 
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	history={
 		owner = SIA

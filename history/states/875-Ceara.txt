@@ -4,7 +4,7 @@ state={
 	name="STATE_875"
 	#adjusted
 	manpower = 1646678
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	history={
 		owner = BRA

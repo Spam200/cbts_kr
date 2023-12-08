@@ -7,7 +7,7 @@ state={
 		steel=38
 	}
 	
-	state_category = pastoral
+	state_category = one
     local_supplies = 1.0
 
 

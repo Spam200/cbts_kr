@@ -5,7 +5,7 @@ state={
 	#adjusted
 	manpower = 1100794
 	
-	state_category = large_town
+	state_category = five
     local_supplies = 14.0
 	resources={
 		steel=100

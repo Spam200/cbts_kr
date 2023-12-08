@@ -3,7 +3,7 @@ state={
 	name="STATE_1024"
 	#adjusted
 	manpower= 141576
-	state_category = small_island
+	state_category = one_island
 	history={
 		owner = GRE
 		buildings = {

@@ -22,6 +22,6 @@ state={
 	#adjusted
 	manpower=3880135
 	buildings_max_level_factor=1
-	state_category = large_city
+	state_category = eight
     local_supplies = 0.0
 }

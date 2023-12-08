@@ -22,7 +22,7 @@ state={
 		}
 		add_core_of = RCG
 	}
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	manpower=3184300
 	buildings_max_level_factor=1.000

@@ -4,7 +4,7 @@ state={
 	#adjusted
 	manpower = 988302
 	
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	history={
 		set_state_flag = state_with_several_names

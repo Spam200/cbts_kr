@@ -4,7 +4,7 @@ state={
 	name="STATE_510" # Entre Rios
 	manpower = 1097690
 	
-	state_category = town
+	state_category = four
     local_supplies = 0.0
 
 	history={

@@ -4,7 +4,7 @@ state={
 	#adjusted
 	manpower = 4031
 	
-	state_category = enclave_zero
+	state_category = wasteland
 
 	history={
 		owner = POL

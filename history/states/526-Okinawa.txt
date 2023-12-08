@@ -5,7 +5,7 @@ state={
 	#adjusted
 	manpower = 583900
 	
-	state_category = small_island
+	state_category = one_island
 
 	history={
 		owner = JAP

@@ -2,7 +2,7 @@ state={
 	id=548
 	name="STATE_548"
 
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	resources={
 		rubber=4

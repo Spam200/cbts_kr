@@ -4,7 +4,7 @@ state=
 	name="STATE_270"
 	#Adjusted
 	manpower = 38
-	state_category = enclave
+	state_category = one
 	
 	history=
 	{

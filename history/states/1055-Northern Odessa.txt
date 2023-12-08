@@ -5,7 +5,7 @@ state={
 	#adjusted
 	manpower = 362687
 	# MARKED STATE. TO BE REUSED IN ANOTHER PLACE IN THE WORLD
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 
 	history={

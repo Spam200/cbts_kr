@@ -27,7 +27,7 @@ state={
 		281 348 395 3384 6332 11265 
 	}
 	manpower=2026865
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 	buildings_max_level_factor=1.000
 }

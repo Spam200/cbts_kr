@@ -4,7 +4,7 @@ state=
 	name="STATE_298"
 	manpower = 713487
 	
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	resources={
 		rubber=52

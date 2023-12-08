@@ -5,7 +5,7 @@ state={
 	#adjusted
 	manpower = 888549
 	
-	state_category = rural
+	state_category = two
     local_supplies = 3.0
 	
 	resources={

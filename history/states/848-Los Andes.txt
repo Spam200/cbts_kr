@@ -1,7 +1,7 @@
 state={
 	id=848
 	name="STATE_848"
-	state_category = town
+	state_category = four
     local_supplies = 0.0
 	history = {
 		owner = ARG

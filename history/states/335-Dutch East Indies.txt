@@ -4,7 +4,7 @@ state={
 	name="STATE_335" # Java
 	#adjusted
 	manpower = 11742442
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 	resources={
 		rubber=242

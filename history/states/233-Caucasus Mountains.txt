@@ -27,6 +27,6 @@ state={
 	#adjusted
 	manpower=1099044
 	buildings_max_level_factor=1.000
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 }

@@ -10,7 +10,7 @@ state={
 		tungsten = 4
 	}
 	
-	state_category = town
+	state_category = four
     local_supplies = 0.0
 
 	history={

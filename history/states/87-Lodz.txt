@@ -4,7 +4,7 @@ state={
 	#adjusted
 	manpower = 1520784
 	
-	state_category = large_town
+	state_category = five
     local_supplies = 0.0
 	history={
 		owner = POL

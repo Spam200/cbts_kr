@@ -4,7 +4,7 @@ state={
 	name="STATE_289"
 	#Phak Klang - Central Region
 	manpower = 1854656 
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 	resources={
 		rubber=10

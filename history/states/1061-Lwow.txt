@@ -3,7 +3,7 @@ state={
 	name="STATE_1061"
 	manpower=1023523
 	
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 	resources={
 		oil=2

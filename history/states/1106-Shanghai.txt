@@ -4,7 +4,7 @@ state={
 	name="STATE_1106" # Shanghai
 	manpower = 6245912
 	
-	state_category = metropolis
+	state_category = ten
     local_supplies = 0.0
 	
 	history={

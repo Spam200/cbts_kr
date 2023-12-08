@@ -4,7 +4,7 @@ state={
 	name="STATE_361"
 	manpower = 2028786
 	
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 
 	history={

@@ -4,7 +4,7 @@ state={
 	name="STATE_396"
 	#adjusted
 	manpower = 3101512
-	state_category = large_city
+	state_category = eight
     local_supplies = 0.0
 
 	history={

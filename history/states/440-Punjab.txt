@@ -5,7 +5,7 @@ state={
 	#adjusted
 	manpower = 26075054	
 	
-	state_category = town
+	state_category = four
     local_supplies = 0.0
 
 	history={

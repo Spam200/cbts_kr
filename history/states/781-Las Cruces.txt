@@ -18,7 +18,7 @@ state={
 		924 844 11768
 	}
 	manpower = 400253
-	state_category = big_rural
+	state_category = three
     local_supplies = 0.0
 	buildings_max_level_factor = 1.000
 }

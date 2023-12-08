@@ -4,7 +4,7 @@ state={
 	name="STATE_394"
 	#adjusted
 	manpower = 2814684
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 	
 	resources={

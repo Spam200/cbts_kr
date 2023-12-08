@@ -21,7 +21,7 @@ state={
 	provinces={
 		3366 6413 6340 11391 233 13986 13987
 	}
-	state_category = rural
+	state_category = two
 	manpower = 453180 #TODO: this pop is fake, do actual research
 	local_supplies = 0.0
 

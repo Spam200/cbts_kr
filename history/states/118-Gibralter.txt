@@ -3,7 +3,7 @@ state = {
 	name="STATE_118"
 	manpower=20469
 	
-	state_category = enclave
+	state_category = one
 	history={
 		owner = ENG
 		victory_points = { 4135 15 }

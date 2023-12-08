@@ -4,7 +4,7 @@ state={
 	#adjusted
 	manpower=9409167
 	
-	state_category = megalopolis
+	state_category = twelve
     local_supplies = 0.0
 
 	history={

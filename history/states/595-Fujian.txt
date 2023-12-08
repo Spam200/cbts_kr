@@ -3,7 +3,7 @@ state= {
 	name="STATE_595"
 	#adjusted
 	manpower = 8511480
-	state_category = big_rural
+	state_category = three
     local_supplies = 0.0
 	history = {
 		victory_points = {

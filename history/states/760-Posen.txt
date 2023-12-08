@@ -5,7 +5,7 @@ state={
 		444 3473 11478 3572 537 6236 9387
 	}
 	manpower=524852
-	state_category = town
+	state_category = four
     local_supplies = 0.0
 	history={
 		owner = GER

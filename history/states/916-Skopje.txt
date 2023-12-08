@@ -2,7 +2,7 @@
 state={
 	id=916
 	name="STATE_916"
-	state_category = town
+	state_category = four
     local_supplies = 0.0
 	manpower = 470000
 	# MARKED STATE. TO BE REUSED IN ANOTHER PLACE IN THE WORLD

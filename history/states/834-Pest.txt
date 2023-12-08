@@ -9,7 +9,7 @@ state={
 		aluminium=22
 	}
 	
-	state_category = large_city
+	state_category = eight
     local_supplies = 0.0
 
 	history={

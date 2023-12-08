@@ -16,7 +16,7 @@ state={
 		add_core_of = ULS
 
 	}
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	manpower=33702
 	buildings_max_level_factor=1.000

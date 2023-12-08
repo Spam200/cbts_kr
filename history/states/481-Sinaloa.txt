@@ -3,7 +3,7 @@ state={
 	name="STATE_481" # Sinaloa
 	manpower = 451757
 	
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	
 	resources={

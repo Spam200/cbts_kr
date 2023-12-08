@@ -24,7 +24,7 @@ state={
 
 	}
 	manpower=2059227
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	buildings_max_level_factor=1.000
 }

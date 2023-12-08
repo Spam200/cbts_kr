@@ -4,7 +4,7 @@ state={
 	name="STATE_306" # Cundinamarca
 	#adjusted
 	manpower = 1830713
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 	history={
 		owner = COL

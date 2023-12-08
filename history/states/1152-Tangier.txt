@@ -20,6 +20,6 @@ state={
 		}
 	}
 	manpower=47157
-	state_category = enclave
+	state_category = one
 	buildings_max_level_factor=1.000
 }

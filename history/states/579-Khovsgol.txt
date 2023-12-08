@@ -5,7 +5,7 @@ state={
 	#adjusted
 	manpower = 5120
 	
-	state_category = enclave_zero
+	state_category = wasteland
     local_supplies = 0.0
 
 	history={

@@ -20,6 +20,6 @@ state={
 
 	}
 	manpower=51000
-	state_category = small_island
+	state_category = one_island
 	buildings_max_level_factor=1.000
 }

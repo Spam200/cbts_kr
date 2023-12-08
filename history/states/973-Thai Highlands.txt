@@ -3,7 +3,7 @@ state={
 	name="STATE_973"
 	#Phak Tawantok - Western Thailand
 	manpower = 312973
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	history={
 		owner = SIA

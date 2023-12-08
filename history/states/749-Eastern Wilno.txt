@@ -16,7 +16,7 @@ state={
 		add_claim_by = POL
 	}
 	manpower= 473400 #TODO: adjust population (Original: 980800) current numbers are totally fake
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	buildings_max_level_factor=1.000
 }

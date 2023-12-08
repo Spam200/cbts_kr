@@ -24,7 +24,7 @@ state={
 		}
 			add_core_of = COG
 	}
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	manpower=1140133
 	buildings_max_level_factor=1.000

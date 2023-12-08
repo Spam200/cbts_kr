@@ -30,6 +30,6 @@ state={
 		511 559 3557 3584 6495 6507 6578 6605 9413 9437 9491 9519 11504 11530 13900 13901 13905
 	}
 	buildings_max_level_factor=1.000
-	state_category = town
+	state_category = four
     local_supplies = 0.0
 }

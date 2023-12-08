@@ -2,7 +2,7 @@
 state={
 	id=925
 	name="STATE_925"
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	manpower = 98632
 	history={

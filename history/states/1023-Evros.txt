@@ -3,7 +3,7 @@ state={
 	name="STATE_1023"
 	#adjusted
 	manpower=131856
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	history={
 		owner = GRE

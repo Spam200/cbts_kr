@@ -3,7 +3,7 @@ state={
 	name="STATE_1132" # Bayannnur
 	#adjusted
 	manpower = 256364
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	resources={
 		steel=3

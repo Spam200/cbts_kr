@@ -17,6 +17,6 @@ state={
 	#adjusted
 	manpower=551000
 	buildings_max_level_factor=1
-	state_category = enclave
+	state_category = one
     local_supplies = 0.0
 }

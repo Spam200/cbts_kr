@@ -3,7 +3,7 @@ state={
 	id=1204
 	name="STATE_1204"
 	manpower = 46638
-	state_category = enclave
+	state_category = one
     local_supplies = 0.0
 	
 	history={

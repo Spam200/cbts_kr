@@ -24,7 +24,7 @@ state={
 		10000 13793 13800
 	}
 	manpower=566420
-	state_category = town
+	state_category = four
     local_supplies = 0.0
 	buildings_max_level_factor=1.000
 }

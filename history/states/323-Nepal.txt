@@ -4,7 +4,7 @@ state={
 	name="STATE_323"
 	manpower = 5338020
 	
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	resources={
 		chromium=2

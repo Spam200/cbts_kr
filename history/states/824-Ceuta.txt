@@ -6,7 +6,7 @@ state={
 	manpower = 26810
 	
 	
-	state_category = enclave
+	state_category = one
     local_supplies = 0.0
 	
 	resources={

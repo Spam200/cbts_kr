@@ -3,7 +3,7 @@ state={
 	name="STATE_1096"
 	#adjusted
 	manpower = 4265864
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	
 	history = {

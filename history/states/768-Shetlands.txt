@@ -18,7 +18,7 @@ state={
 		add_core_of = SCO
 	}
 	manpower=2843
-	state_category = rural
+	state_category = two
     local_supplies = 0.0
 	buildings_max_level_factor=1.000
 }

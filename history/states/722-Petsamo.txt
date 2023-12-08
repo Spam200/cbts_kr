@@ -4,7 +4,7 @@ state={
 	#adjusted
 	manpower = 2271
 
-	state_category = enclave
+	state_category = one
 
 	history={
 		owner = FIN

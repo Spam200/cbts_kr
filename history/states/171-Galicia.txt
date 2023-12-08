@@ -7,7 +7,7 @@ state={
 	resources={
 		tungsten=10.000
 	}
-	state_category = town
+	state_category = four
     local_supplies = 4.0
 
 	history={

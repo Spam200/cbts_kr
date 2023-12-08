@@ -4,7 +4,7 @@ state={
 	#adjusted
 	manpower = 76616
 	
-	state_category = enclave
+	state_category = one
     local_supplies = 0.0
 	
 	history={

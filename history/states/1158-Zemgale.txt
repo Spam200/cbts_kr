@@ -15,7 +15,7 @@ state={
 		}
 		add_core_of = LAT
 	}
-	state_category = big_rural
+	state_category = three
     local_supplies = 0.0
 	manpower=288134
 	buildings_max_level_factor=1.000

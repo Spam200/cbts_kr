@@ -4,7 +4,7 @@ state={
 	manpower = 2713958
 	resources={ oil=70 }
 
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 
 	history={

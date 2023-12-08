@@ -15,7 +15,7 @@ state={
 		add_core_of = CMR
 		add_core_of = NGR
 	}
-	state_category = pastoral
+	state_category = one
     local_supplies = 0.0
 	manpower=710313
 	buildings_max_level_factor=1.000

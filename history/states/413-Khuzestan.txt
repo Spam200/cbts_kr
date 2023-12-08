@@ -8,7 +8,7 @@ state={
 		oil = 30
 	}
 	
-	state_category = big_rural
+	state_category = three
     local_supplies = 0.0
 	
 

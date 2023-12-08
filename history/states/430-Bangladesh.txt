@@ -5,7 +5,7 @@ state={
 	#bengal
 	manpower = 33778053
 	
-	state_category = city
+	state_category = six
     local_supplies = 0.0
 
 	history={

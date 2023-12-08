@@ -5,7 +5,7 @@ state={
 	#adjusted
 	manpower = 435065
 	
-	state_category = pastoral
+	state_category = one
     local_supplies = 4.0
 
 	history={
