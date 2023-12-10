@@ -156,24 +156,23 @@ if = {
 
 ### Politics ###
 set_politics = {
-	ruling_party = syndicalist
-	last_election = "1932.5.1"
+	ruling_party = market_liberal
+	last_election = "1932.5.10"
 	election_frequency = 60
 	elections_allowed = yes
 }
 set_popularities = {
-	totalist = 12
-	radical_socialist = 28
-	syndicalist = 52
-	social_democrat = 6
-	social_liberal = 2
-	market_liberal = 0
-	social_conservative = 0
-	authoritarian_democrat = 0
-	paternal_autocrat = 0
-	national_populist = 0
+	totalist = 8 #PC-SFIC
+	radical_socialist = 9 #SFIO (Left)
+	syndicalist = 11 #SFIO (Center)
+	social_democrat = 5 #PRS
+	social_liberal = 20 #Radicals
+	market_liberal = 18 #ARD
+	social_conservative = 12 #PDP
+	authoritarian_democrat = 6 #CdF
+	paternal_autocrat = 6 #AF
+	national_populist = 5 #JP
 }
-add_ideas = FRA_communard_spirit
 
 ### Events ###
 ##country_event = { id = comfrance.1 days = 1 }

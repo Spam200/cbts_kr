@@ -197,35 +197,35 @@
  FRA_principe_de_concentration_idea: "Principe de Concentration"
 
 ### Parties ###
- FRA_totalist_party: "CNS/PSdF"
- FRA_totalist_party_long: "Confédération Nationale-Syndicaliste/Parti Socialiste de France"
+ FRA_totalist_party: "PC-SFIC"
+ FRA_totalist_party_long: "Parti Communiste - Section Française de l'Internationale Communiste"
 
- FRA_syndicalist_party: "CSR"
- FRA_syndicalist_party_long: "Comités Syndicalistes Révolutionnaires"
+ FRA_syndicalist_party: "SFIO"
+ FRA_syndicalist_party_long: "Section Française de l'Internationale Ouvrière - Left"
 
- FRA_radical_socialist_party: "AFA"
- FRA_radical_socialist_party_long: "Association des Fédéralistes Anarchistes"
+ FRA_radical_socialist_party: "SFIO"
+ FRA_radical_socialist_party_long: "Section Française de l'Internationale Ouvrière - Center"
 
- FRA_social_democrat_party: "LJR"
- FRA_social_democrat_party_long: "Ligue de la Jeune République"
+ FRA_social_democrat_party: "PRS"
+ FRA_social_democrat_party_long: "Parti Republicain-Socialiste"
 
- FRA_social_liberal_party: "FSR"
- FRA_social_liberal_party_long: "Fédération Socialiste Républicaine"
+ FRA_social_liberal_party: "Radicals"
+ FRA_social_liberal_party_long: "Parti Républicain, Radical et Radical-Socialiste"
 
- FRA_market_liberal_party: "FNC"
- FRA_market_liberal_party_long: "Fédération Nationale des Contribuables"
+ FRA_market_liberal_party: "AD"
+ FRA_market_liberal_party_long: "Alliance Démocratique"
 
- FRA_social_conservative_party: "FCF"
- FRA_social_conservative_party_long: "Fédération des Chrétiens de France"
+ FRA_social_conservative_party: "PDP/FR"
+ FRA_social_conservative_party_long: "Parti Démocrate Populaire/Fédération Républicaine"
 
- FRA_authoritarian_democrat_party: "FP"
- FRA_authoritarian_democrat_party_long: "Front Paysan"
+ FRA_authoritarian_democrat_party: "CdF"
+ FRA_authoritarian_democrat_party_long: "Croix-de-Feu"
 
- FRA_paternal_autocrat_party: "OSARN"
- FRA_paternal_autocrat_party_long: "Organisation Secrète d'Action de Restoration Nationale"
+ FRA_paternal_autocrat_party: "AF/"
+ FRA_paternal_autocrat_party_long: "Action Française"
 
- FRA_national_populist_party: "OSARN"
- FRA_national_populist_party_long: "Organisation Secrète d'Action de Restoration Nationale"
+ FRA_national_populist_party: "JP"
+ FRA_national_populist_party_long: "Jeunesses Patriotes"
 
  FRA_sorelians: "CNS"
  FRA_sorelians_long: "Confédération Nationale-Syndicaliste"
