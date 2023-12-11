@@ -176,9 +176,9 @@ add_ai_strategy = {
 
 set_politics = {
 	ruling_party = national_populist
-	last_election = "1932.05.01"
+	last_election = "1929.03.29"
 	election_frequency = 60
-	elections_allowed = yes
+	#elections_allowed = yes
 }
 
 set_popularities = {
@@ -196,7 +196,7 @@ set_popularities = {
 
 
 # Country Leaders
-recruit_character = ITA_italo_balbo
+recruit_character = SRI_benito_mussolini
 recruit_character = ITA_pietro_ferdinando
 recruit_character = ITA_adriano_visconti
 recruit_character = ITA_emilio_de_bono

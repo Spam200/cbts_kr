@@ -18,7 +18,7 @@ characters = {
 			can_be_fired = no
 		}
 		country_leader = {
-			ideology = totalist_subtype
+			ideology = national_populist_subtype
 			desc = SRI_benito_mussolini_leader_desc
 		}
 	}
