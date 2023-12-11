@@ -4,7 +4,6 @@ set_research_slots = 3
 set_stability = 0.40
 set_war_support = 0.20
 set_convoys = 80
-set_cosmetic_tag = BEL_flanders_wallonia
 starting_train_buffer = 2
 
 set_technology = {
@@ -129,31 +128,24 @@ WAL = {
 }
 #country_event = { id = bel.500 days = 952 } #Tintin and the Blue Lotus
 
-GER = {
-	set_autonomy = {
-		target = BEL
-		autonomy_state = default_puppet
-	}
-	#country_event = { id = bel.73 days = 731 random_days = 5 }
-}
 
 set_politics = {
-	ruling_party = authoritarian_democrat
+	ruling_party = social_conservative
 	last_election = "1888.6.15"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	totalist = 0
-	radical_socialist = 0
-	syndicalist = 5
-	social_democrat = 17
-	social_liberal = 2
-	market_liberal = 9
-	social_conservative = 23
-	authoritarian_democrat = 39
-	paternal_autocrat = 4
+	totalist = 4
+	radical_socialist = 1
+	syndicalist = 30
+	social_democrat = 4
+	social_liberal = 0
+	market_liberal = 14
+	social_conservative = 31
+	authoritarian_democrat = 7
+	paternal_autocrat = 8
 	national_populist = 1
 }
 
@@ -164,11 +156,11 @@ add_ideas = {
 }
 
 ### Country Leaders
-recruit_character = BEL_adelbert_von_hohenzollern
-recruit_character = BEL_belgian_parliament
+
 
 recruit_character = BEL_albert_van_belgie
 recruit_character = BEL_leopold_van_belgie
+recruit_character = BEL_belgian_parliament
 
 recruit_character = BEL_hendrik_de_man
 recruit_character = BEL_joseph_jacquemotte
