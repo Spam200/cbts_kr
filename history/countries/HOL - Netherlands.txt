@@ -1,6 +1,6 @@
-﻿capital = 7
-oob = "HOL"
-set_naval_oob = "HOL_naval"
+capital = 7
+#oob = "HOL"
+#set_naval_oob = "HOL_naval"
 set_convoys = 400
 set_stability = 0.8
 set_war_support = 0.1
@@ -37,7 +37,7 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "HOL_air_bba"
+	#set_air_oob = "HOL_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		engines_1 = 1
@@ -51,7 +51,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "HOL_air_legacy"
+	#set_air_oob = "HOL_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		early_bomber = 1

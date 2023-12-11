@@ -1,5 +1,5 @@
-﻿capital = 314
-oob = "ELS"
+capital = 314
+#oob = "ELS"
 set_research_slots = 2
 set_convoys = 5
 set_war_support = 0.15
@@ -16,13 +16,13 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "ELS_air_bba"
+	#set_air_oob = "ELS_air_bba"
 }
 
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "ELS_air_legacy"
+	#set_air_oob = "ELS_air_legacy"
 	set_technology = { early_fighter = 1 }
 }
 

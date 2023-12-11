@@ -1,5 +1,5 @@
-﻿capital = 305
-oob = "ECU"
+capital = 305
+#oob = "ECU"
 set_war_support = 0.1
 set_convoys = 5
 set_research_slots = 3

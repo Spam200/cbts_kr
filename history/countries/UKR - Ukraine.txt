@@ -1,6 +1,6 @@
-﻿capital = 202
-oob = "UKR"
-set_naval_oob = "UKR_naval"
+capital = 202
+#oob = "UKR"
+#set_naval_oob = "UKR_naval"
 set_convoys = 50
 set_research_slots = 3
 set_stability = 0.4
@@ -46,7 +46,7 @@ if = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "UKR_air_bba"
+	#set_air_oob = "UKR_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		engines_1 = 1
@@ -60,7 +60,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "UKR_air_legacy"
+	#set_air_oob = "UKR_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		fighter1 = 1

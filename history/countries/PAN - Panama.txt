@@ -1,5 +1,5 @@
-﻿capital = 304
-oob = "PAN"
+capital = 304
+#oob = "PAN"
 set_convoys = 10
 set_research_slots = 2
 

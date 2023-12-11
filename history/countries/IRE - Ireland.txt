@@ -1,6 +1,6 @@
-﻿capital = 113
-oob = "IRE"
-set_naval_oob = "IRE_naval"
+capital = 113
+#oob = "IRE"
+#set_naval_oob = "IRE_naval"
 set_research_slots = 3
 set_stability = 0.6
 set_war_support = 0.1

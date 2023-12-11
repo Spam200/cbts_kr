@@ -1,5 +1,5 @@
-﻿capital = 292
-oob = "SAU"
+capital = 292
+#oob = "SAU"
 set_convoys = 20
 set_research_slots = 2
 set_war_support = 0.6

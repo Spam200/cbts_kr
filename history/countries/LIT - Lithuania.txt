@@ -1,5 +1,5 @@
-﻿capital = 96
-oob = "LIT"
+capital = 96
+#oob = "LIT"
 set_research_slots = 3
 set_war_support = 0.1
 set_convoys = 10
@@ -24,7 +24,7 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "LIT_air_bba"
+	#set_air_oob = "LIT_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		engines_1 = 1
@@ -36,7 +36,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "LIT_air_legacy"
+	#set_air_oob = "LIT_air_legacy"
 	set_technology = { early_fighter = 1 }
 }
 set_variable = { country_intro_page_count = 2 }

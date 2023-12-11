@@ -1,5 +1,5 @@
-﻿capital = 317
-oob = "NIC"
+capital = 317
+#oob = "NIC"
 set_convoys = 20
 set_research_slots = 2
 

@@ -126,6 +126,31 @@ characters = {
 		}
 		country_leader = {
 			desc = ROM_carol_ii_leader_desc
+			ideology = social_democrat_subtype
+			traits = { ROM_autocrat }
+		}
+		country_leader = {
+			desc = ROM_carol_ii_leader_desc
+			ideology = social_liberal_subtype
+			traits = { ROM_autocrat }
+		}
+		country_leader = {
+			desc = ROM_carol_ii_leader_desc
+			ideology = market_liberal_subtype
+			traits = { ROM_autocrat }
+		}
+		country_leader = {
+			desc = ROM_carol_ii_leader_desc
+			ideology = social_conservative_subtype
+			traits = { ROM_autocrat }
+		}
+		country_leader = {
+			desc = ROM_carol_ii_leader_desc
+			ideology = authoritarian_democra_subtype
+			traits = { ROM_autocrat }
+		}
+		country_leader = {
+			desc = ROM_carol_ii_leader_desc
 			ideology = paternal_autocrat_subtype
 			traits = { ROM_autocrat }
 		}

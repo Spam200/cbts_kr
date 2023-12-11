@@ -1,5 +1,5 @@
-﻿capital = 316
-oob = "COS"
+capital = 316
+#oob = "COS"
 set_research_slots = 2
 set_stability = 0.75
 set_war_support = 0

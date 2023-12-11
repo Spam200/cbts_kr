@@ -1,6 +1,6 @@
-﻿capital = 361
-oob = "USA"
-set_naval_oob = "USA_naval"
+capital = 361
+#oob = "USA"
+#set_naval_oob = "USA_naval"
 set_cosmetic_tag = america #redundant, but simplifies the checks elsewhere
 set_research_slots = 4
 set_convoys = 500
@@ -16,13 +16,13 @@ USA_starting_plane_variants = yes
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "USA_air_bba"
+	#set_air_oob = "USA_air_bba"
 }
 
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "USA_air_legacy"
+	#set_air_oob = "USA_air_legacy"
 }
 
 activate_mission = USA_help_economy_mission
@@ -127,11 +127,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	# national ideas
-	USA_great_depression
-	USA_political_crisis
-	holds_leases_idea
-
 	# laws
 	free_trade
 }

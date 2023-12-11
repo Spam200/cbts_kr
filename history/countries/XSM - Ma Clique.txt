@@ -1,5 +1,5 @@
-﻿capital = 283
-oob = "XSM"
+capital = 283
+#oob = "XSM"
 set_research_slots = 2
 set_stability = 0.5
 set_war_support = 0.5

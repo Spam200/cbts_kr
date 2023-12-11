@@ -1,5 +1,5 @@
-﻿capital = 298
-oob = "LIB"
+capital = 298
+#oob = "LIB"
 set_research_slots = 2
 set_war_support = 0.1
 set_convoys = 20

@@ -1,6 +1,6 @@
-﻿capital = 327
-oob = "PHI"
-set_naval_oob = "PHI_naval"
+capital = 327
+#oob = "PHI"
+#set_naval_oob = "PHI_naval"
 set_convoys = 20
 set_research_slots = 2
 

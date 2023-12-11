@@ -1,6 +1,6 @@
-﻿capital = 47
-oob = "GRE"
-set_naval_oob = "GRE_naval"
+capital = 47
+#oob = "GRE"
+#set_naval_oob = "GRE_naval"
 set_research_slots = 3
 starting_train_buffer = 1
 
@@ -73,7 +73,7 @@ if = {
 ### Air - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "GRE_air_bba"
+	#set_air_oob = "GRE_air_bba"
 	set_technology = {
 		### Air ###
 		aa_lmg = 1
@@ -88,7 +88,7 @@ if = {
 ### Air - Non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "GRE_air_legacy"
+	#set_air_oob = "GRE_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		early_bomber = 1
@@ -100,10 +100,7 @@ set_stability = 0.35
 set_war_support = 0.2
 
 add_ideas = {
-	GRE_foreign_industry_GER1
-	GRE_foreign_industry_AUS1
-	GRE_memories_of_king
-	GRE_legacy_of_alexander_idea
+
 }
 
 set_variable = { country_intro_page_count = 1 }
@@ -115,42 +112,36 @@ set_variable = { country_intro_page_count = 1 }
 #country_event = { id = gre.23 days = 4912 } #Death of Themistoklis Sofoulis
 
 set_politics = {
-	ruling_party = social_liberal
-	last_election = "1934.1.26"
+	ruling_party = social_conservative
+	last_election = "1932.1.26"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	totalist = 2
-	radical_socialist = 5
-	syndicalist = 0
-	social_democrat = 14
-	social_liberal = 36
-	market_liberal = 10
-	social_conservative = 21
-	authoritarian_democrat = 6
-	paternal_autocrat = 5
+	totalist = 5
+	radical_socialist = 1
+	syndicalist = 1
+	social_democrat = 5
+	social_liberal = 7
+	market_liberal = 39
+	social_conservative = 35
+	authoritarian_democrat = 0
+	paternal_autocrat = 6
 	national_populist = 1
 }
 
-set_country_flag = { flag = gre_monarchist_sympathies value = 0 }
+
+#set_country_flag = { flag = gre_monarchist_sympathies value = 0 }
 
 ### Integration ###
-ROOT = {
-	184 = { enable_state_integration_50_compliance = yes } #Western Thrace
-	766 = { enable_state_integration_50_compliance = yes } #Northern Epirus
-	769 = { enable_state_integration_50_compliance = yes } #Eastern Macedonia
 
-	341 = { enable_state_integration_80_compliance = yes } #Adrianople
-	773 = { enable_state_integration_80_compliance = yes } #Constantinople
-	1089 = { enable_state_integration_80_compliance = yes } #Kardzhali
-}
 
 ### Country Leaders ###
+recruit_character = GRE_alexandros_zaimis
+recruit_character = GRE_nikos_zachariadis
 recruit_character = GRE_athanasios_klaras
 recruit_character = GRE_georgios_siantos
-recruit_character = GRE_nikos_zachariadis
 recruit_character = GRE_konstantinos_speras
 recruit_character = GRE_nikos_beloyannis
 recruit_character = GRE_kostas_gavriilides

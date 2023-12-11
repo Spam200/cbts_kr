@@ -1,5 +1,5 @@
-﻿capital = 294
-oob = "OMA"
+capital = 294
+#oob = "OMA"
 set_convoys = 10
 set_research_slots = 1
 

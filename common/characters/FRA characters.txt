@@ -37,6 +37,31 @@ characters = {
 			can_be_fired = no
 		}
 	}
+	FRA_albert_lebrun = {
+		name = FRA_albert_lebrun
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/Portrait_FRA_Albert_Lebrun.png"
+				#small = "gfx/interface/advisors/FRA/Portrait_FRA_Albert_Lebrun.png"
+			}
+		}
+		country_leader = {
+			desc = FRA_albert_lebrun_leader_desc
+			ideology = syndicalist_subtype
+		}
+		country_leader = {
+			desc = FRA_albert_lebrun_leader_desc
+			ideology = social_democrat_subtype
+		}
+		country_leader = {
+			desc = FRA_albert_lebrun_leader_desc
+			ideology = market_liberal_subtype
+		}
+		country_leader = {
+			desc = FRA_albert_lebrun_leader_desc
+			ideology = social_conservative_subtype
+		}
+	}
 
 	FRA_adrien_marquet = {
 		name = FRA_adrien_marquet

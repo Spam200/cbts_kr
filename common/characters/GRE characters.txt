@@ -2,6 +2,29 @@ characters = {
 	#######################
 	### Country Leaders ###
 	#######################
+	GRE_alexandros_zaimis = {
+		name = GRE_alexandros_zaimis
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/Portrait_GRE_Alexandros_Zaimis.png"
+			}
+		}
+		country_leader = {
+			ideology = social_democrat_subtype
+		}
+		country_leader = {
+			ideology = social_liberal_subtype
+		}
+		country_leader = {
+			ideology = market_liberal_subtype
+		}
+		country_leader = {
+			ideology = social_conservative_subtype
+		}
+		country_leader = {
+			ideology = authoritarian_democrat_subtype
+		}
+	}
 	GRE_athanasios_klaras = {
 		name = GRE_athanasios_klaras
 		portraits = {

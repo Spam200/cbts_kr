@@ -1,5 +1,5 @@
-﻿capital = 1072
-oob = "SHX"
+capital = 1072
+#oob = "SHX"
 set_research_slots = 2
 set_war_support = 0
 

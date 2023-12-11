@@ -1,5 +1,5 @@
-﻿capital = 1083
-oob = "KUM"
+capital = 1083
+#oob = "KUM"
 set_research_slots = 2
 complete_national_focus = KUM_nasir_reign
 

@@ -1,5 +1,5 @@
-﻿capital = 324
-oob = "BHU"
+capital = 324
+#oob = "BHU"
 set_research_slots = 1
 set_technology = {
 	### Infantry ###

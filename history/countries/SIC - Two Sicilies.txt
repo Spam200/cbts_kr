@@ -1,6 +1,6 @@
-﻿capital = 117
-oob = "SIC"
-set_naval_oob = "SIC_naval"
+capital = 117
+#oob = "SIC"
+#set_naval_oob = "SIC_naval"
 set_research_slots = 3
 set_convoys = 60
 set_stability = 0.4
@@ -31,7 +31,7 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "SIC_air_bba"
+	#set_air_oob = "SIC_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		early_bombs = 1
@@ -44,7 +44,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "SIC_air_legacy"
+	#set_air_oob = "SIC_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		early_bomber = 1

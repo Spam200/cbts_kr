@@ -1,6 +1,6 @@
-﻿capital = 739
-oob = "CAN"
-set_naval_oob = "CAN_naval"
+capital = 739
+#oob = "CAN"
+#set_naval_oob = "CAN_naval"
 set_research_slots = 3
 set_stability = 0.8
 set_war_support = 0.4
@@ -92,7 +92,7 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "CAN_air_bba"
+	#set_air_oob = "CAN_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		engines_1 = 1
@@ -109,7 +109,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "CAN_air_legacy"
+	#set_air_oob = "CAN_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		cv_early_fighter = 1

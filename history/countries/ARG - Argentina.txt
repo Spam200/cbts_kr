@@ -1,6 +1,6 @@
-﻿capital = 278
-oob = "ARG"
-set_naval_oob = "ARG_naval"
+capital = 278
+#oob = "ARG"
+#set_naval_oob = "ARG_naval"
 set_research_slots = 3
 set_stability = 0.2
 set_war_support = 0.35
@@ -35,7 +35,7 @@ add_equipment_to_stockpile = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "ARG_air_bba"
+	#set_air_oob = "ARG_air_bba"
 	set_technology = {
 		iw_small_airframe = 1
 		aa_lmg = 1
@@ -47,7 +47,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "ARG_air_legacy"
+	#set_air_oob = "ARG_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		CAS1 = 1

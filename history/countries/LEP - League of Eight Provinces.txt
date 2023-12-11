@@ -1,5 +1,5 @@
-﻿capital = 613
-oob = "LEP"
+capital = 613
+#oob = "LEP"
 set_research_slots = 2
 set_stability = 0.2
 set_war_support = 0.3

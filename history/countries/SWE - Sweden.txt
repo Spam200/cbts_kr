@@ -1,6 +1,6 @@
-﻿capital = 141
-oob = "SWE"
-set_naval_oob = "SWE_naval"
+capital = 141
+#oob = "SWE"
+#set_naval_oob = "SWE_naval"
 set_research_slots = 3
 set_stability = 0.9
 set_war_support = 0.1
@@ -125,7 +125,7 @@ if = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "SWE_air_bba"
+	#set_air_oob = "SWE_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		engines_1 = 1
@@ -142,7 +142,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "SWE_air_legacy"
+	#set_air_oob = "SWE_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		fighter1 = 1

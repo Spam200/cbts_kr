@@ -1,5 +1,5 @@
-﻿capital = 302
-oob = "BOL"
+capital = 302
+#oob = "BOL"
 set_research_slots = 2
 set_stability = 0.4
 set_war_support = 0.3
@@ -33,7 +33,7 @@ add_equipment_to_stockpile = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "BOL_air_bba"
+	#set_air_oob = "BOL_air_bba"
 	set_technology = {
 		iw_small_airframe = 1
 		aa_lmg = 1
@@ -44,7 +44,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "BOL_air_legacy"
+	#set_air_oob = "BOL_air_legacy"
 	set_technology = { early_fighter = 1 }
 }
 

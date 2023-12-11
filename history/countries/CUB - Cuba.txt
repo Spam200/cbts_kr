@@ -1,6 +1,6 @@
-﻿capital = 315
-oob = "CUB"
-set_naval_oob = "CUB_naval"
+capital = 315
+#oob = "CUB"
+#set_naval_oob = "CUB_naval"
 set_research_slots = 3
 set_stability = 0.3
 set_war_support = 0.15
@@ -25,13 +25,13 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "CUB_air_bba"
+	#set_air_oob = "CUB_air_bba"
 }
 
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "CUB_air_legacy"
+	#set_air_oob = "CUB_air_legacy"
 	set_technology = { early_fighter = 1 }
 }
 

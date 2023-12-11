@@ -1,4 +1,4 @@
-﻿########################################
+########################################
 #####- Kuomintang History File - #######
 ########################################
 
@@ -457,7 +457,7 @@ CHI_chiang_wei_kuo = { CHI_setup_hide_commander_effect = yes }
 ########################################
 
 #NOTE: Moved to CHI Unit History File
-oob = "CHI"
+#oob = "CHI"
 
 ########################################
 #####- Section 06: Foreign Policy - ####

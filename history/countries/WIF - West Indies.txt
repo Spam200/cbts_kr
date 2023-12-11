@@ -1,6 +1,6 @@
-﻿capital = 689
-oob = "WIF"
-set_naval_oob = "WIF_naval"
+capital = 689
+#oob = "WIF"
+#set_naval_oob = "WIF_naval"
 set_cosmetic_tag = WIF_entente
 
 set_technology = {
@@ -21,7 +21,7 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "WIF_air_bba"
+	#set_air_oob = "WIF_air_bba"
 	set_technology = {
 		iw_small_airframe = 1
 		aa_lmg = 1
@@ -34,7 +34,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "WIF_air_legacy"
+	#set_air_oob = "WIF_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		early_bomber = 1

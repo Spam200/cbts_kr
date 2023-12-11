@@ -1,5 +1,5 @@
-﻿capital = 915
-oob = "JBS"
+capital = 915
+#oob = "JBS"
 set_convoys = 20
 set_research_slots = 1
 set_war_support = 0.4

@@ -1,6 +1,6 @@
-﻿capital = 114
-oob = "SRD"
-set_naval_oob = "SRD_naval"
+capital = 114
+#oob = "SRD"
+#set_naval_oob = "SRD_naval"
 set_research_slots = 3
 set_convoys = 30
 set_stability = 0.6

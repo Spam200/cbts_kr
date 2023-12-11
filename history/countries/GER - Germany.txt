@@ -1,6 +1,6 @@
-﻿capital = 64
-oob = "GER"
-set_naval_oob = "GER_naval"
+capital = 64
+#oob = "GER"
+#set_naval_oob = "GER_naval"
 set_research_slots = 4
 set_convoys = 400
 set_stability = 0.8
@@ -46,7 +46,7 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "GER_air_bba"
+	#set_air_oob = "GER_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		engines_1 = 1
@@ -65,7 +65,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "GER_air_legacy"
+	#set_air_oob = "GER_air_legacy"
 	set_technology = {
 		early_fighter = 1
 		cv_early_fighter = 1

@@ -1,5 +1,5 @@
-﻿capital = 461
-oob = "MOR"
+capital = 461
+#oob = "MOR"
 set_war_support = 0.2
 set_research_slots = 2
 set_convoys = 20

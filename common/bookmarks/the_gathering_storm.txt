@@ -8,6 +8,7 @@ bookmarks = {
 		default = yes
 
 	### Americas ###
+
 		USA = {
 			history = USA_KR_gathering_storm_desc
 			ideology = market_liberal
@@ -25,35 +26,8 @@ bookmarks = {
 		}
 
 
+
 	### Entente ###
-		CAN = {
-			history = CAN_KR_gathering_storm_desc
-			ideology = market_liberal
-			ideas = {
-
-			}
-			focuses = {
-
-			}
-		}
-
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
-		}
-
-
-	### Western Europe ###
-		FRA = {
-			history = FRA_KR_gathering_storm_desc
-			ideology = market_liberal
-			ideas = {
-
-			}
-			focuses = {
-
-			}
-		}
 
 		ENG = {
 			history = ENG_KR_gathering_storm_desc
@@ -66,35 +40,35 @@ bookmarks = {
 			}
 		}
 
-		SPR = {
-			minor = yes
-			history = SPA_KR_gathering_storm_desc
-			ideology = authoritarian_democrat
-			ideas = {
-
-			}
-			focuses = {
-
-			}
-		}
-
-		ITA = {
-			minor = yes
-			history = ITA_KR_gathering_storm_desc
-			ideology = social_liberal
-			ideas = {
-				ITA_republic_federation
-			}
-			focuses = {
-
-			}
-		}
-
-	### Reichspakt ###
 		XXA = {
 			ideology = national_populist
 			history = Debug_KR_gathering_storm_desc
 		}
+
+	### Western Europe ###
+
+		FRA = {
+			history = FRA_KR_gathering_storm_desc
+			ideology = market_liberal
+			ideas = {
+
+			}
+			focuses = {
+
+			}
+		}
+
+		XXA = {
+			ideology = national_populist
+			history = Debug_KR_gathering_storm_desc
+		}
+
+		XXA = {
+			ideology = national_populist
+			history = Debug_KR_gathering_storm_desc
+		}		
+
+	### Reichspakt ###
 
 		GER = {
 			history = GER_KR_gathering_storm_desc
@@ -107,24 +81,17 @@ bookmarks = {
 			}
 		}
 
-
-		POL = {
-			minor = yes
-			history = POL_KR_gathering_storm_desc
-			ideology = authoritarian_democrat
-			ideas = {
-
-			}
-			focuses = {
-
-			}
+		XXA = {
+			ideology = national_populist
+			history = Debug_KR_gathering_storm_desc
 		}
 
 
 	### Balkans ###
-		AUS = {
-			history = AUS_KR_gathering_storm_desc
-			ideology = social_conservative
+
+		ITA = {
+			history = ITA_KR_gathering_storm_desc
+			ideology = national_populist
 			ideas = {
 
 			}
@@ -133,7 +100,13 @@ bookmarks = {
 			}
 		}
 
+		XXA = {
+			ideology = national_populist
+			history = Debug_KR_gathering_storm_desc
+		}
+
 	### Eurasia ###
+
 		SOV = {
 			history = RUS_KR_gathering_storm_desc
 			ideology = totalist
@@ -150,8 +123,8 @@ bookmarks = {
 			history = Debug_KR_gathering_storm_desc
 		}
 
-
 	### East Asia ###
+
 		JAP = {
 			history = JAP_KR_gathering_storm_desc
 			ideology = social_conservative

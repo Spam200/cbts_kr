@@ -1,6 +1,6 @@
-﻿capital = 107
+capital = 107
 set_research_slots = 3
-oob = "SER"
+#oob = "SER"
 set_war_support = 0.4
 starting_train_buffer = 2
 
@@ -91,40 +91,14 @@ set_popularities = {
 add_ideas = {
 	volunteer_only
 	free_trade
-	SER_treaty_of_wartholz
-	SER_secret_rearmament
-	SER_scarred_nation_1
-	SER_konspiracija_idea
 }
-add_dynamic_modifier = {
-	modifier = SER_konspiracija_dynamic_modifier
-}
-SER_recalculate_konspiracija = yes
-set_country_flag = SER_paying_with_np
 
-set_country_flag = cannot_produce_armor
-set_country_flag = cannot_produce_aircraft
-
-set_variable = { SER_republican_strength = 40 }
-set_variable = { SER_radical_strength = 30 }
-set_variable = { SER_socialist_strength = 15 }
-set_variable = { SER_moderate_socialist_strength = 5 }
-set_variable = { SER_agrarian_strength = 5 }
-
-country_lock_all_division_template = yes
 
 ### Integration ###
-ROOT = {
-	MNT = { enable_coring_at_fifty_compliance = yes }
 
-	45 = { enable_state_integration_50_compliance = yes } #Vojvodina
-	106 = { enable_state_integration_50_compliance = yes } #Macedonia
-	794 = { enable_state_integration_50_compliance = yes } #Syrmia
-	841 = { enable_state_integration_50_compliance = yes } #Kotor
-	875 = { enable_state_integration_50_compliance = yes } #West Banat
-}
 
 ## Country leaders
+recruit_character = YUG_petar_ii
 recruit_character = YUG_vukasin_markovic
 recruit_character = YUG_trifun_kaclerovic
 recruit_character = YUG_zivko_topalovic

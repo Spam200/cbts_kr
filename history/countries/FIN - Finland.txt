@@ -1,6 +1,6 @@
-﻿capital = 840
-oob = "FIN"
-set_naval_oob = "FIN_naval"
+capital = 840
+#oob = "FIN"
+#set_naval_oob = "FIN_naval"
 set_convoys = 20
 set_research_slots = 3
 set_war_support = 0.4
@@ -56,7 +56,7 @@ if = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "FIN_air_bba"
+	#set_air_oob = "FIN_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		engines_1 = 1

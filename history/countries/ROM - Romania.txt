@@ -1,6 +1,6 @@
-﻿capital = 46
-oob = "ROM"
-set_naval_oob = "ROM_naval"
+capital = 46
+#oob = "ROM"
+#set_naval_oob = "ROM_naval"
 set_research_slots = 3
 set_war_support = 0.4
 set_stability = 0.4
@@ -36,7 +36,7 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "ROM_air_bba"
+	#set_air_oob = "ROM_air_bba"
 	set_technology = {
 		aa_lmg = 1
 		engines_1 = 1
@@ -48,7 +48,7 @@ if = {
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "ROM_air_legacy"
+	#set_air_oob = "ROM_air_legacy"
 	set_technology = { early_fighter = 1 }
 }
 
@@ -110,40 +110,30 @@ set_variable = { country_intro_page_count = 1 } #intro events moved to intro scr
 #country_event = { id = romania.195 days = 320 }
 #country_event = { id = romania.198 days = 451 }
 
-add_opinion_modifier = { target = GER modifier = KR_disapproves_of_govt }
-add_opinion_modifier = { target = AUS modifier = KR_disapproves_of_govt }
-
-set_variable = { var = ROM.king_influence value = 3 }
-set_variable = { var = ROM.captain_influence value = 3 }
-
 add_ideas = {
-	ROM_great_game
-	ROM_incomplete_land_reform
-	ROM_unionist_zeal
-	ROM_german_control
 
 	free_trade
 	limited_conscription
 }
 
 set_politics = {
-	ruling_party = national_populist
-	last_election = "1933.11.9"
+	ruling_party = social_conservative
+	last_election = "1932.7.17"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	totalist = 0
-	radical_socialist = 0
-	syndicalist = 0
-	social_democrat = 8
-	social_liberal = 11
-	market_liberal = 16
-	social_conservative = 3
-	authoritarian_democrat = 0
-	paternal_autocrat = 18
-	national_populist = 44
+	totalist = 0 #Partidul Comunist Roman (Romanian Communist Party)
+	radical_socialist = 0 #Partidul Socialist din România (Socialist Party of Romania)
+	syndicalist = 0 #Partidul Socialist din România (Socialist Party of Romania)
+	social_democrat = 2 #Partidul Social-Democrat din România (Social-Democratic Party of Romania)
+	social_liberal = 3 #Partidul Ţărănesc–Lupu (Peasant Party-Lupu)
+	market_liberal = 73 #Partidul Național Țărănesc (National Peasants' Party)
+	social_conservative = 4 #Partidul Național Liberal–Brătianu (National Liberal Party–Brătianu)
+	authoritarian_democrat = 10 #Partidul National-Liberal (National-Liberal Party)
+	paternal_autocrat = 2 #Partidul Naţional-Agrar (National-Agrarian Party)
+	national_populist = 6 #Garda de Fier (Iron Guard)/Liga Apărării Național Creștine (National-Christian Defense League)
 }
 
 ### Monarchs ###

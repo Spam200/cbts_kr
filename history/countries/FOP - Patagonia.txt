@@ -1,5 +1,5 @@
-﻿capital = 512
-oob = "FOP"
+capital = 512
+#oob = "FOP"
 set_research_slots = 2
 set_war_support = 0.35
 set_stability = 0.25

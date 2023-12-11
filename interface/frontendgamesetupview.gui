@@ -852,17 +852,8 @@ guiTypes = {
 			}
 		}
 
-		instantTextBoxType = {
-			name = "new_this_patch"
-			position = { x = 526  y = 155 }
-			font = "hoi_36header"
-			text = "new_this_patch"
-			maxWidth = 172
-			maxHeight = 95
-			format = centre
-		}
 
-		
+	
 		containerWindowType = {
 			name = "coverup_5"
 			position = { x = 870   y = 235 }

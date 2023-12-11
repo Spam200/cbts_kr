@@ -86,6 +86,12 @@ characters = {
 		country_leader = {
 			ideology = social_conservative_subtype
 		}
+		country_leader = {
+			ideology = authoritarian_democrat_subtype
+		}
+		country_leader = {
+			ideology = paternal_autocrat_subtype
+		}
 	}
 	ALB_luigj_bumci = {
 		name = ALB_luigj_bumci

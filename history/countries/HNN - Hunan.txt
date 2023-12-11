@@ -1,5 +1,5 @@
-﻿capital = 602
-oob = "HNN"
+capital = 602
+#oob = "HNN"
 set_research_slots = 2
 set_stability = 0.3
 set_war_support = 0.4

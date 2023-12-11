@@ -1,6 +1,6 @@
-﻿capital = 849
-oob = "VEN"
-set_naval_oob = "VEN_naval"
+capital = 849
+#oob = "VEN"
+#set_naval_oob = "VEN_naval"
 set_research_slots = 3
 set_war_support = 0.2
 set_convoys = 10

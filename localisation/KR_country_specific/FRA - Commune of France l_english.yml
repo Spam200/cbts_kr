@@ -1113,6 +1113,11 @@
  FRA_radical_socialist_DEF: "the Commune of France"
 
 ### Characters ###
+
+ FRA_albert_lebrun: "Albert Lebrun"
+ FRA_albert_lebrun_desc: "..."
+
+
  FRA_marcel_deat: "Marcel Déat"
  FRA_marcel_deat_leader_desc: "Marcel Déat has upended the Communard political system. A Revisionist who has frequently made public his contempt for syndicalism, Déat stands in opposition to much of France's political establishment. His many enemies both within and outside France could lead to his, and perhaps also the Commune's, downfall."
 

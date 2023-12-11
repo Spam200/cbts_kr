@@ -1,5 +1,5 @@
-﻿capital = 271
-oob = "ETH"
+capital = 271
+#oob = "ETH"
 set_research_slots = 2
 set_convoys = 10
 set_war_support = 0.20

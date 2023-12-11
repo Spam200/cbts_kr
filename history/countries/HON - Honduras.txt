@@ -1,5 +1,5 @@
-﻿capital = 312
-oob = "HON"
+capital = 312
+#oob = "HON"
 set_convoys = 10
 set_research_slots = 2
 
@@ -12,13 +12,13 @@ set_technology = {
 ### Planes - BBA ###
 if = {
 	limit = { has_dlc_bba = yes }
-	set_air_oob = "HON_air_bba"
+	#set_air_oob = "HON_air_bba"
 }
 
 ### Planes - non BBA ###
 if = {
 	limit = { has_dlc_bba = no }
-	set_air_oob = "HON_air_legacy"
+	#set_air_oob = "HON_air_legacy"
 }
 
 set_stability = 0.5

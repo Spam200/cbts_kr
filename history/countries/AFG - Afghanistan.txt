@@ -1,6 +1,6 @@
-﻿capital = 267
+capital = 267
 
-oob = "AFG"
+#oob = "AFG"
 
 set_research_slots = 2
 set_technology = {
@@ -22,28 +22,29 @@ set_war_support = 0.25
 
 set_politics = {
 	ruling_party = paternal_autocrat
-	last_election = "1888.6.15"
+	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
 	totalist = 0
-	radical_socialist = 1
+	radical_socialist = 0
 	syndicalist = 0
-	social_democrat = 1
-	social_liberal = 1
+	social_democrat = 0
+	social_liberal = 21
 	market_liberal = 3
-	social_conservative = 14
+	social_conservative = 15
 	authoritarian_democrat = 11
-	paternal_autocrat = 47
-	national_populist = 22
+	paternal_autocrat = 50
+	national_populist = 0
 }
 
 # Country Leader #
+recruit_character = AFG_mohammad_nadir_khan
 recruit_character = AFG_amanullah_khan
 recruit_character = AFG_habibullah_kalakani
-recruit_character = AFG_mohammad_nadir_khan
+
 # Army #
 recruit_character = AFG_wali_khan
 recruit_character = AFG_mohammad_daoud_khan

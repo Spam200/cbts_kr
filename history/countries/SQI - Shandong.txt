@@ -1,8 +1,8 @@
-﻿capital = 597
+capital = 597
 set_research_slots = 2
 set_stability = 0.50
 set_war_support = 0.40
-oob = "SQI"
+#oob = "SQI"
 set_convoys = 15
 starting_train_buffer = 1
 

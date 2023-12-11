@@ -1,5 +1,5 @@
-﻿capital = 330
-oob = "MON"
+capital = 330
+#oob = "MON"
 set_research_slots = 2
 
 set_technology = {

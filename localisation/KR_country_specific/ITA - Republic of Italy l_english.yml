@@ -3,26 +3,26 @@
  italian_federation_focus: "Italian Federation Focus Tree"
 
 ### Parties ###
- ITA_totalist_party: "FAR"
- ITA_totalist_party_long: "Fascio d'Azione Rivoluzionaria"
- ITA_syndicalist_party: "CGL-USI (IOS)"
- ITA_syndicalist_party_long: "Confederazione Generale dei Lavoratori - Unione Sindacale Italiana (Sezione Italiana dell'Internazionale Operaia Sindacalista)"
- ITA_radical_socialist_party: "PdA"
- ITA_radical_socialist_party_long: "Partito d'Azione"
- ITA_social_democrat_party: "LDR"
- ITA_social_democrat_party_long: "Lega Democratica Riformista"
- ITA_social_liberal_party: "PLD"
- ITA_social_liberal_party_long: "Partito Liberale Democratico"
+ ITA_totalist_party: "PCd'I"
+ ITA_totalist_party_long: "Partito Comunista d'Italia"
+ ITA_syndicalist_party: "PSI-M"
+ ITA_syndicalist_party_long: "Partito Socialista Italiano - Massimalista"
+ ITA_radical_socialist_party: "PSI-IOS"
+ ITA_radical_socialist_party_long: "Partito Socialista Italiano - Sezione dell'Internazionale Operaia Socialista"
+ ITA_social_democrat_party: "GL"
+ ITA_social_democrat_party_long: "Giustizia e Libertà"
+ ITA_social_liberal_party: "PRI"
+ ITA_social_liberal_party_long: "Partito Repubblicano Italiano"
  ITA_market_liberal_party: "PLI"
  ITA_market_liberal_party_long: "Partito Liberale Italiano"
- ITA_social_conservative_party: "PPI"
- ITA_social_conservative_party_long: "Partito Popolare Italiano"
- ITA_authoritarian_democrat_party: "Consiglio Federale"
- ITA_authoritarian_democrat_party_long: "Consiglio della Federazione Italiana"
- ITA_paternal_autocrat_party: "Governo Militare"
- ITA_paternal_autocrat_party_long: "Governo Militare"
- ITA_national_populist_party: "ANI"
- ITA_national_populist_party_long: "Associazione Nazionalista Italiana"
+ ITA_social_conservative_party: "AC"
+ ITA_social_conservative_party_long: "Azione Cattolica"
+ ITA_authoritarian_democrat_party: "PNF"
+ ITA_authoritarian_democrat_party_long: "Partito Nazionale Fascista"
+ ITA_paternal_autocrat_party: "PNF"
+ ITA_paternal_autocrat_party_long: "Partito Nazionale Fascista"
+ ITA_national_populist_party: "PNF"
+ ITA_national_populist_party_long: "Partito Nazionale Fascista"
 
 ### Companies ###
  accademia_militare_milano: "Accademia Militare di Milano"
@@ -1129,6 +1129,10 @@
  ITA_kingdom_social_democrat_DEF: "the Kingdom of Italy"
 
 ### Characters ###
+
+ ITA_victor_emmanuel: "Victor Emmanuel III"
+ ITA_victor_emmanuel_leader_desc: "Victor Emmanuel III"
+
  ITA_italo_balbo: "Italo Balbo"
  ITA_italo_balbo_leader_desc: "Disruptive. Bombastic. Extreme. Violent. But never boring. Few could predict that the Italian Republic, long torn between the aristocratic federation backed by Austria and the democracy backed by idealists, would be toppled by a man who despised both. Atop the ashes, Italo Balbo has declared himself Il Duce before his legionnaires and would not be stopped: not by decency, by threat of revolt, invasion by Austrians, or the red menace to the West.\n\nBalbo grew up near Ferrara, and quickly fell under the spell of romanticism. He admired the heroes of the Risorgimento, particularly Giuseppe Mazzini, and at age 14 attempted to run away to join Ricciotti Garibaldi’s attempt to free Albania from the Ottoman yoke.\n\nWhen the Weltkrieg broke out, he paused his studies and joined the Alpini. He was quickly noted for his courage and fanaticism against the Austrians, gaining multiple awards and the rank of Captain. During the war, he was also first introduced to aircraft: he volunteered for flight training as the tide began to turn against the Entente. Despite the Italians’ best efforts however, they were defeated and an armistice was signed in 1919.\n\nDespite having grown up exposed to Republican and Socialist viewpoints, Balbo developed a hatred for the socialist revolution. After resigning his commission in protest for their surrender to the Austrians, he organised his own militias to crack down on socialist activity. This brought him to a prominent position in the reactionary movement, where he helped co-found the Italian Nationalist Association.\n\nThe ANI became infamous within the newly founded ‘Italian Federation’ for their violent acts of terrorism, enforcing their viewpoints through force. Many landowners turned a blind eye to their activities, and Balbo became infamous as the scourge of any socialist or Austrian sympathiser north of the Po river."
 

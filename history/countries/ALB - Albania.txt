@@ -1,7 +1,8 @@
-﻿capital = 44
-oob = "ALB"
+capital = 44
+#oob = "ALB"
 set_convoys = 5
 set_research_slots = 3
+set_cosmetic_tag =  ALB_kingdom
 
 set_technology = {
 	### Infantry ###
@@ -14,38 +15,39 @@ set_technology = {
 }
 
 add_ideas = {
-	ALB_polarised_nation_idea
-	ALB_illiteracy
+
 }
 
 set_politics = {
-	ruling_party = social_conservative
-	last_election = "1932.6.12"
+	ruling_party = paternal_autocrat
+	last_election = "1928.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
 	totalist = 0
-	radical_socialist = 0
-	syndicalist = 4
-	social_democrat = 38
-	social_liberal = 7
-	market_liberal = 4
-	social_conservative = 42
-	authoritarian_democrat = 0
-	paternal_autocrat = 2
+	radical_socialist = 10
+	syndicalist = 0
+	social_democrat = 0
+	social_liberal = 0
+	market_liberal = 0
+	social_conservative = 17
+	authoritarian_democrat = 5
+	paternal_autocrat = 65
 	national_populist = 3
 }
 
+
+
 ### Country Leaders ###
+recruit_character = ALB_ahmet_zogu
 recruit_character = ALB_enver_hoxha
 recruit_character = ALB_ali_kelmendi
 recruit_character = ALB_avni_rustemi
 recruit_character = ALB_fan_noli
 recruit_character = ALB_xhafer_ypi
 recruit_character = ALB_shefqet_verlaci
-recruit_character = ALB_ahmet_zogu
 recruit_character = ALB_luigj_bumci
 recruit_character = ALB_eshref_frasheri
 recruit_character = ALB_midhat_frasheri
