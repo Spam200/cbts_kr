@@ -46,7 +46,7 @@ bookmarks = {
 	### Western Europe ###
 		FRA = {
 			history = FRA_KR_gathering_storm_desc
-			ideology = syndicalist
+			ideology = market_liberal
 			ideas = {
 
 			}
