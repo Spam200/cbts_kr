@@ -94,29 +94,32 @@ if = {
 set_war_support = 0.35
 
 set_politics = {
-	ruling_party = national_populist
-	last_election = "1888.6.15"
+
+	ruling_party = paternal_autocrat
+	last_election = "1928.3.25"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	totalist = 0
-	syndicalist = 0
+	totalist = 6
+	syndicalist = 5
 	radical_socialist = 1
-	social_democrat = 6
-	social_liberal = 4
-	market_liberal = 4
-	social_conservative = 12
-	authoritarian_democrat = 14
-	paternal_autocrat = 19
-	national_populist = 40
+	social_democrat = 1
+	social_liberal = 2
+	market_liberal = 2
+	social_conservative = 1
+	authoritarian_democrat = 0
+	paternal_autocrat = 65
+	national_populist = 17
 }
 
-add_ideas = POR_integralist_ethos
+#add_ideas = POR_integralist_ethos
 
 ### Country Leaders ###
-recruit_character = POR_duarte_braganca
+recruit_character = POR_antonio_oscar_de_fragoso_carmona
+recruit_character = POR_antonio_de_oliveira_salazar
+#recruit_character = POR_duarte_braganca
 recruit_character = POR_maria_adelaide_braganca
 recruit_character = POR_maria_ana_braganca
 

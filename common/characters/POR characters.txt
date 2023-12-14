@@ -3,6 +3,35 @@ characters = {
 	#######################
 	### Country Leaders ###
 	#######################
+	POR_antonio_oscar_de_fragoso_carmona = {
+		name = POR_antonio_oscar_de_fragoso_carmona
+		portraits = {
+			army = {
+				small = "gfx/interface/advisors/POR/POR_antonio_oscar_de_fragoso_carmona.png"
+				large = "gfx/leaders/POR/Portrait_Portugal_Antonio_Carmona.png"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democrat_subtype
+		}
+		country_leader = {
+			ideology = paternal_autocrat_subtype
+		}
+		corps_commander = {
+			traits = { old_guard career_officer cavalry_leader }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 3
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = POR_antonio_oscar_de_fragoso_carmona
+			traits = { KR_army_chief_planning_2 }
+			cost = 100
+		}
+	}
 	POR_jose_carlos_rates = {
 		name = POR_jose_carlos_rates
 		portraits = {
@@ -91,38 +120,16 @@ characters = {
 		country_leader = {
 			ideology = authoritarian_democrat_subtype
 		}
+		country_leader = {
+			ideology = paternal_autocrat_subtype
+		}
 		advisor = {
 			slot = political_advisor
 			idea_token = POR_antonio_de_oliveira_salazar
 			traits = { KR_austere_finance_advocate }
 		}
 	}
-	POR_antonio_oscar_de_fragoso_carmona = {
-		name = POR_antonio_oscar_de_fragoso_carmona
-		portraits = {
-			army = {
-				small = "gfx/interface/advisors/POR/POR_antonio_oscar_de_fragoso_carmona.png"
-				large = "gfx/leaders/POR/Portrait_Portugal_Antonio_Carmona.png"
-			}
-		}
-		country_leader = {
-			ideology = paternal_autocrat_subtype
-		}
-		corps_commander = {
-			traits = { old_guard career_officer cavalry_leader }
-			skill = 2
-			attack_skill = 1
-			defense_skill = 1
-			planning_skill = 2
-			logistics_skill = 3
-		}
-		advisor = {
-			slot = army_chief
-			idea_token = POR_antonio_oscar_de_fragoso_carmona
-			traits = { KR_army_chief_planning_2 }
-			cost = 100
-		}
-	}
+
 	POR_francisco_de_barcelos_rolao_preto = {
 		name = POR_francisco_de_barcelos_rolao_preto
 		portraits = {

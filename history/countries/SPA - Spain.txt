@@ -308,11 +308,7 @@ create_dynamic_country = {
 		picture = "gfx/leaders/Spains/Portrait_SPA_Manuel_Azana_Diaz.png"
 		ideology = social_liberal_subtype
 	}
-	create_country_leader = {
-		name = SPA_niceto_alcala_zamora
-		picture = "gfx/leaders/Spains/Portrait_SPA_Niceto_Alcala_Zamora.png"
-		ideology = market_liberal_subtype
-	}
+
 
 	### Country Leaders ###
 	recruit_character = SPR_javier_de_borbon_parma
@@ -422,7 +418,6 @@ recruit_character = SPA_henri_de_borbon
 ### Country Leaders ###
 recruit_character = SPA_augusto_barcia_trelles
 recruit_character = SPA_manuel_azana_diaz
-recruit_character = SPA_niceto_alcala_zamora
 recruit_character = SPA_jose_calvo_sotelo
 recruit_character = SPA_gil_robles
 recruit_character = SPA_emilio_mola_vidal

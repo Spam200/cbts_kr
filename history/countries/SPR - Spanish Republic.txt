@@ -133,15 +133,8 @@ set_popularities = {
 	national_populist = 0
 }
 
-#country_event = { id = sprd.4 days = 13 }
-#country_event = { id = sprd.8 days = 32 }
-#country_event = { id = sprd.13 days = 57 }
-#country_event = { id = sprd.21 days = 300 }
-
 add_ideas = {
-	volunteer_only
-	SPA_social_breakdown
-	SPA_memories_of_the_republic
+
 }
 
 ### Dummy Leaders ###
@@ -161,6 +154,14 @@ create_country_leader = {
 	ideology = syndicalist_subtype
 }
 
+	create_country_leader = {
+		name = SPA_niceto_alcala_zamora
+		picture = "gfx/leaders/Spains/Portrait_SPA_Niceto_Alcala_Zamora.png"
+		ideology = social_democrat_subtype
+	}
+
+recruit_character = SPA_niceto_alcala_zamora
+
 ### Monarchs ###
 recruit_character = SPA_alfonso_de_borbon
 recruit_character = SPA_jaime_de_borbon
@@ -170,7 +171,6 @@ recruit_character = SPA_henri_de_borbon
 ### Country Leaders ###
 recruit_character = SPA_augusto_barcia_trelles
 recruit_character = SPA_manuel_azana_diaz
-recruit_character = SPA_niceto_alcala_zamora
 recruit_character = SPA_jose_calvo_sotelo
 recruit_character = SPA_gil_robles
 recruit_character = SPA_emilio_mola_vidal
