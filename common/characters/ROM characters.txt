@@ -146,7 +146,7 @@ characters = {
 		}
 		country_leader = {
 			desc = ROM_carol_ii_leader_desc
-			ideology = authoritarian_democra_subtype
+			ideology = authoritarian_democrat_subtype
 			traits = { ROM_autocrat }
 		}
 		country_leader = {

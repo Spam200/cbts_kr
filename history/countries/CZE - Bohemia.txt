@@ -2,7 +2,7 @@ capital = 9
 #oob = "CZE"
 set_stability = 0.60
 set_research_slots = 3
-set_cosmetic_tag = CZE_habsburg
+set_cosmetic_tag = CZE_czechoslavakia
 
 set_technology = {
 	### Infantry ###
@@ -75,27 +75,27 @@ if = {
 }
 
 set_politics = {
-	ruling_party = social_liberal
-	last_election = "1930.11.9"
-	election_frequency = 48
+	ruling_party = social_conservative
+	last_election = "1929.10.27"
+	election_frequency = 60
 	elections_allowed = no
 }
 
 set_popularities = {
-	totalist = 0
-	syndicalist = 2
-	radical_socialist = 4
-	social_democrat = 12
-	social_liberal = 32
-	market_liberal = 22
-	social_conservative = 9
-	authoritarian_democrat = 6
-	paternal_autocrat = 11
-	national_populist = 2
+	totalist = 11
+	syndicalist = 0
+	radical_socialist = 8
+	social_democrat = 13
+	social_liberal = 12
+	market_liberal = 6
+	social_conservative = 34
+	authoritarian_democrat = 4
+	paternal_autocrat = 7
+	national_populist = 5
 }
 
 ### Country Leaders ###
-recruit_character = CZE_jan_masaryk
+recruit_character = CZE_tomas_masaryk
 recruit_character = CZE_stanislav_kostka_neumann
 recruit_character = CZE_zdenek_nejedly
 recruit_character = CZE_frantisek_soukup
