@@ -20,13 +20,6 @@ bookmarks = {
 			}
 		}
 
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
-		}
-
-
-
 	### Entente ###
 
 		ENG = {
@@ -38,11 +31,6 @@ bookmarks = {
 			focuses = {
 
 			}
-		}
-
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
 		}
 
 	### Western Europe ###
@@ -57,16 +45,7 @@ bookmarks = {
 
 			}
 		}
-
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
-		}
-
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
-		}		
+		
 
 	### Reichspakt ###
 
@@ -79,11 +58,6 @@ bookmarks = {
 			focuses = {
 
 			}
-		}
-
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
 		}
 
 
@@ -100,10 +74,6 @@ bookmarks = {
 			}
 		}
 
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
-		}
 
 	### Eurasia ###
 
@@ -118,11 +88,6 @@ bookmarks = {
 			}
 		}
 
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
-		}
-
 	### East Asia ###
 
 		JAP = {
@@ -134,11 +99,6 @@ bookmarks = {
 			focuses = {
 
 			}
-		}
-
-		XXA = {
-			ideology = national_populist
-			history = Debug_KR_gathering_storm_desc
 		}
 
 		effect = {
