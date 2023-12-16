@@ -45,37 +45,32 @@ set_stability = 0.6
 set_research_slots = 3
 
 add_ideas = {
-	extensive_conscription
-	free_trade
 
-	SWI_neutrality_idea
-	SWI_geneva_memories
-	SWI_field_marshal
 }
 
 set_war_support = 0.55
 
 set_politics = {
 	ruling_party = market_liberal
-	last_election = "1935.10.18"
+	last_election = "1931.10.25"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	totalist = 0
+	totalist = 2
 	radical_socialist = 1
 	syndicalist = 4
-	social_democrat = 8
-	social_liberal = 9
-	market_liberal = 51
-	social_conservative = 10
-	authoritarian_democrat = 7
+	social_democrat = 23
+	social_liberal = 19
+	market_liberal = 27
+	social_conservative = 23
+	authoritarian_democrat = 1
 	paternal_autocrat = 0
-	national_populist = 10
+	national_populist = 0
 }
 
-activate_mission = SWI_peace_mission_ongoing
+#activate_mission = SWI_peace_mission_ongoing
 #country_event = { id = prewar.1 days = 397 }   # Romandie Crisis
 #country_event = { id = swiss.71 days = 96 }    # Union Nationale Rally
 #country_event = { id = swiss.143 days = 70 }

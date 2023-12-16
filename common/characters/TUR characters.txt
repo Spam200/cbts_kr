@@ -4,17 +4,13 @@ characters = {
 	TUR_mustafa_kemal = {
 		name = TUR_mustafa_kemal
 		portraits = {
+			civilian = {
+				large = "gfx/leaders/TUR/Portrait_TUR_Mustafa_Kemal.png"
+			}
 			army = {
 				large = "gfx/leaders/TUR/Portrait_TUR_Mustafa_Kemal.png"
 				small = "gfx/interface/advisors/TUR/TUR_mustafa_kemal.png"
 			}
-		}
-		advisor = {
-			slot = second_in_command
-			idea_token = TUR_mustafa_kemal_sic
-			traits = { KR_aggressive_moderniser_sic }
-			cost = 0
-			can_be_fired = no
 		}
 		country_leader = {
 			ideology = syndicalist
@@ -33,6 +29,43 @@ characters = {
 		}
 		country_leader = {
 			ideology = authoritarian_democrat
+		}
+		advisor = {
+			slot = second_in_command
+			idea_token = TUR_mustafa_kemal_sic
+			traits = { KR_aggressive_moderniser_sic }
+			cost = 0
+			can_be_fired = no
+		}
+	}
+	TUR_ismet_resit = {
+		name = TUR_ismet_resit #Inonu - uses Resit as a surname in KRTL, since the battle never happened
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/TUR/Portrait_TUR_Ismet_Inonu.png"
+			}
+			army = {
+				small = "gfx/interface/advisors/TUR/TUR_ismet_resit.png"
+			}
+		}
+		country_leader = {
+			ideology = authoritarian_democrat_subtype
+		}
+		advisor = {
+			slot = second_in_command
+			idea_token = TUR_ismet_resit_sic
+			traits = { KR_milli_sef_sic }
+			cost = 0
+			can_be_fired = no
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = TUR_ismet_resit_army_chief
+			available = {
+				not_already_hired_except_as = army_chief
+			}
+			traits = { KR_army_chief_defensive_2 }
+			cost = 100
 		}
 	}
 	TUR_resad_fuad_baraner = {
@@ -127,36 +160,6 @@ characters = {
 			civilian = {
 				large = "gfx/leaders/TUR/Portrait_TUR_ahmet_muhtar.png"
 			}
-		}
-	}
-	TUR_ismet_resit = {
-		name = TUR_ismet_resit #Inonu - uses Resit as a surname in KRTL, since the battle never happened
-		portraits = {
-			civilian = {
-				large = "gfx/leaders/TUR/Portrait_TUR_Ismet_Inonu.png"
-			}
-			army = {
-				small = "gfx/interface/advisors/TUR/TUR_ismet_resit.png"
-			}
-		}
-		country_leader = {
-			ideology = authoritarian_democrat_subtype
-		}
-		advisor = {
-			slot = second_in_command
-			idea_token = TUR_ismet_resit_sic
-			traits = { KR_milli_sef_sic }
-			cost = 0
-			can_be_fired = no
-		}
-		advisor = {
-			slot = army_chief
-			idea_token = TUR_ismet_resit_army_chief
-			available = {
-				not_already_hired_except_as = army_chief
-			}
-			traits = { KR_army_chief_defensive_2 }
-			cost = 100
 		}
 	}
 	TUR_fevzi_cakmak = {
