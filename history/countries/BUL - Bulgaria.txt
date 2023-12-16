@@ -115,43 +115,39 @@ set_research_slots = 3
 set_convoys = 40
 
 add_ideas = {
-	limited_conscription
-	BUL_waning_hegemony
-	BUL_military_league
-	BUL_boris_crown_prince
-	BUL_state_protection_act
+
 }
 
 set_politics = {
-	ruling_party = authoritarian_democrat
-	last_election = "1934.6.21"
+	ruling_party = social_liberal
+	last_election = "1931.6.21"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {
-	totalist = 1
-	syndicalist = 3
-	radical_socialist = 6
-	social_democrat = 6
-	social_liberal = 8
-	market_liberal = 11
-	social_conservative = 15
-	authoritarian_democrat = 30
-	paternal_autocrat = 11
-	national_populist = 9
+	totalist = 13 #BKP
+	syndicalist = 0 #FAKB
+	radical_socialist = 0 #ORSDP
+	social_democrat = 25 #BZNS
+	social_liberal = 20 #DP 
+	market_liberal = 5 #NLP (Petrov)/RDP
+	social_conservative = 25 #DS/NLP
+	authoritarian_democrat = 5 #DS
+	paternal_autocrat = 2 #Zveno
+	national_populist = 5 #NSD/SMNL
 }
 
 #Country leaders
+recruit_character = BUL_boris_sakskoburggotski
 recruit_character = BUL_vasil_ikonomov
 recruit_character = BUL_manol_vasev
 recruit_character = BUL_georgi_dimitrov
 recruit_character = BUL_kimon_georgiev
 recruit_character = BUL_ivan_dochev
 
-recruit_character = BUL_ferdinand_sakskoburggotski
-recruit_character = BUL_boris_sakskoburggotski
-recruit_character = BUL_kyril_sakskoburggotski
+#recruit_character = BUL_ferdinand_sakskoburggotski
+#recruit_character = BUL_kyril_sakskoburggotski
 
 #Puppet leaders
 recruit_character = BUL_dimo_kazasov

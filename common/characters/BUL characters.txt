@@ -51,6 +51,31 @@ characters = {
 			planning_skill = 1
 			logistics_skill = 1
 		}
+		country_leader = {
+			
+			ideology = social_democrat_subtype
+			traits = { BUL_great_restorer }
+		}
+		country_leader = {
+			
+			ideology = social_liberal_subtype
+			traits = { BUL_great_restorer }
+		}
+		country_leader = {
+			
+			ideology = market_liberal_subtype
+			traits = { BUL_great_restorer }
+		}
+		country_leader = {
+			
+			ideology = social_conservative_subtype
+			traits = { BUL_great_restorer }
+		}
+		country_leader = {
+			
+			ideology = authoritarian_democrat_subtype
+			traits = { BUL_great_restorer }
+		}
 	}
 	BUL_kyril_sakskoburggotski = {
 		name = BUL_kyril_sakskoburggotski

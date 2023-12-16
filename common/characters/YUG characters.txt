@@ -6,7 +6,7 @@ characters = {
 		name = YUG_alexander_I
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/YUG_Portrait_Yugoslavia_Alexander_I.png"
+				large = "gfx/leaders/SER/Portrait_Yugoslavia_Alexander_I.png"
 			}
 		}
 		country_leader = {

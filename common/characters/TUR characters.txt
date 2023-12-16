@@ -1,4 +1,40 @@
+
+
 characters = {
+	TUR_mustafa_kemal = {
+		name = TUR_mustafa_kemal
+		portraits = {
+			army = {
+				large = "gfx/leaders/TUR/Portrait_TUR_Mustafa_Kemal.png"
+				small = "gfx/interface/advisors/TUR/TUR_mustafa_kemal.png"
+			}
+		}
+		advisor = {
+			slot = second_in_command
+			idea_token = TUR_mustafa_kemal_sic
+			traits = { KR_aggressive_moderniser_sic }
+			cost = 0
+			can_be_fired = no
+		}
+		country_leader = {
+			ideology = syndicalist
+		}
+		country_leader = {
+			ideology = radical_socialist
+		}
+		country_leader = {
+			ideology = social_democrat
+		}
+		country_leader = {
+			ideology = social_liberal
+		}
+		country_leader = {
+			ideology = market_liberal
+		}
+		country_leader = {
+			ideology = authoritarian_democrat
+		}
+	}
 	TUR_resad_fuad_baraner = {
 		name = TUR_resad_fuad_baraner
 		portraits = {
@@ -316,22 +352,7 @@ characters = {
 	#########################
 	### Second in Command ###
 	#########################
-	TUR_mustafa_kemal = {
-		name = TUR_mustafa_kemal
-		portraits = {
-			army = {
-				large = "gfx/leaders/TUR/Portrait_TUR_Mustafa_Kemal.png"
-				small = "gfx/interface/advisors/TUR/TUR_mustafa_kemal.png"
-			}
-		}
-		advisor = {
-			slot = second_in_command
-			idea_token = TUR_mustafa_kemal_sic
-			traits = { KR_aggressive_moderniser_sic }
-			cost = 0
-			can_be_fired = no
-		}
-	}
+
 	TUR_sultanzade_mehmed_sabahaddin = {
 		name = TUR_sultanzade_mehmed_sabahaddin
 		portraits = {

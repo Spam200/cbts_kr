@@ -6,7 +6,7 @@ set_stability = 0.55
 set_war_support = 0.1
 set_convoys = 40
 
-set_cosmetic_tag = TUR_ottoman_empire
+#set_cosmetic_tag = TUR_ottoman_empire
 set_country_flag = TUR_is_ottomans
 
 save_global_event_target_as = original_turkey
@@ -117,240 +117,6 @@ if = {
 	}
 }
 
-### Unrest ###
-773 = {	#Konstantiniyye
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_high = yes
-}
-341 = { #Adrianople
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_high = yes
-}
-340 = {	#Bursa
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_high = yes
-}
-356 = { #Sinop
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_high = yes
-}
-339 = { #Smyrna
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_high = yes
-}
-342 = { #Mugla
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_high = yes
-}
-343 = {	#Afyon
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_high = yes
-}
-346 = { #Konya
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_high = yes
-}
-49 = { #Ankara
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_high = yes
-}
-344 = {	#Adana
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_high = yes
-}
-585 = { #Batumi
-	ott_set_revolt_risk_medium = yes
-	ott_set_authority_vilayet_medium = yes
-}
-1001 = { #Lazistan
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_medium = yes
-}
-1000 = { #Kars
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_medium = yes
-}
-355 = { #Trabzon
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_high = yes
-}
-345 = {	#Sivas
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_high = yes
-}
-350 = {	#Diyarbakir
-	ott_set_revolt_risk_medium = yes
-	ott_set_authority_vilayet_medium = yes
-}
-352 = {	#Van
-	ott_set_revolt_risk_medium = yes
-	ott_set_authority_vilayet_medium = yes
-}
-349 = { #Maras
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_high = yes
-}
-354 = { #Erzurum
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_high = yes
-}
-164 = { #Dodecanese
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-554 = { #Suriye
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-553 = { #Beyrut
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-677 = { #Halep
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_low = yes
-}
-680 = { #Zor
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-455 = { #Transjordan
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_medium = yes
-}
-453 = { #Sinai
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-754 = { #Medina
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-679 = { #Mecca
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-676 = { #Mosul
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_medium = yes
-}
-819 = { #Kirkuk
-	ott_set_revolt_risk_medium = yes
-	ott_set_authority_vilayet_medium = yes
-}
-291 = { #Baghdad
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_medium = yes
-}
-812 = { #Basra
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-187 = { #Aegean Islands
-	ott_set_revolt_risk_medium = yes
-	ott_set_authority_vilayet_low = yes
-}
-183 = { #Cyprus
-	ott_set_revolt_risk_medium = yes
-	ott_set_authority_vilayet_low = yes
-}
-995 = { #Homs
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-992 = { #Haifa
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-454 = { #Jerusalem
-	ott_set_revolt_risk_high = yes
-	ott_set_authority_vilayet_low = yes
-}
-184 = { #Western Thrace
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_high = yes
-}
-1089 = { #Kardzhali
-	set_state_flag = ott_ottomanist
-	ott_set_revolt_risk_medium = yes
-	ott_set_authority_vilayet_high = yes
-}
-448 = { #Tripolitania
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-273 = { #Fezzan
-	ott_set_revolt_risk_high = yes
-	ott_set_authority_vilayet_low = yes
-}
-450 = { #Benghazi
-	ott_set_revolt_risk_none = yes
-	ott_set_authority_vilayet_medium = yes
-}
-907 = { #Bahrain
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-993 = { #Qatar
-	ott_set_revolt_risk_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-658 = { #Abu Dhabi
-	ott_set_revolt_risk_very_low = yes
-	ott_set_authority_vilayet_low = yes
-}
-230 = { #Yerevan
-	ott_set_revolt_risk_very_high = yes
-	ott_set_authority_vilayet_medium = yes
-}
-451 = { #Ajdabiya
-	ott_set_authority_vilayet_low = yes
-	ott_set_revolt_risk_very_high = yes
-}
-663 = { #Jaghbub
-	ott_set_authority_vilayet_low = yes
-	ott_set_revolt_risk_very_high = yes
-}
-1009 = { #Kufra
-	ott_set_authority_vilayet_low = yes
-	ott_set_revolt_risk_very_high = yes
-}
-
-#Setup unique rebellion flags
-164 = { set_state_flag = ott_unique_rebellion_event } #Dodecanese
-183 = { set_state_flag = ott_unique_rebellion_event } #Cyprus
-187 = { set_state_flag = ott_unique_rebellion_event } #Aegean Islands
-230 = { set_state_flag = ott_unique_rebellion_event } #Yerevan
-273 = { set_state_flag = ott_unique_rebellion_event } #Fezzan
-291 = { set_state_flag = ott_unique_rebellion_event } #Baghdad
-448 = { set_state_flag = ott_unique_rebellion_event } #Tripoli
-450 = { set_state_flag = ott_unique_rebellion_event } #Benghazi
-451 = { set_state_flag = ott_unique_rebellion_event } #Ajdabiya
-455 = { set_state_flag = ott_unique_rebellion_event } #Transjordan
-554 = { set_state_flag = ott_unique_rebellion_event } #Damascus
-663 = { set_state_flag = ott_unique_rebellion_event } #Jaghbub
-677 = { set_state_flag = ott_unique_rebellion_event } #Aleppo
-679 = { set_state_flag = ott_unique_rebellion_event } #Medina
-754 = { set_state_flag = ott_unique_rebellion_event } #Mecca
-992 = { set_state_flag = ott_unique_rebellion_event } #Haifa
-995 = { set_state_flag = ott_unique_rebellion_event } #Homs
-1009 = { set_state_flag = ott_unique_rebellion_event } #Kufra
-
 ### Parliament
 set_variable = { var = representatives_support value = 0 }
 set_variable = { var = representatives_total value = 500 }
@@ -409,62 +175,17 @@ set_variable = { country_intro_page_count = 4 }
 #country_event = { id = ottfla.16 days = 3000 } # The Villager and the Comet
 #country_event = { id = ottfla.21 days = 3143 } # Death of Abdülmecid II
 
-### Eid-ul Fitr
-#country_event = { id = ottfla.12 days = 348 } # Special one for the Empire
-LBA = { #country_event = { id = ottfla.12 days = 348 } } # Special one for the Empire
-TRK = { #country_event = { id = ott.0 days = 348 } }
-BUK = { #country_event = { id = ott.0 days = 348 } }
-KHI = { #country_event = { id = ott.0 days = 348 } }
-EGY = { #country_event = { id = ott.0 days = 348 } }
-SAU = { #country_event = { id = ott.0 days = 348 } }
-AFG = { #country_event = { id = ott.0 days = 348 } }
-AZR = { #country_event = { id = ott.0 days = 348 } }
-OMA = { #country_event = { id = ott.0 days = 348 } }
-YEM = { #country_event = { id = ott.0 days = 348 } }
 
-###Initial variables, will be overwritten by on_startup
-set_variable = { var_state_stability = -0.25 }
 
 add_ideas = {
-	volunteer_only
-	ott_vilayet_stability_idea
-	ott_institutionalised_islam
-	ott_widespread_illiteracy
-	ott_armed_neutrality
+
 }
 
-add_dynamic_modifier = { modifier = vilayet_stability_dynamic_modifier }
-ott_evaluate_stabillity_modifier = yes
-OTT_evaluate_centralisation = yes
 
-set_variable = {
-	var = syr_integration_factor
-	value = 25
-}
-set_variable = {
-	var = gre_integration_factor
-	value = 40
-}
-set_variable = {
-	var = kur_integration_factor
-	value = 50
-}
-set_variable = {
-	var = hej_integration_factor
-	value = 30
-}
-set_variable = {
-	var = irq_integration_factor
-	value = 50
-}
-set_variable = {
-	var = tri_integration_factor
-	value = 10
-}
 
 set_politics = {
 	ruling_party = authoritarian_democrat
-	last_election = "1935.10.11"
+	last_election = "1931.4.25"
 	election_frequency = 48
 	elections_allowed = yes
 }
@@ -472,29 +193,24 @@ set_politics = {
 set_popularities = {
 	totalist = 0
 	syndicalist = 0
-	radical_socialist = 2
-	social_democrat = 0
-	social_liberal = 12
-	market_liberal = 21
+	radical_socialist = 0
+	social_democrat = 5
+	social_liberal = 5
+	market_liberal = 5
 	social_conservative = 5
-	authoritarian_democrat = 46
-	paternal_autocrat = 13
-	national_populist = 1
+	authoritarian_democrat = 75
+	paternal_autocrat = 5
+	national_populist = 0
 }
-### Relations ###
-give_military_access = GER
 
-add_ai_strategy = {
-	type = ignore_claim
-	id = "AZR"
-	value = 1
-}
+
 
 ### Country Leaders ###
-recruit_character = TUR_abdulmecid_osmanoglu
-recruit_character = TUR_ahmed_osmanoglu
-recruit_character = TUR_osman_fuad_osmanoglu
-recruit_character = TUR_omer_faruk_osmanoglu
+recruit_character = TUR_mustafa_kemal
+#recruit_character = TUR_abdulmecid_osmanoglu
+#recruit_character = TUR_ahmed_osmanoglu
+#recruit_character = TUR_osman_fuad_osmanoglu
+#recruit_character = TUR_omer_faruk_osmanoglu
 
 recruit_character = TUR_resad_fuad_baraner
 recruit_character = TUR_sefik_husnu_deymer
@@ -510,7 +226,7 @@ recruit_character = TUR_mehmet_kazim_orbay
 recruit_character = TUR_mehmet_recep_peker
 
 ### Second in Command ###
-recruit_character = TUR_mustafa_kemal
+
 recruit_character = TUR_sultanzade_mehmed_sabahaddin
 recruit_character = TUR_musa_kazim_karabekir
 recruit_character = TUR_mahmud_celaleddin_bayar
