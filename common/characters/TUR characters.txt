@@ -1,6 +1,7 @@
 
 
 characters = {
+
 	TUR_mustafa_kemal = {
 		name = TUR_mustafa_kemal
 		portraits = {
@@ -8,27 +9,26 @@ characters = {
 				large = "gfx/leaders/TUR/Portrait_TUR_Mustafa_Kemal.png"
 			}
 			army = {
-				large = "gfx/leaders/TUR/Portrait_TUR_Mustafa_Kemal.png"
 				small = "gfx/interface/advisors/TUR/TUR_mustafa_kemal.png"
 			}
 		}
 		country_leader = {
-			ideology = syndicalist
+			ideology = syndicalist_subtype
 		}
 		country_leader = {
-			ideology = radical_socialist
+			ideology = radical_socialist_subtype
 		}
 		country_leader = {
-			ideology = social_democrat
+			ideology = social_democrat_subtype
 		}
 		country_leader = {
-			ideology = social_liberal
+			ideology = social_liberal_subtype
 		}
 		country_leader = {
-			ideology = market_liberal
+			ideology = market_liberal_subtype
 		}
 		country_leader = {
-			ideology = authoritarian_democrat
+			ideology = authoritarian_democrat_subtype
 		}
 		advisor = {
 			slot = second_in_command
@@ -38,6 +38,7 @@ characters = {
 			can_be_fired = no
 		}
 	}
+
 	TUR_ismet_resit = {
 		name = TUR_ismet_resit #Inonu - uses Resit as a surname in KRTL, since the battle never happened
 		portraits = {
