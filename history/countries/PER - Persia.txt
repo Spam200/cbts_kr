@@ -83,12 +83,6 @@ set_variable = { country_intro_page_count = 2 } #For intro screen
 #country_event = { id = pers.101 days = 2355 } # Rostam the Bear
 
 add_ideas = {
-	PER_political_upheaval
-	PER_bad_military
-	PER_semi_famine
-	PER_corrupt_aristocrats
-	PER_unruly_khans
-	PER_illiteracy
 }
 
 ### Integration ###

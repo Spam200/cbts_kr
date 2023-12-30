@@ -9,10 +9,6 @@ starting_train_buffer = 2
 #set_naval_oob = "NOR_naval"
 
 add_ideas = {
-	NOR_divided_airforce_idea
-	NOR_weak_economy_1
-
-	limited_conscription
 }
 
 set_technology = {

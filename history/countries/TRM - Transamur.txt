@@ -112,10 +112,6 @@ activate_mission = TRM_visit_from_japan #to trigger visits from Japan
 #country_event = { id = tram.80 days = 365 random_days = 180 }
 
 add_ideas = {
-	limited_conscription
-
-	TRM_dream_1
-	TRM_economic_ties_to_japan_0
 }
 
 ### Diplomacy

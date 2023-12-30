@@ -44,9 +44,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	limited_conscription
-	KUM_legacy_masqud
-	KUM_keeping_peace
 }
 china_add_poor_army = yes
 

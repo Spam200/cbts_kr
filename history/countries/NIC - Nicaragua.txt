@@ -57,10 +57,6 @@ set_popularities = {
 	national_populist = 0
 }
 add_ideas = {
-	limited_conscription
-	CEN_monroe_doctrine
-	NIC_revolution
-	NIC_remaining_UFC_influence
 }
 
 activate_targeted_decision = { decision = CEN_unite_central_america target = THIS }

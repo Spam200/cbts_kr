@@ -70,10 +70,6 @@ set_stability = 0.51
 set_war_support = 0.47
 
 add_ideas = {
-	CEN_monroe_doctrine
-	ELS_memories_32
-	ELS_depression_leftovers
-	limited_conscription
 }
 
 recruit_character = ELS_agustin_farabundo_marti

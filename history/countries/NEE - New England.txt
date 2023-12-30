@@ -113,9 +113,6 @@ recruit_character = NEE_george_murray
 recruit_character = NEE_harold_lee_george
 
 add_ideas = {
-	NEE_reluctant_populace1
-	NEE_limited_recognation1
-	volunteer_only
 }
 
 set_variable = {

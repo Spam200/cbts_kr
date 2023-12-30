@@ -33,9 +33,6 @@ set_war_support = 0.5
 add_political_power = 10
 
 add_ideas = {
-	limited_conscription
-	isolation
-	ETS_amateur_bureaucrats
 }
 
 set_variable = { ETS_fledgling_military_army_morale_factor = -0.2 }

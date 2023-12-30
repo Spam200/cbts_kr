@@ -33,13 +33,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	isolation
-	limited_exports
-
-	TIB_struggle_tibet
-	TIB_monastic_governance
-	TIB_dob_dobs_trad
-	TIB_serfdom
 }
 
 set_variable = { var = yushu_control value = 40 }

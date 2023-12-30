@@ -64,10 +64,6 @@ if = {
 }
 
 add_ideas = {
-	GEO_treaty_of_poti_idea
-	GEO_minority_problem
-
-	limited_conscription
 }
 
 set_politics = {

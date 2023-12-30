@@ -28,8 +28,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	HAW_great_strike_idea
-	HAW_political_chaos_idea
 }
 
 ### Country Leaders ###

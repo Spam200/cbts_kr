@@ -139,14 +139,6 @@ set_popularities = {
 
  ### Laws ###
 add_ideas = {
-	free_trade
-	limited_conscription
-
-	UKR_unfinished_revolution
-	UKR_halted_industrialisation_plans
-	UKR_strong_agrarian_economy
-	UKR_land_reform_debacle
-	german-ukrainian_railways
 }
 
 #country_event = { id = ukraine.2 days = 45 }

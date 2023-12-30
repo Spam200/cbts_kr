@@ -240,10 +240,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	limited_conscription
-	NFA_anti_communard
-	NFA_native_unrest_2
-	NFA_internal_unrest
 }
 
 add_timed_idea = {

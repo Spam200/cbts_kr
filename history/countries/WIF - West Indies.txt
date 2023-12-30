@@ -145,12 +145,6 @@ add_dynamic_modifier = {
 }
 
 add_ideas = {
-	volunteer_only
-
-	WIF_cayenne_agreement
-	WIF_young_army
-	WIF_economic_downfall
-	WIF_angereffect_idea
 }
 
 WIF_evaluate_anger = yes

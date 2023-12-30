@@ -33,9 +33,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	pal_moj
-	pal_alijah
-	pal_sectarian_divide
 }
 
 country_lock_all_division_template = yes

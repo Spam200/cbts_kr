@@ -16,12 +16,6 @@ set_politics = {
 }
 
 add_ideas = {
-	partial_economic_mobilisation
-	limited_exports
-	extensive_conscription
-
-	KDR_Religious_Fevour
-	KDR_Irregular_Army
 }
 
 set_popularities = {

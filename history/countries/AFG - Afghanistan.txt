@@ -11,8 +11,6 @@ set_technology = {
 }
 
 add_ideas = {
-	limited_conscription
-	limited_exports
 }
 
 set_stability = 0.5

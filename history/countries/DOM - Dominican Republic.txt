@@ -74,9 +74,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	volunteer_only
-	DOM_depression
-	DOM_angryrich
 }
 
 activate_targeted_decision = { target = HAI decision = HAI_bribe_officials }

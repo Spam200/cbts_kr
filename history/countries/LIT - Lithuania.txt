@@ -60,7 +60,6 @@ set_variable = { country_intro_page_count = 2 }
 #country_event = { id = LITFLA.21 days = 492 } #Basketball !!!
 
 add_ideas = {
-	limited_conscription
 
 
 }

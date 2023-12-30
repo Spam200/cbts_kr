@@ -112,13 +112,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	FNG_Backward_Industry
-	FNG_Investment_Dearth
-	FNG_The_Kwantung_Army
-	FNG_mantetsu_influence_idea
-	FNG_Regionalist_Sentiment
-
-	unequal_treaties_japan
 }
 china_add_poor_army = yes
 

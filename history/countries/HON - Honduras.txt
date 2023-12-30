@@ -47,11 +47,6 @@ set_popularities = {
 add_opinion_modifier = { target = NIC modifier = NIC_revolutionary_threat }
 
 add_ideas = {
-	limited_conscription
-	CEN_monroe_doctrine
-	HON_peasant_republic
-	HON_december_revolution
-	HON_great_purge
 }
 
 #country_event = { id = cafla.18 days = 258 }

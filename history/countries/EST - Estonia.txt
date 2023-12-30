@@ -80,10 +80,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	LAT_EST_roads_to_riga_1
-	EST_agrarian_issue_1
-
-	limited_conscription
 }
 
 ### Country Leaders ###

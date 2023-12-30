@@ -134,12 +134,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	#laws
-	limited_exports
-
-	# National Spirits
-	MEX_revolution_economic
-	MEX_revolution_military
 }
 
 ### Country Leaders ###

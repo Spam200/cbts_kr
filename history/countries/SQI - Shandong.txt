@@ -52,10 +52,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	SQI_Rampant_drug_trade
-	SQI_flight_north
-
-	unequal_treaties
 }
 country_lock_all_division_template = yes
 china_add_poor_army = yes

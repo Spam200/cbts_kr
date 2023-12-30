@@ -77,10 +77,6 @@ random_list = {
 }
 
 add_ideas = {
-	INC_Guerilla_Tradition
-	INC_vietminh
-	INC_poor_army_idea_1
-	INC_apathetic_people_idea_1
 }
 
 ### Leaders ###

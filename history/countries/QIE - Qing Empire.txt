@@ -91,11 +91,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	QIE_fractured_empire
-	QIE_big_debt
-	QIE_leadership_crisis
-
-	unequal_treaties
 }
 china_add_poor_army = yes
 

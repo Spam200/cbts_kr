@@ -37,9 +37,6 @@ set_popularities = {
 	national_populist = 14
 }
 add_ideas = {
-	SOM_iron_fist_of_warsangali
-	SOM_foodplease
-	limited_conscription
 }
 
 ### Country Leaders ###

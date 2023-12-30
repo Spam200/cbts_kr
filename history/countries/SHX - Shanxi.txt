@@ -18,13 +18,6 @@ set_technology = {
 }
 
 add_ideas = {
-	SHX_strict_neutrality
-	SHX_underdeveloped_mountain_economy
-	SHX_dual_armies
-	SHX_unfinished_education
-	SHX_agriculture_reform
-
-	unequal_treaties_lesser
 }
 china_add_poor_army = yes
 

@@ -39,11 +39,6 @@ set_stability = 0.39
 set_war_support = 0.29
 
 add_ideas = {
-	SIK_pushing_edge
-	SIK_opium_addiction
-
-	limited_conscription
-	unequal_treaties_lesser
 }
 china_add_poor_army = yes
 

@@ -56,9 +56,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	HNN_a_democratic_province
-
-	unequal_treaties
 }
 china_add_poor_army = yes
 

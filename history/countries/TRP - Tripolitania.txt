@@ -38,10 +38,6 @@ set_research_slots = 1
 set_convoys = 20
 
 add_ideas = {
-	civilian_economy
-	limited_exports
-	limited_conscription
-	TRP_Decentralised_Disorder
 
 }
 

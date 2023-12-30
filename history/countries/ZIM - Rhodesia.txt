@@ -12,9 +12,6 @@ set_politics = {
 	elections_allowed = no
 }
 add_ideas = {
-	war_economy
-	limited_exports
-	ZIM_segregation_3
 }
 
 set_popularities = {

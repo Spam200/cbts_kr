@@ -137,9 +137,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	limited_conscription
-
-	SIA_bloated_bureaucracy
 }
 
 ### Country events

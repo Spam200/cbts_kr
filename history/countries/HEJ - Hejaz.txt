@@ -29,9 +29,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	HEJ_urban_disputes1_idea
-	HEJ_home_islam_idea
-	HEJ_ottoman_civil_service_idea
 }
 
 recruit_character = HEJ_abdullah_bin_al_hussein

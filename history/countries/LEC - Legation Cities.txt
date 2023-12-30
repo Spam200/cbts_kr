@@ -125,10 +125,6 @@ TRM = { LEC_add_to_legation_council_observer = yes }
 #country_event = { id = lec.154 days = 1150 }
 
 add_ideas = {
-	LEC_neutrality
-	LEC_volunteer_force
-	LEC_currency_6
-	free_trade
 }
 
 set_variable = { LEC_currency_reserves = 6 }

@@ -107,15 +107,6 @@ set_popularities = {
 
 ### Ideas ###
 add_ideas = {
-	#Laws
-	volunteer_only
-
-	#Ideas
-	POL_german_control2
-	POL_austrian_assets2
-	POL_issues_at_hand
-	POL_polarised_society_1
-	POL_professional_army_1
 
 }
 set_cosmetic_tag = POL_kingdom

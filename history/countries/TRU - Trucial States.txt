@@ -30,8 +30,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	limited_conscription
-	isolation
 }
 
 recruit_character = TRU_hamad_bin_isa_al_khalifa

@@ -120,8 +120,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	PRF_rule_of_princes_1
-	PRF_backwards_economy_1
 }
 
 ### Country Leaders ###

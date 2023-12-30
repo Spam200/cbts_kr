@@ -42,10 +42,6 @@ save_global_event_target_as = original_sweden
 #country_event = { id = swe_flavor.16 days = 3187 } #New Malmö Theatre Opens
 
 add_ideas = {
-	SWE_conservative_army_idea_1
-	SWE_statare_idea
-	SWE_political_instability_idea
-	limited_conscription
 }
 
 set_technology = {

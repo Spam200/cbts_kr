@@ -48,11 +48,6 @@ if = {
 }
 
 add_ideas = {
-	disarmed_nation
-	ICE_Personal_Union
-	ICE_ailing_economy
-	ICE_CWCS
-	ICE_Guttoslagurinn
 }
 
 DEN = {

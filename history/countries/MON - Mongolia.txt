@@ -47,12 +47,6 @@ set_variable = { country_intro_page_count = 1 } #Intro screen
 #country_event = { id = mon.103 days = 10 }
 
 add_ideas = {
-	limited_conscription
-
-	MON_nomadic_society
-	MON_scourge_of_the_steppes_idea
-	MON_russian_eco_aid
-	MON_jebtsundamba_khutuktu_idea
 }
 
 recruit_character = MON_khorloogiin_choibalsan

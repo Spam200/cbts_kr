@@ -54,10 +54,6 @@ set_popularities = {
 	national_populist = 6
 }
 add_ideas = {
-	LEB_economic_upheaval
-	LEB_legacy_of_the_mutasarrifate
-	LEB_ethnic_and_sectarian_divides
-	LEB_corruption_level_3
 }
 
 ### Party Leaders

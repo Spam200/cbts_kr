@@ -23,7 +23,5 @@ set_popularities = {
 }
 
 add_ideas = {
-	extensive_conscription
-	war_economy
 }
 

@@ -5,11 +5,6 @@ set_research_slots = 2
 set_war_support = 0.25
 
 add_ideas = {
-	DEI_idea_colonial_nation
-	DEI_idea_insulindian_unity_low
-	DEI_idea_insulindian_strength_very_low
-	DEI_idea_defunct_army
-	free_trade
 }
 
 set_country_flag = { flag = dei_insulindian_unity value = 7 }

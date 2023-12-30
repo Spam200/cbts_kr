@@ -91,12 +91,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	volunteer_only
-	free_trade
-	SER_treaty_of_wartholz
-	SER_secret_rearmament
-	SER_scarred_nation_1
-	SER_konspiracija_idea
 }
 add_dynamic_modifier = {
 	modifier = SER_konspiracija_dynamic_modifier

@@ -150,9 +150,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	BEL_King_Exile
-	BEL_Language_Trouble
-	BEL_anti_german_sentiment3
 }
 
 ### Country Leaders

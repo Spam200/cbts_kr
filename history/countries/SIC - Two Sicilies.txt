@@ -144,8 +144,6 @@ set_country_flag = CORSICA_CONQ
 set_country_flag = TICINO_CONQ
 
 add_ideas = {
-	SIC_shipyard_profits
-	SIC_pretty_much_feudalism
 }
 
 set_politics = {

@@ -12,9 +12,6 @@ set_stability = 0.5
 set_war_support = 0.2
 
 add_ideas = {
-	KAC_disorg_army
-	limited_conscription
-	low_economic_mobilisation
 }
 
 set_politics = {

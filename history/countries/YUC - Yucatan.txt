@@ -24,11 +24,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	# Laws
-	limited_exports
-
-	# National Spirits
-	YUC_defense_of_yucatan
 }
 
 ### Country Leaders ###

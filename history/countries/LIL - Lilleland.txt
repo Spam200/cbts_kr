@@ -11,9 +11,6 @@ set_politics = {
 }
 
 add_ideas = {
-	free_trade
-	disarmed_nation
-	GER_lille_protectorate
 }
 
 set_popularities = {

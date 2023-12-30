@@ -127,11 +127,6 @@ if = {
 }
 
 add_ideas = {
-	#starting modifiers
-	AST_oversized_fleet
-	AST_depression_1
-	AST_bled_dry
-	AST_anzac_spirit_1
 }
 
 set_variable = { country_intro_page_count = 1 } #Intro screen

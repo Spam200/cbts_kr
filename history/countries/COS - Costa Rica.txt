@@ -41,11 +41,6 @@ set_popularities = {
 #country_event = { id = cafla.18 days = 258 }
 
 add_ideas = {
-	disarmed_nation
-	free_trade
-	CEN_monroe_doctrine
-	COS_beacon_democracy
-	COS_labour_conflicts
 }
 
 activate_targeted_decision = { decision = CEN_unite_central_america target = THIS }

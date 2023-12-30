@@ -88,8 +88,6 @@ if = {
 }
 
 add_ideas = {
-	IRE_defence_of_the_republic
-	limited_conscription
 }
 
 set_variable = { ire_loyalist_tensions = 0 }

@@ -111,9 +111,6 @@ set_variable = { country_intro_page_count = 1 } #intro events moved to intro scr
 #country_event = { id = romania.198 days = 451 }
 
 add_ideas = {
-
-	free_trade
-	limited_conscription
 }
 
 set_politics = {

@@ -84,9 +84,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	limited_conscription
-	VEN_oil_addiction
-	VEN_foreign_oil_companies
 }
 
 #country_event = { id = ven.9 days = 75 }

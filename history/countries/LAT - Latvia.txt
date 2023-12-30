@@ -82,13 +82,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	LAT_dualism
-	LAT_desesperate_situation
-	LAT_disorganised_economy
-	LAT_army_0
-	LAT_remember_riga
-	LAT_EST_roads_to_riga_1
-	limited_conscription
 }
 
 ### Country Leaders ###

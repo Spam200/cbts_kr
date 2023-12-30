@@ -109,11 +109,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	FIN_sisu
-	FIN_mounting_dissent_idea
-	FIN_grain_issue_1
-
-	limited_conscription
 }
 
 ### Integration ###

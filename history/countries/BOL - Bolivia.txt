@@ -71,9 +71,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	#starting modifiers
-	BOL_Trash_Army
-	BOL_Struggling_Economy
 }
 
 ### Reparations are now added in history file (was in bol.6)

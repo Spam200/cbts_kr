@@ -124,10 +124,6 @@ set_popularities = {
 #country_event = { id = egy.149 days = 926 }
 
 add_ideas = {
-	EGY_backwards_economy_1
-	EGY_illiterate_populace
-	EGY_inexperinced_officer_corps
-	EGY_iqta
 }
 
 ### Country Leader

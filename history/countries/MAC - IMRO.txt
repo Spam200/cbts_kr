@@ -12,11 +12,6 @@ set_politics = {
 	elections_allowed = no
 }
 add_ideas = {
-	IMRO_idea
-	IMRO_no_diplomacy
-	war_economy
-	closed_economy
-	service_by_requirement
 }
 
 set_popularities = {

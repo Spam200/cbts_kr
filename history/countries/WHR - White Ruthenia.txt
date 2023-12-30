@@ -96,14 +96,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	#Ideas
-	WHR_mass_illiteracy
-	WHR_agrarian_society
-	WHR_weak_national_identity
-	WHR_Jewish_Bund_idea
-
-	#Laws
-	limited_conscription
 }
 
 ### Integration ###

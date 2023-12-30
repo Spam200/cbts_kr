@@ -91,12 +91,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	CUB_partial_great_depression
-	CUB_american_influence
-	CUB_mixed_regime
-	gitmo_lease_idea
-	free_trade
-	limited_conscription
 }
 
 ### Country Leaders ###

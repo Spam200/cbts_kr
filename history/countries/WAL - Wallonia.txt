@@ -24,8 +24,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	WAL_ECONOMIC_TROUBLE
-	WAL_ARMY_RUINED
 }
 
 recruit_character = BEL_julien_lahaut

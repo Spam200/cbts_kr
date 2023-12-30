@@ -126,8 +126,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	HND_divided_government
-	HND_backwards_economy_1
 }
 
 ### Country Leaders ###

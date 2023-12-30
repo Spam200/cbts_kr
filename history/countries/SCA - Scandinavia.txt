@@ -5,9 +5,6 @@ set_stability = 0.4
 set_war_support = 0.4
 
 add_ideas = {
-	SCA_nordic_neutrality
-	SCA_conflicting_governmental_services_idea
-	SCA_Federal_Navy_idea
 }
 
 set_politics = {

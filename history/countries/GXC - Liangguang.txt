@@ -69,10 +69,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	GXC_divided_military
-	GXC_backwards_guangxi
-
-	unequal_treaties
 }
 china_add_poor_army = yes
 

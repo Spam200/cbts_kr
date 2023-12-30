@@ -105,9 +105,6 @@ if = {
 }
 
 add_ideas = {
-	HOL_idea_ambtenarenverbod
-	limited_conscription
-	free_trade
 }
 
 set_politics = {

@@ -112,9 +112,6 @@ CHL = { embargo_ROOT = yes }
 set_variable = { ECU_PRU_tension = 0 }
 
 add_ideas = {
-	PRU_caudillo_rip
-	PRU_militant_socialists
-	PRU_guardia_monotera
 }
 
 recruit_character = PRU_gamaliel_churata

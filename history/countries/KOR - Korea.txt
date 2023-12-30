@@ -45,10 +45,6 @@ set_popularities = {
 	national_populist = 0
 }
 add_ideas = {
-	KOR_low_literacy_rate
-	KOR_scarred_nation
-	KOR_social_hierarchy
-	KOR_political_violence
 }
 
 ### Country Leaders ###

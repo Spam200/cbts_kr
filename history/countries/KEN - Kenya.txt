@@ -8,8 +8,6 @@ set_technology = {
 }
 
 add_ideas = {
-	war_economy
-	limited_exports
 }
 
 set_politics = {

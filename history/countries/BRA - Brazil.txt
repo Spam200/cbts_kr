@@ -165,10 +165,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	BRA_election_year
-	BRA_decentralisation
-	BRA_wake_of_civil_war
-	BRA_state_armies1
 }
 
 ### Country Leaders ###

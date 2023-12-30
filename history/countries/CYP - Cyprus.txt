@@ -61,8 +61,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	CYP_revolt
-	CYP_turkish_cypriots
 }
 
 recruit_character = CYP_leontios_ii

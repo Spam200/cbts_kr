@@ -114,8 +114,6 @@ set_variable = { country_intro_page_count = 2 } # Intro Events
 india_ignore_claims_until_unification = yes
 
 add_ideas = {
-	RAJ_princely_power
-	RAJ_backwards_economy_1
 }
 
 add_offsite_building = { type = arms_factory level = 3 }

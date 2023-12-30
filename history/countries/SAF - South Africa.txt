@@ -134,9 +134,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	SAF_segregation_3
-	SAF_wavering_dominion
-	SAF_idea_slavery
 }
 
 add_opinion_modifier = { target = GER modifier = KR_trade_agreement }

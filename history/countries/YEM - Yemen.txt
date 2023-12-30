@@ -44,9 +44,6 @@ set_popularities = {
 set_convoys = 35
 
 add_ideas = {
-	YEM_Ottoman_Rule
-	YEM_Old_Army
-	YEM_Anarchy
 }
 
 ### Country Leaders ###

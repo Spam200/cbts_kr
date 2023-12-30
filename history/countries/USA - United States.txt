@@ -127,8 +127,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	# laws
-	free_trade
 }
 
 set_country_flag = USA_companies_allowed_industrial

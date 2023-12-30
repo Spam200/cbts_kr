@@ -148,8 +148,6 @@ add_ai_strategy = {
 }
 
 add_ideas = {
-	limited_conscription
-	SRD_entente_support_1
 }
 
 set_politics = {

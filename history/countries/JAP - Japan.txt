@@ -167,14 +167,6 @@ news_event = { id = worldnews.483 days = 1688 } # 1940 Olympics
 #country_event = { id = japdom.58 days = 2591 } #Hayashi Senjuro is dead!
 
 add_ideas = {
-	#Ideas
-	JAP_narrow_rail
-	JAP_bad_land
-	FNG_mantetsu_profits
-
-	#Laws
-	limited_conscription
-	limited_exports
 }
 
 add_dynamic_modifier = {

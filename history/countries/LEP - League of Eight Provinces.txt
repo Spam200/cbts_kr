@@ -65,12 +65,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	LEP_Conspicuous_Kleptocracy
-	LEP_Nanking_Kommission
-	LEP_Tsingtau_Collaboration2
-
-	LEP_units_bonus
-	unequal_treaties
 }
 china_add_poor_army = yes
 

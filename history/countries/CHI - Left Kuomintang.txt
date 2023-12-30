@@ -113,13 +113,6 @@ create_equipment_variant = {
 
 ###- Ideas -###
 add_ideas = {
-	limited_exports
-	volunteer_only
-	partial_economic_mobilisation
-	KR_CHI_popular_support_1
-	###KR_CHI_start_army - non existant idea - ###Lookover this###
-	unequal_treaties
-	CHI_insurgent_army_idea_1
 }
 china_add_poor_army = yes
 

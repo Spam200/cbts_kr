@@ -137,8 +137,6 @@ create_dynamic_country = {
 	}
 
 	add_ideas = {
-		limited_conscription
-		partial_economic_mobilisation
 	}
 
 	add_equipment_to_stockpile = {
@@ -272,8 +270,6 @@ create_dynamic_country = {
 	}
 
 	add_ideas = {
-		limited_conscription
-		partial_economic_mobilisation
 	}
 
 	add_equipment_to_stockpile = {
@@ -387,9 +383,6 @@ set_popularities = {
 #country_event = { id = sprd.21 days = 300 }
 
 add_ideas = {
-	volunteer_only
-	SPA_social_breakdown
-	SPA_memories_of_the_republic
 }
 
 ### Dummy Leaders ###

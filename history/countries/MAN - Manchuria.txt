@@ -36,6 +36,4 @@ MAN_fu_shuangying = {
 #Ideas
 china_add_poor_army = yes
 add_ideas = {
-	FNG_Backward_Industry
-	FNG_Investment_Dearth
 }

@@ -38,9 +38,6 @@ if = {
 }
 
 add_ideas = {
-	extensive_conscription
-	PAR_military_pensions_idea
-	PAR_military_influence_idea
 }
 
 set_politics = {

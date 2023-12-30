@@ -41,10 +41,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	ETH_Debt_idea_1
-	ETH_Aristocratic_Army
-	ETH_Slavery_idea
-	ETH_Levy_Army
 }
 
 ### Relations ###

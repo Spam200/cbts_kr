@@ -50,11 +50,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	CEN_monroe_doctrine
-	GUA_socialist_compensation
-	GUA_united_fruit
-	limited_conscription
-	GUA_illiteracy
 }
 
 set_variable = { var = UFC_power value = 50 }

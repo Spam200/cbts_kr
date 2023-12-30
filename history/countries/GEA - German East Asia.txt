@@ -189,10 +189,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	GEA_colonial_question
-	free_trade
-	GEA_AOG_bonus_idea
-	GEA_arm_of_the_german_empire
 }
 
 add_dynamic_modifier = { modifier = GEA_AOG_BONUS }

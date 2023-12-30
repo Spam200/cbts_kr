@@ -71,13 +71,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	HAI_precarious_governance
-	HAI_crippling_illiteracy
-	HAI_foreign_control
-	HAI_border_clashes_idea
-
-	free_trade
-	limited_conscription
 }
 
 #country_event = { id = hai_cal.14 days = 550 random_hours = 25 }
