@@ -2,20 +2,20 @@ characters = {
 	#######################
 	### Country Leaders ###
 	#######################
-	SOV_karl_radek = {
+	SOV_joseph_stalin = {
 		instance = {
 			allowed = { has_dlc_lar = yes }
-			name = RUS_karl_radek
+			name = SOV_joseph_stalin
 			portraits = {
 				civilian = {
-					large = "gfx/leaders/RUS/Portrait_RUS_Karl_Radek.png"
-					small = "gfx/interface/advisors/SOV/SOV_karl_radek.png"
+					large = "gfx/leaders/SOV/Portrait_Soviet_Josef_Stalin.png"
+					small = "gfx/interface/advisors/SOV/SOV_iosib_dzugashvili.png"
 				}
 			}
 			country_leader = {
-				desc = RUS_karl_radek_leader_desc
+				desc = SOV_joseph_stalin_commander_desc
 				ideology = totalist_subtype
-				traits = { RUS_relentless_revolutionary }
+				traits = {  }
 			}
 			advisor = {
 				slot = political_advisor
@@ -25,32 +25,32 @@ characters = {
 					has_socialist_government = yes
 					is_country_leader = no
 				}
-				traits = { RUS_relentless_revolutionary }
+				traits = {  }
 			}
 		}
 		instance = {
 			allowed = { has_dlc_lar = no }
-			name = RUS_karl_radek
+			name = SOV_joseph_stalin
 			portraits = {
 				civilian = {
 					large = "gfx/leaders/RUS/Portrait_RUS_Karl_Radek.png"
-					small = "gfx/interface/advisors/SOV/SOV_karl_radek.png"
+					small = "gfx/interface/advisors/SOV/SOV_iosib_dzugashvili.png"
 				}
 			}
 			country_leader = {
-				desc = RUS_karl_radek_leader_desc
+				desc = SOV_joseph_stalin_commander_desc
 				ideology = totalist_subtype
-				traits = { RUS_relentless_revolutionary_no_lar }
+				traits = {  }
 			}
 			advisor = {
 				slot = political_advisor
-				idea_token = RUS_karl_radek
+				idea_token = SOV_joseph_stalin
 				visible = { has_country_flag = RUS_show_socialists }
 				available = {
 					has_socialist_government = yes
 					is_country_leader = no
 				}
-				traits = { RUS_relentless_revolutionary_no_lar }
+				traits = {  }
 			}
 		}
 	}
@@ -1485,16 +1485,16 @@ characters = {
 			logistics_skill = 2
 		}
 	}
-	SOV_iosib_dzugashvili = {
-		name = RUS_iosib_dzugashvili
+	SOV_karl_radek = {
+		name = SOV_karl_radek
 		portraits = {
 			army = {
-				large = "gfx/leaders/RUS/Portrait_RUS_Iosib_Dzugashvili.png"
+				large = "gfx/leaders/RUS/Portrait_karl_radek.png"
 				small = "gfx/interface/advisors/SOV/SOV_iosib_dzugashvili.png"
 			}
 		}
 		corps_commander = {
-			desc = RUS_iosib_dzugashvili_commander_desc
+			desc = SOV_karl_radek_commander_desc
 			traits = {
 				harsh_leader
 				organizer

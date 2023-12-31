@@ -240,7 +240,7 @@ add_ai_strategy = {
 }
 
 ### Country Leaders ###
-recruit_character = SOV_karl_radek
+recruit_character = SOV_joseph_stalin
 recruit_character = SOV_yakov_sverdlov
 recruit_character = SOV_grigory_zinoviev
 recruit_character = SOV_aleksandra_kollontai

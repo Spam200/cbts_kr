@@ -216,8 +216,8 @@ RUS = {
 	color_ui = rgb { 0 127 14 }
 }
 SOV = {
-	color = rgb { 0 127 14 }
-	color_ui = rgb { 0 127 14 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 163 17 31 }
 }
 SCA = {
 	color = rgb { 36 100 247 }
