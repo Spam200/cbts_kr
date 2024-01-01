@@ -1,6 +1,7 @@
 ### Majors ###
 USA = "countries/WestEur.txt"
 IMP = "countries/WestEur.txt" #can be Canada or the UK
+CAN = "countries/WestEur.txt"
 NFA = "countries/WestEur.txt"
 FRA = "countries/WestEur.txt"
 ENG = "countries/WestEur.txt"

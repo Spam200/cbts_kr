@@ -75,14 +75,14 @@ BLG = {
 }
 
 ### Entente Brits
-CAN = {
-	original_tag = IMP
-	has_country_flag = IMP_is_canada
-}
-GBR = {
-	original_tag = IMP
-	has_country_flag = IMP_is_britain
-}
+###CAN = {
+###	original_tag = IMP
+###	has_country_flag = IMP_is_canada
+###}
+###GBR = {
+###	original_tag = IMP
+###	has_country_flag = IMP_is_britain
+###}
 
 ### Germany in Exile
 GEX = {

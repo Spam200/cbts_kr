@@ -39,6 +39,10 @@ BUL = {
 	color = rgb { 51 155 0 }
 	color_ui = rgb { 51 155 0 }
 }
+CAN = {
+	color = rgb { 119 48 39 }
+	color_ui = rgb { 155 62 51 }
+}
 CAT = {
 	color = rgb { 255 128 0 }
 	color_ui = rgb { 255 128 0 }
@@ -558,8 +562,8 @@ ANQ = {
 	color_ui = rgb { 222 247 198 }
 }
 CHI = {
-	color = rgb { 245 12 55 }
-	color_ui = rgb { 245 12 55 }
+	color = rgb { 0 89 132 }
+	color_ui = rgb { 0 89 132 }
 }
 ETS = {
 	color = rgb { 71 178 224 }
